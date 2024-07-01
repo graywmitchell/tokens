@@ -155,7 +155,7 @@
       }
     }
   },
-  "Brand/all": {
+  "Brand/All variables": {
     "type": {
       "transform": {
         "uppercase": {
@@ -2261,7 +2261,7 @@
     "tokenSetOrder": [
       "Theme/Light",
       "Theme/Dark",
-      "Brand/all",
+      "Brand/All variables",
       "Responsive/Mobil",
       "Responsive/Tablet",
       "Responsive/Laptop",
