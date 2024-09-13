@@ -490,64 +490,68 @@
         }
       },
       "font-size": {
-        "100": {
+        "50": {
           "value": "10",
           "type": "number"
         },
-        "150": {
+        "100": {
           "value": "12",
           "type": "number"
         },
-        "200": {
+        "150": {
           "value": "14",
           "type": "number"
         },
-        "250": {
+        "200": {
           "value": "16",
           "type": "number"
         },
-        "300": {
+        "250": {
           "value": "18",
           "type": "number"
         },
-        "350": {
+        "300": {
           "value": "20",
           "type": "number"
         },
-        "400": {
+        "350": {
           "value": "24",
           "type": "number"
         },
-        "450": {
+        "400": {
           "value": "28",
           "type": "number"
         },
-        "500": {
+        "450": {
           "value": "32",
           "type": "number"
         },
-        "550": {
+        "500": {
           "value": "36",
           "type": "number"
         },
-        "600": {
+        "550": {
           "value": "44",
           "type": "number"
         },
-        "650": {
+        "600": {
           "value": "48",
           "type": "number"
         },
-        "700": {
+        "650": {
           "value": "56",
           "type": "number"
         },
-        "750": {
+        "700": {
           "value": "68",
           "type": "number"
         },
-        "800": {
+        "750": {
           "value": "80",
+          "type": "number"
+        },
+        "800": {
+          "value": "88",
           "type": "number"
         }
       },
@@ -1197,27 +1201,27 @@
       "type": "text"
     },
     "radius": {
-      "small": {
-        "value": "{radius.400}",
-        "type": "number"
-      },
-      "medium": {
-        "value": "{radius.500}",
-        "type": "number"
-      },
-      "large": {
-        "value": "{radius.600}",
-        "type": "number"
-      },
-      "round": {
-        "value": "{radius.1000}",
-        "type": "number"
-      },
-      "square": {
+      "none": {
         "value": "{radius.0}",
         "type": "number"
       },
-      "non-responsive": {
+      "sm": {
+        "value": "{radius.400}",
+        "type": "number"
+      },
+      "md": {
+        "value": "{radius.500}",
+        "type": "number"
+      },
+      "lg": {
+        "value": "{radius.600}",
+        "type": "number"
+      },
+      "max": {
+        "value": "{radius.1000}",
+        "type": "number"
+      },
+      "static": {
         "value": "{radius.300}",
         "type": "number"
       }
@@ -1242,136 +1246,50 @@
     },
     "type": {
       "size": {
-        "heading": {
-          "sm": {
-            "value": "{type.font-size.300}",
-            "type": "number"
-          },
-          "md": {
-            "value": "{type.font-size.400}",
-            "type": "number"
-          },
-          "lg": {
-            "value": "{type.font-size.500}",
-            "type": "number"
-          },
-          "xl": {
-            "value": "{type.font-size.600}",
-            "type": "number"
-          },
-          "2xl": {
-            "value": "{type.font-size.700}",
-            "type": "number"
-          },
-          "3xl": {
-            "value": "{type.font-size.800}",
-            "type": "number"
-          }
+        "xs": {
+          "value": "{type.font-size.100}",
+          "type": "number"
         },
-        "eyebrow": {
-          "sm": {
-            "value": "{type.font-size.150}",
-            "type": "number"
-          },
-          "md": {
-            "value": "{type.font-size.200}",
-            "type": "number"
-          },
-          "lg": {
-            "value": "{type.font-size.250}",
-            "type": "number"
-          }
+        "sm": {
+          "value": "{type.font-size.200}",
+          "type": "number"
         },
-        "subheading": {
-          "sm": {
-            "value": "{type.font-size.300}",
-            "type": "number"
-          },
-          "md": {
-            "value": "{type.font-size.350}",
-            "type": "number"
-          },
-          "lg": {
-            "value": "{type.font-size.450}",
-            "type": "number"
-          },
-          "xl": {
-            "value": "{type.font-size.550}",
-            "type": "number"
-          },
-          "2xl": {
-            "value": "{type.font-size.650}",
-            "type": "number"
-          },
-          "3xl": {
-            "value": "{type.font-size.750}",
-            "type": "number"
-          }
+        "md": {
+          "value": "{type.font-size.300}",
+          "type": "number"
         },
-        "paragraph": {
-          "sm": {
-            "value": "{type.font-size.150}",
-            "type": "number"
-          },
-          "md": {
-            "value": "{type.font-size.200}",
-            "type": "number"
-          },
-          "lg": {
-            "value": "{type.font-size.250}",
-            "type": "number"
-          }
+        "lg": {
+          "value": "{type.font-size.400}",
+          "type": "number"
         },
-        "label": {
-          "sm": {
-            "value": "{type.font-size.150}",
-            "type": "number"
-          },
-          "md": {
-            "value": "{type.font-size.200}",
-            "type": "number"
-          },
-          "lg": {
-            "value": "{type.font-size.250}",
-            "type": "number"
-          },
-          "xl": {
-            "value": "{type.font-size.300}",
-            "type": "number"
-          },
-          "2xl": {
-            "value": "{type.font-size.600}",
-            "type": "number"
-          }
-        }
-      },
-      "line-height": {
-        "paragraph": {
-          "sm": {
-            "value": "{type.line-height.100 (150%)}",
-            "type": "number"
-          },
-          "md": {
-            "value": "{type.line-height.200 (150%)}",
-            "type": "number"
-          },
-          "lg": {
-            "value": "{type.line-height.300 (150%)}",
-            "type": "number"
-          }
-        }
-      }
-    },
-    "components": {
-      "banner": {
-        "padding": {
-          "value": "{spacing.800}",
+        "xl": {
+          "value": "{type.font-size.500}",
+          "type": "number"
+        },
+        "2xl": {
+          "value": "{type.font-size.600}",
+          "type": "number"
+        },
+        "3xl": {
+          "value": "{type.font-size.700}",
+          "type": "number"
+        },
+        "4xl": {
+          "value": "{type.font-size.800}",
           "type": "number"
         }
       },
-      "card": {
-        "padding": {
-          "value": "{spacing.500}",
+      "line-height": {
+        "sm": {
+          "value": "{type.line-height.100 (150%)}",
+          "type": "number"
+        },
+        "md": {
+          "value": "{type.line-height.200 (150%)}",
+          "type": "number"
+        },
+        "lg": {
+          "value": "{type.line-height.300 (150%)}",
           "type": "number"
         }
       }
@@ -1411,27 +1329,27 @@
       "type": "text"
     },
     "radius": {
-      "small": {
-        "value": "{radius.300}",
-        "type": "number"
-      },
-      "medium": {
-        "value": "{radius.400}",
-        "type": "number"
-      },
-      "large": {
-        "value": "{radius.500}",
-        "type": "number"
-      },
-      "round": {
-        "value": "{radius.1000}",
-        "type": "number"
-      },
-      "square": {
+      "none": {
         "value": "{radius.0}",
         "type": "number"
       },
-      "non-responsive": {
+      "sm": {
+        "value": "{radius.300}",
+        "type": "number"
+      },
+      "md": {
+        "value": "{radius.400}",
+        "type": "number"
+      },
+      "lg": {
+        "value": "{radius.500}",
+        "type": "number"
+      },
+      "max": {
+        "value": "{radius.1000}",
+        "type": "number"
+      },
+      "static": {
         "value": "{radius.300}",
         "type": "number"
       }
@@ -1456,136 +1374,50 @@
     },
     "type": {
       "size": {
-        "heading": {
-          "sm": {
-            "value": "{type.font-size.300}",
-            "type": "number"
-          },
-          "md": {
-            "value": "{type.font-size.400}",
-            "type": "number"
-          },
-          "lg": {
-            "value": "{type.font-size.500}",
-            "type": "number"
-          },
-          "xl": {
-            "value": "{type.font-size.600}",
-            "type": "number"
-          },
-          "2xl": {
-            "value": "{type.font-size.700}",
-            "type": "number"
-          },
-          "3xl": {
-            "value": "{type.font-size.800}",
-            "type": "number"
-          }
+        "xs": {
+          "value": "{type.font-size.100}",
+          "type": "number"
         },
-        "eyebrow": {
-          "sm": {
-            "value": "{type.font-size.150}",
-            "type": "number"
-          },
-          "md": {
-            "value": "{type.font-size.200}",
-            "type": "number"
-          },
-          "lg": {
-            "value": "{type.font-size.250}",
-            "type": "number"
-          }
+        "sm": {
+          "value": "{type.font-size.200}",
+          "type": "number"
         },
-        "subheading": {
-          "sm": {
-            "value": "{type.font-size.300}",
-            "type": "number"
-          },
-          "md": {
-            "value": "{type.font-size.350}",
-            "type": "number"
-          },
-          "lg": {
-            "value": "{type.font-size.450}",
-            "type": "number"
-          },
-          "xl": {
-            "value": "{type.font-size.550}",
-            "type": "number"
-          },
-          "2xl": {
-            "value": "{type.font-size.650}",
-            "type": "number"
-          },
-          "3xl": {
-            "value": "{type.font-size.750}",
-            "type": "number"
-          }
+        "md": {
+          "value": "{type.font-size.300}",
+          "type": "number"
         },
-        "paragraph": {
-          "sm": {
-            "value": "{type.font-size.150}",
-            "type": "number"
-          },
-          "md": {
-            "value": "{type.font-size.200}",
-            "type": "number"
-          },
-          "lg": {
-            "value": "{type.font-size.250}",
-            "type": "number"
-          }
+        "lg": {
+          "value": "{type.font-size.400}",
+          "type": "number"
         },
-        "label": {
-          "sm": {
-            "value": "{type.font-size.150}",
-            "type": "number"
-          },
-          "md": {
-            "value": "{type.font-size.200}",
-            "type": "number"
-          },
-          "lg": {
-            "value": "{type.font-size.250}",
-            "type": "number"
-          },
-          "xl": {
-            "value": "{type.font-size.400}",
-            "type": "number"
-          },
-          "2xl": {
-            "value": "{type.font-size.600}",
-            "type": "number"
-          }
-        }
-      },
-      "line-height": {
-        "paragraph": {
-          "sm": {
-            "value": "{type.line-height.100 (150%)}",
-            "type": "number"
-          },
-          "md": {
-            "value": "{type.line-height.200 (150%)}",
-            "type": "number"
-          },
-          "lg": {
-            "value": "{type.line-height.300 (150%)}",
-            "type": "number"
-          }
-        }
-      }
-    },
-    "components": {
-      "banner": {
-        "padding": {
-          "value": "{spacing.800}",
+        "xl": {
+          "value": "{type.font-size.500}",
+          "type": "number"
+        },
+        "2xl": {
+          "value": "{type.font-size.600}",
+          "type": "number"
+        },
+        "3xl": {
+          "value": "{type.font-size.700}",
+          "type": "number"
+        },
+        "4xl": {
+          "value": "{type.font-size.800}",
           "type": "number"
         }
       },
-      "card": {
-        "padding": {
-          "value": "{spacing.500}",
+      "line-height": {
+        "sm": {
+          "value": "{type.line-height.100 (150%)}",
+          "type": "number"
+        },
+        "md": {
+          "value": "{type.line-height.200 (150%)}",
+          "type": "number"
+        },
+        "lg": {
+          "value": "{type.line-height.300 (150%)}",
           "type": "number"
         }
       }
@@ -1625,27 +1457,27 @@
       "type": "text"
     },
     "radius": {
-      "small": {
-        "value": "{radius.200}",
-        "type": "number"
-      },
-      "medium": {
-        "value": "{radius.300}",
-        "type": "number"
-      },
-      "large": {
-        "value": "{radius.400}",
-        "type": "number"
-      },
-      "round": {
-        "value": "{radius.1000}",
-        "type": "number"
-      },
-      "square": {
+      "none": {
         "value": "{radius.0}",
         "type": "number"
       },
-      "non-responsive": {
+      "sm": {
+        "value": "{radius.200}",
+        "type": "number"
+      },
+      "md": {
+        "value": "{radius.300}",
+        "type": "number"
+      },
+      "lg": {
+        "value": "{radius.400}",
+        "type": "number"
+      },
+      "max": {
+        "value": "{radius.1000}",
+        "type": "number"
+      },
+      "static": {
         "value": "{radius.300}",
         "type": "number"
       }
@@ -1670,136 +1502,50 @@
     },
     "type": {
       "size": {
-        "heading": {
-          "sm": {
-            "value": "{type.font-size.300}",
-            "type": "number"
-          },
-          "md": {
-            "value": "{type.font-size.350}",
-            "type": "number"
-          },
-          "lg": {
-            "value": "{type.font-size.450}",
-            "type": "number"
-          },
-          "xl": {
-            "value": "{type.font-size.550}",
-            "type": "number"
-          },
-          "2xl": {
-            "value": "{type.font-size.650}",
-            "type": "number"
-          },
-          "3xl": {
-            "value": "{type.font-size.750}",
-            "type": "number"
-          }
+        "xs": {
+          "value": "{type.font-size.50}",
+          "type": "number"
         },
-        "eyebrow": {
-          "sm": {
-            "value": "{type.font-size.150}",
-            "type": "number"
-          },
-          "md": {
-            "value": "{type.font-size.200}",
-            "type": "number"
-          },
-          "lg": {
-            "value": "{type.font-size.250}",
-            "type": "number"
-          }
+        "sm": {
+          "value": "{type.font-size.150}",
+          "type": "number"
         },
-        "subheading": {
-          "sm": {
-            "value": "{type.font-size.200}",
-            "type": "number"
-          },
-          "md": {
-            "value": "{type.font-size.250}",
-            "type": "number"
-          },
-          "lg": {
-            "value": "{type.font-size.350}",
-            "type": "number"
-          },
-          "xl": {
-            "value": "{type.font-size.450}",
-            "type": "number"
-          },
-          "2xl": {
-            "value": "{type.font-size.550}",
-            "type": "number"
-          },
-          "3xl": {
-            "value": "{type.font-size.650}",
-            "type": "number"
-          }
+        "md": {
+          "value": "{type.font-size.250}",
+          "type": "number"
         },
-        "paragraph": {
-          "sm": {
-            "value": "{type.font-size.150}",
-            "type": "number"
-          },
-          "md": {
-            "value": "{type.font-size.200}",
-            "type": "number"
-          },
-          "lg": {
-            "value": "{type.font-size.250}",
-            "type": "number"
-          }
+        "lg": {
+          "value": "{type.font-size.350}",
+          "type": "number"
         },
-        "label": {
-          "sm": {
-            "value": "{type.font-size.150}",
-            "type": "number"
-          },
-          "md": {
-            "value": "{type.font-size.200}",
-            "type": "number"
-          },
-          "lg": {
-            "value": "{type.font-size.250}",
-            "type": "number"
-          },
-          "xl": {
-            "value": "{type.font-size.400}",
-            "type": "number"
-          },
-          "2xl": {
-            "value": "{type.font-size.600}",
-            "type": "number"
-          }
-        }
-      },
-      "line-height": {
-        "paragraph": {
-          "sm": {
-            "value": "{type.line-height.100 (150%)}",
-            "type": "number"
-          },
-          "md": {
-            "value": "{type.line-height.200 (150%)}",
-            "type": "number"
-          },
-          "lg": {
-            "value": "{type.line-height.300 (150%)}",
-            "type": "number"
-          }
-        }
-      }
-    },
-    "components": {
-      "banner": {
-        "padding": {
-          "value": "{spacing.700}",
+        "xl": {
+          "value": "{type.font-size.450}",
+          "type": "number"
+        },
+        "2xl": {
+          "value": "{type.font-size.550}",
+          "type": "number"
+        },
+        "3xl": {
+          "value": "{type.font-size.650}",
+          "type": "number"
+        },
+        "4xl": {
+          "value": "{type.font-size.750}",
           "type": "number"
         }
       },
-      "card": {
-        "padding": {
-          "value": "{spacing.400}",
+      "line-height": {
+        "sm": {
+          "value": "{type.line-height.100 (150%)}",
+          "type": "number"
+        },
+        "md": {
+          "value": "{type.line-height.200 (150%)}",
+          "type": "number"
+        },
+        "lg": {
+          "value": "{type.line-height.300 (150%)}",
           "type": "number"
         }
       }
@@ -1839,27 +1585,27 @@
       "type": "text"
     },
     "radius": {
-      "small": {
+      "none": {
+        "value": "{radius.sm}",
+        "type": "number"
+      },
+      "sm": {
         "value": "{radius.100}",
         "type": "number"
       },
-      "medium": {
+      "md": {
         "value": "{radius.200}",
         "type": "number"
       },
-      "large": {
+      "lg": {
         "value": "{radius.300}",
         "type": "number"
       },
-      "round": {
+      "max": {
         "value": "{radius.1000}",
         "type": "number"
       },
-      "square": {
-        "value": "{radius.small}",
-        "type": "number"
-      },
-      "non-responsive": {
+      "static": {
         "value": "{radius.300}",
         "type": "number"
       }
@@ -1884,136 +1630,50 @@
     },
     "type": {
       "size": {
-        "heading": {
-          "sm": {
-            "value": "{type.font-size.300}",
-            "type": "number"
-          },
-          "md": {
-            "value": "{type.font-size.350}",
-            "type": "number"
-          },
-          "lg": {
-            "value": "{type.font-size.450}",
-            "type": "number"
-          },
-          "xl": {
-            "value": "{type.font-size.550}",
-            "type": "number"
-          },
-          "2xl": {
-            "value": "{type.font-size.650}",
-            "type": "number"
-          },
-          "3xl": {
-            "value": "{type.font-size.750}",
-            "type": "number"
-          }
+        "xs": {
+          "value": "{type.font-size.50}",
+          "type": "number"
         },
-        "eyebrow": {
-          "sm": {
-            "value": "{type.font-size.150}",
-            "type": "number"
-          },
-          "md": {
-            "value": "{type.font-size.200}",
-            "type": "number"
-          },
-          "lg": {
-            "value": "{type.font-size.250}",
-            "type": "number"
-          }
+        "sm": {
+          "value": "{type.font-size.150}",
+          "type": "number"
         },
-        "subheading": {
-          "sm": {
-            "value": "{type.font-size.200}",
-            "type": "number"
-          },
-          "md": {
-            "value": "{type.font-size.250}",
-            "type": "number"
-          },
-          "lg": {
-            "value": "{type.font-size.350}",
-            "type": "number"
-          },
-          "xl": {
-            "value": "{type.font-size.450}",
-            "type": "number"
-          },
-          "2xl": {
-            "value": "{type.font-size.550}",
-            "type": "number"
-          },
-          "3xl": {
-            "value": "{type.font-size.650}",
-            "type": "number"
-          }
+        "md": {
+          "value": "{type.font-size.250}",
+          "type": "number"
         },
-        "paragraph": {
-          "sm": {
-            "value": "{type.font-size.150}",
-            "type": "number"
-          },
-          "md": {
-            "value": "{type.font-size.200}",
-            "type": "number"
-          },
-          "lg": {
-            "value": "{type.font-size.250}",
-            "type": "number"
-          }
+        "lg": {
+          "value": "{type.font-size.350}",
+          "type": "number"
         },
-        "label": {
-          "sm": {
-            "value": "{type.font-size.150}",
-            "type": "number"
-          },
-          "md": {
-            "value": "{type.font-size.200}",
-            "type": "number"
-          },
-          "lg": {
-            "value": "{type.font-size.250}",
-            "type": "number"
-          },
-          "xl": {
-            "value": "{type.font-size.400}",
-            "type": "number"
-          },
-          "2xl": {
-            "value": "{type.font-size.600}",
-            "type": "number"
-          }
-        }
-      },
-      "line-height": {
-        "paragraph": {
-          "sm": {
-            "value": "{type.line-height.100 (150%)}",
-            "type": "number"
-          },
-          "md": {
-            "value": "{type.line-height.200 (150%)}",
-            "type": "number"
-          },
-          "lg": {
-            "value": "{type.line-height.300 (150%)}",
-            "type": "number"
-          }
-        }
-      }
-    },
-    "components": {
-      "banner": {
-        "padding": {
-          "value": "{spacing.600}",
+        "xl": {
+          "value": "{type.font-size.450}",
+          "type": "number"
+        },
+        "2xl": {
+          "value": "{type.font-size.550}",
+          "type": "number"
+        },
+        "3xl": {
+          "value": "{type.font-size.650}",
+          "type": "number"
+        },
+        "4xl": {
+          "value": "{type.font-size.750}",
           "type": "number"
         }
       },
-      "card": {
-        "padding": {
-          "value": "{spacing.400}",
+      "line-height": {
+        "sm": {
+          "value": "{type.line-height.100 (150%)}",
+          "type": "number"
+        },
+        "md": {
+          "value": "{type.line-height.200 (150%)}",
+          "type": "number"
+        },
+        "lg": {
+          "value": "{type.line-height.300 (150%)}",
           "type": "number"
         }
       }
