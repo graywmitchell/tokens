@@ -553,6 +553,14 @@
         "800": {
           "value": "88",
           "type": "number"
+        },
+        "850": {
+          "value": "88",
+          "type": "number"
+        },
+        "900": {
+          "value": "96",
+          "type": "number"
         }
       },
       "line-height": {
