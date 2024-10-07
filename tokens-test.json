@@ -1941,6 +1941,10 @@
         "4xl": {
           "value": "{type.font-size.800}",
           "type": "number"
+        },
+        "5xl": {
+          "value": "{type.font-size.900}",
+          "type": "number"
         }
       },
       "line-height": {
@@ -2068,6 +2072,10 @@
         },
         "4xl": {
           "value": "{type.font-size.800}",
+          "type": "number"
+        },
+        "5xl": {
+          "value": "{type.font-size.900}",
           "type": "number"
         }
       },
@@ -2197,6 +2205,10 @@
         "4xl": {
           "value": "{type.font-size.750}",
           "type": "number"
+        },
+        "5xl": {
+          "value": "{type.font-size.850}",
+          "type": "number"
         }
       },
       "line-height": {
@@ -2294,6 +2306,10 @@
     },
     "type": {
       "size": {
+        "850": {
+          "value": "{type.font-size.850}",
+          "type": "number"
+        },
         "xs": {
           "value": "{type.font-size.100}",
           "type": "number"
