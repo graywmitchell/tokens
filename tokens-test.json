@@ -2159,7 +2159,7 @@
     "type": {
       "size": {
         "xs": {
-          "value": "{type.font-size.50}",
+          "value": "{type.font-size.100}",
           "type": "number"
         },
         "sm": {
@@ -2287,7 +2287,7 @@
     "type": {
       "size": {
         "xs": {
-          "value": "{type.font-size.50}",
+          "value": "{type.font-size.100}",
           "type": "number"
         },
         "sm": {
