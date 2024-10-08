@@ -1845,19 +1845,19 @@
           "type": "number"
         },
         "sm": {
-          "value": "0",
+          "value": "{border-radius.200}",
           "type": "number"
         },
         "md": {
-          "value": "0",
+          "value": "{border-radius.300}",
           "type": "number"
         },
         "lg": {
-          "value": "0",
+          "value": "{border-radius.500}",
           "type": "number"
         },
         "max": {
-          "value": "0",
+          "value": "{border-radius.1000}",
           "type": "number"
         }
       }
@@ -2217,19 +2217,19 @@
           "type": "number"
         },
         "sm": {
-          "value": "0",
+          "value": "{border-radius.200}",
           "type": "number"
         },
         "md": {
-          "value": "0",
+          "value": "{border-radius.300}",
           "type": "number"
         },
         "lg": {
-          "value": "0",
+          "value": "{border-radius.500}",
           "type": "number"
         },
         "max": {
-          "value": "0",
+          "value": "{border-radius.1000}",
           "type": "number"
         }
       }
