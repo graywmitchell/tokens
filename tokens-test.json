@@ -1702,7 +1702,7 @@
         }
       }
     },
-    "type": {
+    "font": {
       "weight": {
         "light": {
           "value": "{type.font-weight.light}",
@@ -1738,47 +1738,7 @@
       "decoration": {
         "value": "{font-decoration}",
         "type": "text"
-      }
-    },
-    "border": {
-      "thickness": {
-        "light": {
-          "value": "{border-thickness.50}",
-          "type": "number"
-        },
-        "default": {
-          "value": "{border-thickness.100}",
-          "type": "number"
-        },
-        "strong": {
-          "value": "{border-thickness.200}",
-          "type": "number"
-        }
       },
-      "radius": {
-        "none": {
-          "value": "0",
-          "type": "number"
-        },
-        "sm": {
-          "value": "0",
-          "type": "number"
-        },
-        "md": {
-          "value": "0",
-          "type": "number"
-        },
-        "lg": {
-          "value": "0",
-          "type": "number"
-        },
-        "max": {
-          "value": "0",
-          "type": "number"
-        }
-      }
-    },
-    "text": {
       "size": {
         "xs": {
           "value": "{type.font-size.50}",
@@ -1860,6 +1820,44 @@
         },
         "6xl": {
           "value": "{type.line-height.850}",
+          "type": "number"
+        }
+      }
+    },
+    "border": {
+      "thickness": {
+        "light": {
+          "value": "{border-thickness.50}",
+          "type": "number"
+        },
+        "default": {
+          "value": "{border-thickness.100}",
+          "type": "number"
+        },
+        "strong": {
+          "value": "{border-thickness.200}",
+          "type": "number"
+        }
+      },
+      "radius": {
+        "none": {
+          "value": "0",
+          "type": "number"
+        },
+        "sm": {
+          "value": "0",
+          "type": "number"
+        },
+        "md": {
+          "value": "0",
+          "type": "number"
+        },
+        "lg": {
+          "value": "0",
+          "type": "number"
+        },
+        "max": {
+          "value": "0",
           "type": "number"
         }
       }
@@ -2076,7 +2074,7 @@
         }
       }
     },
-    "type": {
+    "font": {
       "family": {
         "primary": {
           "value": "{type.font-family.primary}",
@@ -2112,47 +2110,7 @@
       "decoration": {
         "value": "{font-decoration}",
         "type": "text"
-      }
-    },
-    "border": {
-      "thickness": {
-        "light": {
-          "value": "{border-thickness.50}",
-          "type": "number"
-        },
-        "default": {
-          "value": "{border-thickness.100}",
-          "type": "number"
-        },
-        "strong": {
-          "value": "{border-thickness.200}",
-          "type": "number"
-        }
       },
-      "radius": {
-        "none": {
-          "value": "0",
-          "type": "number"
-        },
-        "sm": {
-          "value": "0",
-          "type": "number"
-        },
-        "md": {
-          "value": "0",
-          "type": "number"
-        },
-        "lg": {
-          "value": "0",
-          "type": "number"
-        },
-        "max": {
-          "value": "0",
-          "type": "number"
-        }
-      }
-    },
-    "font": {
       "size": {
         "xs": {
           "value": "{type.font-size.50}",
@@ -2234,6 +2192,44 @@
         },
         "6xl": {
           "value": "{type.line-height.850}",
+          "type": "number"
+        }
+      }
+    },
+    "border": {
+      "thickness": {
+        "light": {
+          "value": "{border-thickness.50}",
+          "type": "number"
+        },
+        "default": {
+          "value": "{border-thickness.100}",
+          "type": "number"
+        },
+        "strong": {
+          "value": "{border-thickness.200}",
+          "type": "number"
+        }
+      },
+      "radius": {
+        "none": {
+          "value": "0",
+          "type": "number"
+        },
+        "sm": {
+          "value": "0",
+          "type": "number"
+        },
+        "md": {
+          "value": "0",
+          "type": "number"
+        },
+        "lg": {
+          "value": "0",
+          "type": "number"
+        },
+        "max": {
+          "value": "0",
           "type": "number"
         }
       }
@@ -2771,12 +2767,12 @@
         "border.thickness.default": "111030eda6ed4e5a55f870e771ae34ac39f77bd1",
         "color.surface.on-inverse-surface": "893d972218d083d7422cf4085aa5b235ed4a3e7a",
         "color.other.on-other": "68d17e42627aa6a92e153b034b7c29fb67789598",
-        "type.weight.light": "25afb6f7200db39b8693d8898aa394ccbaf2a0d5",
-        "type.weight.regular": "c1ce2722953836144e40c9557f8dc868ba410004",
-        "type.weight.medium": "4ea1c3c906b1e9a97a56955b0529b8f441327059",
-        "type.weight.bold": "01ee7ac7d9af4f3ba86c112511dbab3e869b6a00",
-        "type.family.primary": "1ff8b054d6c5707246bbdfe1cd35deb70a99e871",
-        "type.family.secondary": "839009cafea0180aba73b2304ae9e455f63a2906"
+        "font.weight.light": "25afb6f7200db39b8693d8898aa394ccbaf2a0d5",
+        "font.weight.regular": "c1ce2722953836144e40c9557f8dc868ba410004",
+        "font.weight.medium": "4ea1c3c906b1e9a97a56955b0529b8f441327059",
+        "font.weight.bold": "01ee7ac7d9af4f3ba86c112511dbab3e869b6a00",
+        "font.family.primary": "1ff8b054d6c5707246bbdfe1cd35deb70a99e871",
+        "font.family.secondary": "839009cafea0180aba73b2304ae9e455f63a2906"
       },
       "$figmaCollectionId": "VariableCollectionId:1455:17",
       "$figmaModeId": "1455:0",
@@ -2842,12 +2838,12 @@
         "color.surface.on-inverse-surface": "893d972218d083d7422cf4085aa5b235ed4a3e7a",
         "color.other.on-other": "68d17e42627aa6a92e153b034b7c29fb67789598",
         "type.family.label": "30022683bab1988840a1c12afb3f8bd9c74c8a59",
-        "type.weight.light": "25afb6f7200db39b8693d8898aa394ccbaf2a0d5",
-        "type.weight.regular": "c1ce2722953836144e40c9557f8dc868ba410004",
-        "type.weight.medium": "4ea1c3c906b1e9a97a56955b0529b8f441327059",
-        "type.weight.bold": "01ee7ac7d9af4f3ba86c112511dbab3e869b6a00",
-        "type.family.primary": "1ff8b054d6c5707246bbdfe1cd35deb70a99e871",
-        "type.family.secondary": "839009cafea0180aba73b2304ae9e455f63a2906"
+        "font.weight.light": "25afb6f7200db39b8693d8898aa394ccbaf2a0d5",
+        "font.weight.regular": "c1ce2722953836144e40c9557f8dc868ba410004",
+        "font.weight.medium": "4ea1c3c906b1e9a97a56955b0529b8f441327059",
+        "font.weight.bold": "01ee7ac7d9af4f3ba86c112511dbab3e869b6a00",
+        "font.family.primary": "1ff8b054d6c5707246bbdfe1cd35deb70a99e871",
+        "font.family.secondary": "839009cafea0180aba73b2304ae9e455f63a2906"
       },
       "$figmaCollectionId": "VariableCollectionId:1455:17",
       "$figmaModeId": "1455:1",
