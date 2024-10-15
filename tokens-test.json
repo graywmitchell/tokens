@@ -1738,50 +1738,6 @@
       "value": "lg",
       "type": "text"
     },
-    "font": {
-      "size": {
-        "r_xs": {
-          "value": "{font.font-size.100}",
-          "type": "number"
-        },
-        "r_sm": {
-          "value": "{font.font-size.200}",
-          "type": "number"
-        },
-        "r_md": {
-          "value": "{font.font-size.300}",
-          "type": "number"
-        },
-        "r_lg": {
-          "value": "{font.font-size.400}",
-          "type": "number"
-        },
-        "r_xl": {
-          "value": "{font.font-size.500}",
-          "type": "number"
-        },
-        "r_2xl": {
-          "value": "{font.font-size.600}",
-          "type": "number"
-        },
-        "r_3xl": {
-          "value": "{font.font-size.700}",
-          "type": "number"
-        },
-        "r_4xl": {
-          "value": "{font.font-size.800}",
-          "type": "number"
-        },
-        "r_5xl": {
-          "value": "{font.font-size.900}",
-          "type": "number"
-        },
-        "r_6xl": {
-          "value": "{font.font-size.900}",
-          "type": "number"
-        }
-      }
-    },
     "dimentions": {
       "page": {
         "r_min-width": {
@@ -1793,56 +1749,56 @@
           "type": "number"
         }
       }
+    },
+    "font": {
+      "size": {
+        "r_xs": {
+          "value": "{font.font-size.300}",
+          "type": "number"
+        },
+        "r_sm": {
+          "value": "{font.font-size.400}",
+          "type": "number"
+        },
+        "r_md": {
+          "value": "{font.font-size.500}",
+          "type": "number"
+        },
+        "r_lg": {
+          "value": "{font.font-size.600}",
+          "type": "number"
+        },
+        "r_xl": {
+          "value": "{font.font-size.700}",
+          "type": "number"
+        },
+        "r_2xl": {
+          "value": "{font.font-size.800}",
+          "type": "number"
+        },
+        "r_3xl": {
+          "value": "{font.font-size.900}",
+          "type": "number"
+        },
+        "r_4xl": {
+          "value": "{font.font-size.1000}",
+          "type": "number"
+        },
+        "r_5xl": {
+          "value": "{font.font-size.1100}",
+          "type": "number"
+        },
+        "r_6xl": {
+          "value": "{font.font-size.1200}",
+          "type": "number"
+        }
+      }
     }
   },
   "responsive/md": {
     "r_viewport": {
       "value": "md",
       "type": "text"
-    },
-    "font": {
-      "size": {
-        "r_xs": {
-          "value": "{font.font-size.100}",
-          "type": "number"
-        },
-        "r_sm": {
-          "value": "{font.font-size.200}",
-          "type": "number"
-        },
-        "r_md": {
-          "value": "{font.font-size.300}",
-          "type": "number"
-        },
-        "r_lg": {
-          "value": "{font.font-size.400}",
-          "type": "number"
-        },
-        "r_xl": {
-          "value": "{font.font-size.500}",
-          "type": "number"
-        },
-        "r_2xl": {
-          "value": "{font.font-size.600}",
-          "type": "number"
-        },
-        "r_3xl": {
-          "value": "{font.font-size.700}",
-          "type": "number"
-        },
-        "r_4xl": {
-          "value": "{font.font-size.800}",
-          "type": "number"
-        },
-        "r_5xl": {
-          "value": "{font.font-size.900}",
-          "type": "number"
-        },
-        "r_6xl": {
-          "value": "{font.font-size.900}",
-          "type": "number"
-        }
-      }
     },
     "dimentions": {
       "page": {
@@ -1855,56 +1811,56 @@
           "type": "number"
         }
       }
+    },
+    "font": {
+      "size": {
+        "r_xs": {
+          "value": "{font.font-size.300}",
+          "type": "number"
+        },
+        "r_sm": {
+          "value": "{font.font-size.400}",
+          "type": "number"
+        },
+        "r_md": {
+          "value": "{font.font-size.500}",
+          "type": "number"
+        },
+        "r_lg": {
+          "value": "{font.font-size.600}",
+          "type": "number"
+        },
+        "r_xl": {
+          "value": "{font.font-size.700}",
+          "type": "number"
+        },
+        "r_2xl": {
+          "value": "{font.font-size.800}",
+          "type": "number"
+        },
+        "r_3xl": {
+          "value": "{font.font-size.900}",
+          "type": "number"
+        },
+        "r_4xl": {
+          "value": "{font.font-size.1000}",
+          "type": "number"
+        },
+        "r_5xl": {
+          "value": "{font.font-size.1100}",
+          "type": "number"
+        },
+        "r_6xl": {
+          "value": "{font.font-size.1200}",
+          "type": "number"
+        }
+      }
     }
   },
   "responsive/sm": {
     "r_viewport": {
       "value": "sm",
       "type": "text"
-    },
-    "font": {
-      "size": {
-        "r_xs": {
-          "value": "{font.font-size.100}",
-          "type": "number"
-        },
-        "r_sm": {
-          "value": "{font.font-size.150}",
-          "type": "number"
-        },
-        "r_md": {
-          "value": "{font.font-size.250}",
-          "type": "number"
-        },
-        "r_lg": {
-          "value": "{font.font-size.350}",
-          "type": "number"
-        },
-        "r_xl": {
-          "value": "{font.font-size.450}",
-          "type": "number"
-        },
-        "r_2xl": {
-          "value": "{font.font-size.550}",
-          "type": "number"
-        },
-        "r_3xl": {
-          "value": "{font.font-size.650}",
-          "type": "number"
-        },
-        "r_4xl": {
-          "value": "{font.font-size.750}",
-          "type": "number"
-        },
-        "r_5xl": {
-          "value": "{font.font-size.850}",
-          "type": "number"
-        },
-        "r_6xl": {
-          "value": "{font.font-size.900}",
-          "type": "number"
-        }
-      }
     },
     "dimentions": {
       "page": {
@@ -1914,6 +1870,50 @@
         },
         "r_max-width": {
           "value": "1023",
+          "type": "number"
+        }
+      }
+    },
+    "font": {
+      "size": {
+        "r_xs": {
+          "value": "{font.font-size.200}",
+          "type": "number"
+        },
+        "r_sm": {
+          "value": "{font.font-size.300}",
+          "type": "number"
+        },
+        "r_md": {
+          "value": "{font.font-size.400}",
+          "type": "number"
+        },
+        "r_lg": {
+          "value": "{font.font-size.500}",
+          "type": "number"
+        },
+        "r_xl": {
+          "value": "{font.font-size.600}",
+          "type": "number"
+        },
+        "r_2xl": {
+          "value": "{font.font-size.700}",
+          "type": "number"
+        },
+        "r_3xl": {
+          "value": "{font.font-size.800}",
+          "type": "number"
+        },
+        "r_4xl": {
+          "value": "{font.font-size.900}",
+          "type": "number"
+        },
+        "r_5xl": {
+          "value": "{font.font-size.1000}",
+          "type": "number"
+        },
+        "r_6xl": {
+          "value": "{font.font-size.1100}",
           "type": "number"
         }
       }
@@ -1927,43 +1927,43 @@
     "font": {
       "size": {
         "r_xs": {
-          "value": "{font.font-size.100}",
+          "value": "{font.font-size.200}",
           "type": "number"
         },
         "r_sm": {
-          "value": "{font.font-size.150}",
+          "value": "{font.font-size.300}",
           "type": "number"
         },
         "r_md": {
-          "value": "{font.font-size.250}",
+          "value": "{font.font-size.400}",
           "type": "number"
         },
         "r_lg": {
-          "value": "{font.font-size.350}",
+          "value": "{font.font-size.500}",
           "type": "number"
         },
         "r_xl": {
-          "value": "{font.font-size.450}",
+          "value": "{font.font-size.600}",
           "type": "number"
         },
         "r_2xl": {
-          "value": "{font.font-size.550}",
+          "value": "{font.font-size.700}",
           "type": "number"
         },
         "r_3xl": {
-          "value": "{font.font-size.650}",
+          "value": "{font.font-size.800}",
           "type": "number"
         },
         "r_4xl": {
-          "value": "{font.font-size.750}",
+          "value": "{font.font-size.900}",
           "type": "number"
         },
         "r_5xl": {
-          "value": "{font.font-size.850}",
+          "value": "{font.font-size.1000}",
           "type": "number"
         },
         "r_6xl": {
-          "value": "{font.font-size.900}",
+          "value": "{font.font-size.1100}",
           "type": "number"
         }
       }
