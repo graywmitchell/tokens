@@ -484,10 +484,6 @@
         }
       },
       "font-size": {
-        "50": {
-          "value": "10",
-          "type": "number"
-        },
         "100": {
           "value": "12",
           "type": "number"
@@ -558,153 +554,189 @@
         }
       },
       "line-height": {
-        "compressed": {
-          "50": {
-            "value": "10",
-            "type": "number"
-          },
-          "100": {
-            "value": "12",
-            "type": "number"
-          },
-          "150": {
-            "value": "14",
-            "type": "number"
-          },
-          "200": {
-            "value": "16",
-            "type": "number"
-          },
-          "250": {
-            "value": "18",
-            "type": "number"
-          },
-          "300": {
-            "value": "20",
-            "type": "number"
-          },
-          "350": {
-            "value": "24",
-            "type": "number"
-          },
-          "400": {
-            "value": "28",
-            "type": "number"
-          },
-          "450": {
-            "value": "32",
-            "type": "number"
-          },
-          "500": {
-            "value": "36",
-            "type": "number"
-          },
-          "550": {
-            "value": "44",
-            "type": "number"
-          },
-          "600": {
-            "value": "48",
-            "type": "number"
-          },
-          "650": {
-            "value": "56",
-            "type": "number"
-          },
-          "700": {
-            "value": "68",
-            "type": "number"
-          },
-          "750": {
-            "value": "80",
-            "type": "number"
-          },
-          "800": {
-            "value": "88",
-            "type": "number"
-          },
-          "850": {
-            "value": "88",
-            "type": "number"
-          },
-          "900": {
-            "value": "96",
-            "type": "number"
-          }
+        "100": {
+          "value": "12",
+          "type": "number"
         },
-        "default": {
-          "50": {
-            "value": "10",
-            "type": "number"
-          },
-          "100": {
-            "value": "12",
-            "type": "number"
-          },
-          "150": {
-            "value": "14",
-            "type": "number"
-          },
-          "200": {
-            "value": "16",
-            "type": "number"
-          },
-          "250": {
-            "value": "18",
-            "type": "number"
-          },
-          "300": {
-            "value": "20",
-            "type": "number"
-          },
-          "350": {
-            "value": "24",
-            "type": "number"
-          },
-          "400": {
-            "value": "28",
-            "type": "number"
-          },
-          "450": {
-            "value": "32",
-            "type": "number"
-          },
-          "500": {
-            "value": "36",
-            "type": "number"
-          },
-          "550": {
-            "value": "44",
-            "type": "number"
-          },
-          "600": {
-            "value": "48",
-            "type": "number"
-          },
-          "650": {
-            "value": "56",
-            "type": "number"
-          },
-          "700": {
-            "value": "68",
-            "type": "number"
-          },
-          "750": {
-            "value": "80",
-            "type": "number"
-          },
-          "800": {
-            "value": "88",
-            "type": "number"
-          },
-          "850": {
-            "value": "88",
-            "type": "number"
-          },
-          "900": {
-            "value": "96",
-            "type": "number"
-          }
+        "150": {
+          "value": "14",
+          "type": "number"
+        },
+        "200": {
+          "value": "16",
+          "type": "number"
+        },
+        "250": {
+          "value": "18",
+          "type": "number"
+        },
+        "300": {
+          "value": "20",
+          "type": "number"
+        },
+        "350": {
+          "value": "24",
+          "type": "number"
+        },
+        "400": {
+          "value": "28",
+          "type": "number"
+        },
+        "450": {
+          "value": "32",
+          "type": "number"
+        },
+        "500": {
+          "value": "36",
+          "type": "number"
+        },
+        "550": {
+          "value": "44",
+          "type": "number"
+        },
+        "600": {
+          "value": "48",
+          "type": "number"
+        },
+        "650": {
+          "value": "56",
+          "type": "number"
+        },
+        "700": {
+          "value": "68",
+          "type": "number"
+        },
+        "750": {
+          "value": "80",
+          "type": "number"
+        },
+        "800": {
+          "value": "88",
+          "type": "number"
+        },
+        "850": {
+          "value": "88",
+          "type": "number"
+        },
+        "900": {
+          "value": "96",
+          "type": "number"
+        },
+        "950": {
+          "value": "10",
+          "type": "number"
+        }
+      },
+      "_font-size": {
+        "100": {
+          "value": "12",
+          "type": "number"
+        },
+        "200": {
+          "value": "16",
+          "type": "number"
+        },
+        "300": {
+          "value": "20",
+          "type": "number"
+        },
+        "400": {
+          "value": "28",
+          "type": "number"
+        },
+        "500": {
+          "value": "36",
+          "type": "number"
+        },
+        "600": {
+          "value": "48",
+          "type": "number"
+        },
+        "700": {
+          "value": "68",
+          "type": "number"
+        },
+        "800": {
+          "value": "88",
+          "type": "number"
+        },
+        "900": {
+          "value": "96",
+          "type": "number"
+        }
+      },
+      "_line-height": {
+        "100": {
+          "value": "12",
+          "type": "number"
+        },
+        "150": {
+          "value": "14",
+          "type": "number"
+        },
+        "200": {
+          "value": "16",
+          "type": "number"
+        },
+        "250": {
+          "value": "18",
+          "type": "number"
+        },
+        "300": {
+          "value": "20",
+          "type": "number"
+        },
+        "350": {
+          "value": "24",
+          "type": "number"
+        },
+        "400": {
+          "value": "28",
+          "type": "number"
+        },
+        "450": {
+          "value": "32",
+          "type": "number"
+        },
+        "500": {
+          "value": "36",
+          "type": "number"
+        },
+        "550": {
+          "value": "44",
+          "type": "number"
+        },
+        "600": {
+          "value": "48",
+          "type": "number"
+        },
+        "650": {
+          "value": "56",
+          "type": "number"
+        },
+        "700": {
+          "value": "68",
+          "type": "number"
+        },
+        "750": {
+          "value": "80",
+          "type": "number"
+        },
+        "800": {
+          "value": "88",
+          "type": "number"
+        },
+        "850": {
+          "value": "88",
+          "type": "number"
+        },
+        "900": {
+          "value": "96",
+          "type": "number"
+        },
+        "950": {
+          "value": "10",
+          "type": "number"
         }
       }
     },
@@ -1859,43 +1891,43 @@
       },
       "line-height": {
         "xs": {
-          "value": "{font.line-height.compressed.50}",
+          "value": "{font.line-height.950}",
           "type": "number"
         },
         "sm": {
-          "value": "{font.line-height.compressed.150}",
+          "value": "{font.line-height.150}",
           "type": "number"
         },
         "md": {
-          "value": "{font.line-height.compressed.250}",
+          "value": "{font.line-height.250}",
           "type": "number"
         },
         "lg": {
-          "value": "{font.line-height.compressed.350}",
+          "value": "{font.line-height.350}",
           "type": "number"
         },
         "xl": {
-          "value": "{font.line-height.compressed.450}",
+          "value": "{font.line-height.450}",
           "type": "number"
         },
         "2xl": {
-          "value": "{font.line-height.compressed.550}",
+          "value": "{font.line-height.550}",
           "type": "number"
         },
         "3xl": {
-          "value": "{font.line-height.compressed.650}",
+          "value": "{font.line-height.650}",
           "type": "number"
         },
         "4xl": {
-          "value": "{font.line-height.compressed.750}",
+          "value": "{font.line-height.750}",
           "type": "number"
         },
         "5xl": {
-          "value": "{font.line-height.compressed.850}",
+          "value": "{font.line-height.850}",
           "type": "number"
         },
         "6xl": {
-          "value": "{font.line-height.compressed.850}",
+          "value": "{font.line-height.850}",
           "type": "number"
         },
         "single": {
@@ -2239,15 +2271,15 @@
       },
       "line-height": {
         "xs": {
-          "value": "{font.line-height.compressed.50}",
+          "value": "{font.line-height.950}",
           "type": "number"
         },
         "sm": {
-          "value": "{font.line-height.compressed.150}",
+          "value": "{font.line-height.150}",
           "type": "number"
         },
         "md": {
-          "value": "{font.line-height.compressed.250}",
+          "value": "{font.line-height.250}",
           "type": "number"
         },
         "lg": {
@@ -2255,27 +2287,27 @@
           "type": "number"
         },
         "xl": {
-          "value": "{font.line-height.compressed.450}",
+          "value": "{font.line-height.450}",
           "type": "number"
         },
         "2xl": {
-          "value": "{font.line-height.compressed.550}",
+          "value": "{font.line-height.550}",
           "type": "number"
         },
         "3xl": {
-          "value": "{font.line-height.compressed.650}",
+          "value": "{font.line-height.650}",
           "type": "number"
         },
         "4xl": {
-          "value": "{font.line-height.compressed.750}",
+          "value": "{font.line-height.750}",
           "type": "number"
         },
         "5xl": {
-          "value": "{font.line-height.compressed.850}",
+          "value": "{font.line-height.850}",
           "type": "number"
         },
         "6xl": {
-          "value": "{font.line-height.compressed.850}",
+          "value": "{font.line-height.850}",
           "type": "number"
         },
         "single": {
