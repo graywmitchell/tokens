@@ -558,77 +558,153 @@
         }
       },
       "line-height": {
-        "50": {
-          "value": "10",
-          "type": "number"
+        "compressed": {
+          "50": {
+            "value": "10",
+            "type": "number"
+          },
+          "100": {
+            "value": "12",
+            "type": "number"
+          },
+          "150": {
+            "value": "14",
+            "type": "number"
+          },
+          "200": {
+            "value": "16",
+            "type": "number"
+          },
+          "250": {
+            "value": "18",
+            "type": "number"
+          },
+          "300": {
+            "value": "20",
+            "type": "number"
+          },
+          "350": {
+            "value": "24",
+            "type": "number"
+          },
+          "400": {
+            "value": "28",
+            "type": "number"
+          },
+          "450": {
+            "value": "32",
+            "type": "number"
+          },
+          "500": {
+            "value": "36",
+            "type": "number"
+          },
+          "550": {
+            "value": "44",
+            "type": "number"
+          },
+          "600": {
+            "value": "48",
+            "type": "number"
+          },
+          "650": {
+            "value": "56",
+            "type": "number"
+          },
+          "700": {
+            "value": "68",
+            "type": "number"
+          },
+          "750": {
+            "value": "80",
+            "type": "number"
+          },
+          "800": {
+            "value": "88",
+            "type": "number"
+          },
+          "850": {
+            "value": "88",
+            "type": "number"
+          },
+          "900": {
+            "value": "96",
+            "type": "number"
+          }
         },
-        "100": {
-          "value": "12",
-          "type": "number"
-        },
-        "150": {
-          "value": "14",
-          "type": "number"
-        },
-        "200": {
-          "value": "16",
-          "type": "number"
-        },
-        "250": {
-          "value": "18",
-          "type": "number"
-        },
-        "300": {
-          "value": "20",
-          "type": "number"
-        },
-        "350": {
-          "value": "24",
-          "type": "number"
-        },
-        "400": {
-          "value": "28",
-          "type": "number"
-        },
-        "450": {
-          "value": "32",
-          "type": "number"
-        },
-        "500": {
-          "value": "36",
-          "type": "number"
-        },
-        "550": {
-          "value": "44",
-          "type": "number"
-        },
-        "600": {
-          "value": "48",
-          "type": "number"
-        },
-        "650": {
-          "value": "56",
-          "type": "number"
-        },
-        "700": {
-          "value": "68",
-          "type": "number"
-        },
-        "750": {
-          "value": "80",
-          "type": "number"
-        },
-        "800": {
-          "value": "88",
-          "type": "number"
-        },
-        "850": {
-          "value": "88",
-          "type": "number"
-        },
-        "900": {
-          "value": "96",
-          "type": "number"
+        "default": {
+          "50": {
+            "value": "10",
+            "type": "number"
+          },
+          "100": {
+            "value": "12",
+            "type": "number"
+          },
+          "150": {
+            "value": "14",
+            "type": "number"
+          },
+          "200": {
+            "value": "16",
+            "type": "number"
+          },
+          "250": {
+            "value": "18",
+            "type": "number"
+          },
+          "300": {
+            "value": "20",
+            "type": "number"
+          },
+          "350": {
+            "value": "24",
+            "type": "number"
+          },
+          "400": {
+            "value": "28",
+            "type": "number"
+          },
+          "450": {
+            "value": "32",
+            "type": "number"
+          },
+          "500": {
+            "value": "36",
+            "type": "number"
+          },
+          "550": {
+            "value": "44",
+            "type": "number"
+          },
+          "600": {
+            "value": "48",
+            "type": "number"
+          },
+          "650": {
+            "value": "56",
+            "type": "number"
+          },
+          "700": {
+            "value": "68",
+            "type": "number"
+          },
+          "750": {
+            "value": "80",
+            "type": "number"
+          },
+          "800": {
+            "value": "88",
+            "type": "number"
+          },
+          "850": {
+            "value": "88",
+            "type": "number"
+          },
+          "900": {
+            "value": "96",
+            "type": "number"
+          }
         }
       }
     },
@@ -1783,44 +1859,52 @@
       },
       "line-height": {
         "xs": {
-          "value": "{font.line-height.50}",
+          "value": "{font.line-height.compressed.50}",
           "type": "number"
         },
         "sm": {
-          "value": "{font.line-height.150}",
+          "value": "{font.line-height.compressed.150}",
           "type": "number"
         },
         "md": {
-          "value": "{font.line-height.250}",
+          "value": "{font.line-height.compressed.250}",
           "type": "number"
         },
         "lg": {
-          "value": "{font.line-height.350}",
+          "value": "{font.line-height.compressed.350}",
           "type": "number"
         },
         "xl": {
-          "value": "{font.line-height.450}",
+          "value": "{font.line-height.compressed.450}",
           "type": "number"
         },
         "2xl": {
-          "value": "{font.line-height.550}",
+          "value": "{font.line-height.compressed.550}",
           "type": "number"
         },
         "3xl": {
-          "value": "{font.line-height.650}",
+          "value": "{font.line-height.compressed.650}",
           "type": "number"
         },
         "4xl": {
-          "value": "{font.line-height.750}",
+          "value": "{font.line-height.compressed.750}",
           "type": "number"
         },
         "5xl": {
-          "value": "{font.line-height.850}",
+          "value": "{font.line-height.compressed.850}",
           "type": "number"
         },
         "6xl": {
-          "value": "{font.line-height.850}",
+          "value": "{font.line-height.compressed.850}",
           "type": "number"
+        },
+        "single": {
+          "value": "100%",
+          "type": "text"
+        },
+        "double": {
+          "value": "150%",
+          "type": "text"
         }
       }
     },
@@ -2155,15 +2239,15 @@
       },
       "line-height": {
         "xs": {
-          "value": "{font.line-height.50}",
+          "value": "{font.line-height.compressed.50}",
           "type": "number"
         },
         "sm": {
-          "value": "{font.line-height.150}",
+          "value": "{font.line-height.compressed.150}",
           "type": "number"
         },
         "md": {
-          "value": "{font.line-height.250}",
+          "value": "{font.line-height.compressed.250}",
           "type": "number"
         },
         "lg": {
@@ -2171,28 +2255,36 @@
           "type": "number"
         },
         "xl": {
-          "value": "{font.line-height.450}",
+          "value": "{font.line-height.compressed.450}",
           "type": "number"
         },
         "2xl": {
-          "value": "{font.line-height.550}",
+          "value": "{font.line-height.compressed.550}",
           "type": "number"
         },
         "3xl": {
-          "value": "{font.line-height.650}",
+          "value": "{font.line-height.compressed.650}",
           "type": "number"
         },
         "4xl": {
-          "value": "{font.line-height.750}",
+          "value": "{font.line-height.compressed.750}",
           "type": "number"
         },
         "5xl": {
-          "value": "{font.line-height.850}",
+          "value": "{font.line-height.compressed.850}",
           "type": "number"
         },
         "6xl": {
-          "value": "{font.line-height.850}",
+          "value": "{font.line-height.compressed.850}",
           "type": "number"
+        },
+        "single": {
+          "value": "100%",
+          "type": "text"
+        },
+        "double": {
+          "value": "150%",
+          "type": "text"
         }
       }
     },
@@ -2236,117 +2328,61 @@
     }
   },
   "responsive/lg": {
-    "viewport": {
+    "r_viewport": {
       "value": "lg",
       "type": "text"
     },
-    "border-radius": {
-      "sm": {
-        "value": "{border-radius.400}",
-        "type": "number"
-      },
-      "md": {
-        "value": "{border-radius.500}",
-        "type": "number"
-      },
-      "lg": {
-        "value": "{border-radius.600}",
-        "type": "number"
-      }
-    },
     "font": {
       "size": {
-        "xs": {
+        "r_xs": {
           "value": "{font.font-size.100}",
           "type": "number"
         },
-        "sm": {
+        "r_sm": {
           "value": "{font.font-size.200}",
           "type": "number"
         },
-        "md": {
+        "r_md": {
           "value": "{font.font-size.300}",
           "type": "number"
         },
-        "lg": {
+        "r_lg": {
           "value": "{font.font-size.400}",
           "type": "number"
         },
-        "xl": {
+        "r_xl": {
           "value": "{font.font-size.500}",
           "type": "number"
         },
-        "2xl": {
+        "r_2xl": {
           "value": "{font.font-size.600}",
           "type": "number"
         },
-        "3xl": {
+        "r_3xl": {
           "value": "{font.font-size.700}",
           "type": "number"
         },
-        "4xl": {
+        "r_4xl": {
           "value": "{font.font-size.800}",
           "type": "number"
         },
-        "5xl": {
+        "r_5xl": {
           "value": "{font.font-size.900}",
           "type": "number"
         },
-        "6xl": {
+        "r_6xl": {
           "value": "{font.font-size.900}",
-          "type": "number"
-        }
-      },
-      "line-height": {
-        "xs": {
-          "value": "{font.line-height.100}",
-          "type": "number"
-        },
-        "sm": {
-          "value": "{font.line-height.200}",
-          "type": "number"
-        },
-        "md": {
-          "value": "{font.line-height.300}",
-          "type": "number"
-        },
-        "lg": {
-          "value": "{font.line-height.400}",
-          "type": "number"
-        },
-        "xl": {
-          "value": "{font.line-height.500}",
-          "type": "number"
-        },
-        "2xl": {
-          "value": "{font.line-height.600}",
-          "type": "number"
-        },
-        "3xl": {
-          "value": "{font.line-height.700}",
-          "type": "number"
-        },
-        "4xl": {
-          "value": "{font.line-height.800}",
-          "type": "number"
-        },
-        "5xl": {
-          "value": "{font.line-height.900}",
-          "type": "number"
-        },
-        "6xl": {
-          "value": "{font.line-height.900}",
           "type": "number"
         }
       }
     },
     "dimentions": {
       "page": {
-        "min-width": {
+        "r_min-width": {
           "value": "1400",
           "type": "number"
         },
-        "max-width": {
+        "r_max-width": {
           "value": "1800",
           "type": "number"
         }
@@ -2354,117 +2390,61 @@
     }
   },
   "responsive/md": {
-    "viewport": {
+    "r_viewport": {
       "value": "md",
       "type": "text"
     },
-    "border-radius": {
-      "sm": {
-        "value": "{border-radius.300}",
-        "type": "number"
-      },
-      "md": {
-        "value": "{border-radius.400}",
-        "type": "number"
-      },
-      "lg": {
-        "value": "{border-radius.500}",
-        "type": "number"
-      }
-    },
     "font": {
       "size": {
-        "xs": {
+        "r_xs": {
           "value": "{font.font-size.100}",
           "type": "number"
         },
-        "sm": {
+        "r_sm": {
           "value": "{font.font-size.200}",
           "type": "number"
         },
-        "md": {
+        "r_md": {
           "value": "{font.font-size.300}",
           "type": "number"
         },
-        "lg": {
+        "r_lg": {
           "value": "{font.font-size.400}",
           "type": "number"
         },
-        "xl": {
+        "r_xl": {
           "value": "{font.font-size.500}",
           "type": "number"
         },
-        "2xl": {
+        "r_2xl": {
           "value": "{font.font-size.600}",
           "type": "number"
         },
-        "3xl": {
+        "r_3xl": {
           "value": "{font.font-size.700}",
           "type": "number"
         },
-        "4xl": {
+        "r_4xl": {
           "value": "{font.font-size.800}",
           "type": "number"
         },
-        "5xl": {
+        "r_5xl": {
           "value": "{font.font-size.900}",
           "type": "number"
         },
-        "6xl": {
+        "r_6xl": {
           "value": "{font.font-size.900}",
-          "type": "number"
-        }
-      },
-      "line-height": {
-        "xs": {
-          "value": "{font.line-height.100}",
-          "type": "number"
-        },
-        "sm": {
-          "value": "{font.line-height.200}",
-          "type": "number"
-        },
-        "md": {
-          "value": "{font.line-height.300}",
-          "type": "number"
-        },
-        "lg": {
-          "value": "{font.line-height.400}",
-          "type": "number"
-        },
-        "xl": {
-          "value": "{font.line-height.500}",
-          "type": "number"
-        },
-        "2xl": {
-          "value": "{font.line-height.600}",
-          "type": "number"
-        },
-        "3xl": {
-          "value": "{font.line-height.700}",
-          "type": "number"
-        },
-        "4xl": {
-          "value": "{font.line-height.800}",
-          "type": "number"
-        },
-        "5xl": {
-          "value": "{font.line-height.900}",
-          "type": "number"
-        },
-        "6xl": {
-          "value": "{font.line-height.900}",
           "type": "number"
         }
       }
     },
     "dimentions": {
       "page": {
-        "min-width": {
+        "r_min-width": {
           "value": "1024",
           "type": "number"
         },
-        "max-width": {
+        "r_max-width": {
           "value": "1399",
           "type": "number"
         }
@@ -2472,117 +2452,61 @@
     }
   },
   "responsive/sm": {
-    "viewport": {
+    "r_viewport": {
       "value": "sm",
       "type": "text"
     },
-    "border-radius": {
-      "sm": {
-        "value": "{border-radius.200}",
-        "type": "number"
-      },
-      "md": {
-        "value": "{border-radius.300}",
-        "type": "number"
-      },
-      "lg": {
-        "value": "{border-radius.400}",
-        "type": "number"
-      }
-    },
     "font": {
       "size": {
-        "xs": {
+        "r_xs": {
           "value": "{font.font-size.100}",
           "type": "number"
         },
-        "sm": {
+        "r_sm": {
           "value": "{font.font-size.150}",
           "type": "number"
         },
-        "md": {
+        "r_md": {
           "value": "{font.font-size.250}",
           "type": "number"
         },
-        "lg": {
+        "r_lg": {
           "value": "{font.font-size.350}",
           "type": "number"
         },
-        "xl": {
+        "r_xl": {
           "value": "{font.font-size.450}",
           "type": "number"
         },
-        "2xl": {
+        "r_2xl": {
           "value": "{font.font-size.550}",
           "type": "number"
         },
-        "3xl": {
+        "r_3xl": {
           "value": "{font.font-size.650}",
           "type": "number"
         },
-        "4xl": {
+        "r_4xl": {
           "value": "{font.font-size.750}",
           "type": "number"
         },
-        "5xl": {
+        "r_5xl": {
           "value": "{font.font-size.850}",
           "type": "number"
         },
-        "6xl": {
+        "r_6xl": {
           "value": "{font.font-size.900}",
-          "type": "number"
-        }
-      },
-      "line-height": {
-        "xs": {
-          "value": "{font.line-height.100}",
-          "type": "number"
-        },
-        "sm": {
-          "value": "{font.line-height.150}",
-          "type": "number"
-        },
-        "md": {
-          "value": "{font.line-height.250}",
-          "type": "number"
-        },
-        "lg": {
-          "value": "{font.line-height.350}",
-          "type": "number"
-        },
-        "xl": {
-          "value": "{font.line-height.450}",
-          "type": "number"
-        },
-        "2xl": {
-          "value": "{font.line-height.550}",
-          "type": "number"
-        },
-        "3xl": {
-          "value": "{font.line-height.650}",
-          "type": "number"
-        },
-        "4xl": {
-          "value": "{font.line-height.750}",
-          "type": "number"
-        },
-        "5xl": {
-          "value": "{font.line-height.850}",
-          "type": "number"
-        },
-        "6xl": {
-          "value": "{font.line-height.850}",
           "type": "number"
         }
       }
     },
     "dimentions": {
       "page": {
-        "min-width": {
+        "r_min-width": {
           "value": "640",
           "type": "number"
         },
-        "max-width": {
+        "r_max-width": {
           "value": "1023",
           "type": "number"
         }
@@ -2590,117 +2514,61 @@
     }
   },
   "responsive/xs": {
-    "viewport": {
+    "r_viewport": {
       "value": "sm",
       "type": "text"
     },
-    "border-radius": {
-      "sm": {
-        "value": "{border-radius.100}",
-        "type": "number"
-      },
-      "md": {
-        "value": "{border-radius.200}",
-        "type": "number"
-      },
-      "lg": {
-        "value": "{border-radius.300}",
-        "type": "number"
-      }
-    },
     "font": {
       "size": {
-        "xs": {
+        "r_xs": {
           "value": "{font.font-size.100}",
           "type": "number"
         },
-        "sm": {
+        "r_sm": {
           "value": "{font.font-size.150}",
           "type": "number"
         },
-        "md": {
+        "r_md": {
           "value": "{font.font-size.250}",
           "type": "number"
         },
-        "lg": {
+        "r_lg": {
           "value": "{font.font-size.350}",
           "type": "number"
         },
-        "xl": {
+        "r_xl": {
           "value": "{font.font-size.450}",
           "type": "number"
         },
-        "2xl": {
+        "r_2xl": {
           "value": "{font.font-size.550}",
           "type": "number"
         },
-        "3xl": {
+        "r_3xl": {
           "value": "{font.font-size.650}",
           "type": "number"
         },
-        "4xl": {
+        "r_4xl": {
           "value": "{font.font-size.750}",
           "type": "number"
         },
-        "5xl": {
+        "r_5xl": {
           "value": "{font.font-size.850}",
           "type": "number"
         },
-        "6xl": {
+        "r_6xl": {
           "value": "{font.font-size.900}",
-          "type": "number"
-        }
-      },
-      "line-height": {
-        "xs": {
-          "value": "{font.line-height.100}",
-          "type": "number"
-        },
-        "sm": {
-          "value": "{font.line-height.100}",
-          "type": "number"
-        },
-        "md": {
-          "value": "{font.line-height.200}",
-          "type": "number"
-        },
-        "lg": {
-          "value": "{font.line-height.350}",
-          "type": "number"
-        },
-        "xl": {
-          "value": "{font.line-height.300}",
-          "type": "number"
-        },
-        "2xl": {
-          "value": "{font.line-height.550}",
-          "type": "number"
-        },
-        "3xl": {
-          "value": "{font.line-height.650}",
-          "type": "number"
-        },
-        "4xl": {
-          "value": "{font.line-height.750}",
-          "type": "number"
-        },
-        "5xl": {
-          "value": "{font.line-height.850}",
-          "type": "number"
-        },
-        "6xl": {
-          "value": "{font.line-height.900}",
           "type": "number"
         }
       }
     },
     "dimentions": {
       "page": {
-        "min-width": {
+        "r_min-width": {
           "value": "375",
           "type": "number"
         },
-        "max-width": {
+        "r_max-width": {
           "value": "639",
           "type": "number"
         }
@@ -2862,26 +2730,26 @@
         "spacing.md": "dba2f149139228b49567c49dad422bc15593f22d",
         "spacing.lg": "5539cf95c959459aa42073cbbe767a237522dac8",
         "spacing.xl": "a06091ef21f948020de456ccc4d8ccf821a7b6cf",
-        "dimentions.page.min-width": "524b7f1bf32ec9894936cf381980a4fab48d7554",
-        "dimentions.page.max-width": "f70d00a30a3ef43409420f2dac0e1cbf3c105ac2",
         "dimentions.content.max-width": "2d095687fc94ab8acb458940a9a26826822f13e0",
         "layout.sections-rows": "f2d66f5605f5d4a762c3ceebd6a6b6a16ad9e81c",
         "layout.sections-columns": "326b4f129f3affcd7638f1e439f8b0cf6b767238",
         "border-radius.sm": "a7b563cb4a693a7134cd5f5712d9e733dbea577e",
         "border-radius.md": "63974bece972be002d29e65cc3ed6ee518a511d4",
         "border-radius.lg": "22f185969c6b2c2aa9f50427c6b212b8fc0cbf3a",
-        "viewport": "4be5377dfe4a20b64c7841ce3456e1ba1c5a7759",
-        "font.size.xs": "6d6b7a44428fff2dfd8358775f8ee46b4b100a5b",
-        "font.size.sm": "45270d4fc2fb696aeeb57887e6faf6cafdb88c3f",
-        "font.size.md": "1db08217d9d1a995ffe7ab24c1e054d9cc007acb",
-        "font.size.lg": "412a531b38ca4c45b16bb1299032f0e6a2d7cfa0",
-        "font.size.xl": "85193fefbe90bf7e02e96ab533d0a481bfcbfbcb",
-        "font.size.2xl": "5451ca70cfea9afb0d918639151643303bebbaa8",
-        "font.size.3xl": "cc2f2281e30766fbce5c2fcdb60fa4a2eedc3839",
         "font.line-height.sm": "d4d4c3289e2ea6f4f32f2a5119610cc7a4bb0f95",
         "font.line-height.md": "c5a90c9c97f3d3d64316e30f5e4a79fa9e6a7d4e",
         "font.line-height.lg": "993689b14d409858ee20694979d1d627597d9f12",
-        "font.size.4xl": "6469cbbf8481ad1294de3cfdee7a7265f26db2a9"
+        "font.size.r_xs": "6d6b7a44428fff2dfd8358775f8ee46b4b100a5b",
+        "font.size.r_sm": "45270d4fc2fb696aeeb57887e6faf6cafdb88c3f",
+        "font.size.r_md": "1db08217d9d1a995ffe7ab24c1e054d9cc007acb",
+        "font.size.r_lg": "412a531b38ca4c45b16bb1299032f0e6a2d7cfa0",
+        "font.size.r_xl": "85193fefbe90bf7e02e96ab533d0a481bfcbfbcb",
+        "font.size.r_2xl": "5451ca70cfea9afb0d918639151643303bebbaa8",
+        "font.size.r_3xl": "cc2f2281e30766fbce5c2fcdb60fa4a2eedc3839",
+        "font.size.r_4xl": "6469cbbf8481ad1294de3cfdee7a7265f26db2a9",
+        "dimentions.page.r_min-width": "524b7f1bf32ec9894936cf381980a4fab48d7554",
+        "dimentions.page.r_max-width": "f70d00a30a3ef43409420f2dac0e1cbf3c105ac2",
+        "r_viewport": "4be5377dfe4a20b64c7841ce3456e1ba1c5a7759"
       },
       "$figmaCollectionId": "VariableCollectionId:1455:18",
       "$figmaModeId": "1455:2",
@@ -2900,26 +2768,26 @@
         "spacing.md": "dba2f149139228b49567c49dad422bc15593f22d",
         "spacing.lg": "5539cf95c959459aa42073cbbe767a237522dac8",
         "spacing.xl": "a06091ef21f948020de456ccc4d8ccf821a7b6cf",
-        "dimentions.page.min-width": "524b7f1bf32ec9894936cf381980a4fab48d7554",
-        "dimentions.page.max-width": "f70d00a30a3ef43409420f2dac0e1cbf3c105ac2",
         "dimentions.content.max-width": "2d095687fc94ab8acb458940a9a26826822f13e0",
         "layout.sections-rows": "f2d66f5605f5d4a762c3ceebd6a6b6a16ad9e81c",
         "layout.sections-columns": "326b4f129f3affcd7638f1e439f8b0cf6b767238",
         "border-radius.sm": "a7b563cb4a693a7134cd5f5712d9e733dbea577e",
         "border-radius.md": "63974bece972be002d29e65cc3ed6ee518a511d4",
         "border-radius.lg": "22f185969c6b2c2aa9f50427c6b212b8fc0cbf3a",
-        "viewport": "4be5377dfe4a20b64c7841ce3456e1ba1c5a7759",
-        "font.size.xs": "6d6b7a44428fff2dfd8358775f8ee46b4b100a5b",
-        "font.size.sm": "45270d4fc2fb696aeeb57887e6faf6cafdb88c3f",
-        "font.size.md": "1db08217d9d1a995ffe7ab24c1e054d9cc007acb",
-        "font.size.lg": "412a531b38ca4c45b16bb1299032f0e6a2d7cfa0",
-        "font.size.xl": "85193fefbe90bf7e02e96ab533d0a481bfcbfbcb",
-        "font.size.2xl": "5451ca70cfea9afb0d918639151643303bebbaa8",
-        "font.size.3xl": "cc2f2281e30766fbce5c2fcdb60fa4a2eedc3839",
         "font.line-height.sm": "d4d4c3289e2ea6f4f32f2a5119610cc7a4bb0f95",
         "font.line-height.md": "c5a90c9c97f3d3d64316e30f5e4a79fa9e6a7d4e",
         "font.line-height.lg": "993689b14d409858ee20694979d1d627597d9f12",
-        "font.size.4xl": "6469cbbf8481ad1294de3cfdee7a7265f26db2a9"
+        "font.size.r_xs": "6d6b7a44428fff2dfd8358775f8ee46b4b100a5b",
+        "font.size.r_sm": "45270d4fc2fb696aeeb57887e6faf6cafdb88c3f",
+        "font.size.r_md": "1db08217d9d1a995ffe7ab24c1e054d9cc007acb",
+        "font.size.r_lg": "412a531b38ca4c45b16bb1299032f0e6a2d7cfa0",
+        "font.size.r_xl": "85193fefbe90bf7e02e96ab533d0a481bfcbfbcb",
+        "font.size.r_2xl": "5451ca70cfea9afb0d918639151643303bebbaa8",
+        "font.size.r_3xl": "cc2f2281e30766fbce5c2fcdb60fa4a2eedc3839",
+        "font.size.r_4xl": "6469cbbf8481ad1294de3cfdee7a7265f26db2a9",
+        "dimentions.page.r_min-width": "524b7f1bf32ec9894936cf381980a4fab48d7554",
+        "dimentions.page.r_max-width": "f70d00a30a3ef43409420f2dac0e1cbf3c105ac2",
+        "r_viewport": "4be5377dfe4a20b64c7841ce3456e1ba1c5a7759"
       },
       "$figmaCollectionId": "VariableCollectionId:1455:18",
       "$figmaModeId": "1455:3",
@@ -2938,8 +2806,6 @@
         "spacing.md": "dba2f149139228b49567c49dad422bc15593f22d",
         "spacing.lg": "5539cf95c959459aa42073cbbe767a237522dac8",
         "spacing.xl": "a06091ef21f948020de456ccc4d8ccf821a7b6cf",
-        "dimentions.page.min-width": "524b7f1bf32ec9894936cf381980a4fab48d7554",
-        "dimentions.page.max-width": "f70d00a30a3ef43409420f2dac0e1cbf3c105ac2",
         "dimentions.content.max-width": "2d095687fc94ab8acb458940a9a26826822f13e0",
         "layout.sections-rows": "f2d66f5605f5d4a762c3ceebd6a6b6a16ad9e81c",
         "layout.sections-columns": "326b4f129f3affcd7638f1e439f8b0cf6b767238",
@@ -2949,18 +2815,20 @@
         "border-radius.lg": "22f185969c6b2c2aa9f50427c6b212b8fc0cbf3a",
         "border-radius.max": "87698d9d31b49b4f0bf28eb24c1c392013b66a3c",
         "border-radius.static": "7f34200422f6b83f1a90c8b0597017abbb6c27e6",
-        "viewport": "4be5377dfe4a20b64c7841ce3456e1ba1c5a7759",
-        "font.size.xs": "6d6b7a44428fff2dfd8358775f8ee46b4b100a5b",
-        "font.size.sm": "45270d4fc2fb696aeeb57887e6faf6cafdb88c3f",
-        "font.size.md": "1db08217d9d1a995ffe7ab24c1e054d9cc007acb",
-        "font.size.lg": "412a531b38ca4c45b16bb1299032f0e6a2d7cfa0",
-        "font.size.xl": "85193fefbe90bf7e02e96ab533d0a481bfcbfbcb",
-        "font.size.2xl": "5451ca70cfea9afb0d918639151643303bebbaa8",
-        "font.size.3xl": "cc2f2281e30766fbce5c2fcdb60fa4a2eedc3839",
         "font.line-height.sm": "d4d4c3289e2ea6f4f32f2a5119610cc7a4bb0f95",
         "font.line-height.md": "c5a90c9c97f3d3d64316e30f5e4a79fa9e6a7d4e",
         "font.line-height.lg": "993689b14d409858ee20694979d1d627597d9f12",
-        "font.size.4xl": "6469cbbf8481ad1294de3cfdee7a7265f26db2a9"
+        "font.size.r_xs": "6d6b7a44428fff2dfd8358775f8ee46b4b100a5b",
+        "font.size.r_sm": "45270d4fc2fb696aeeb57887e6faf6cafdb88c3f",
+        "font.size.r_md": "1db08217d9d1a995ffe7ab24c1e054d9cc007acb",
+        "font.size.r_lg": "412a531b38ca4c45b16bb1299032f0e6a2d7cfa0",
+        "font.size.r_xl": "85193fefbe90bf7e02e96ab533d0a481bfcbfbcb",
+        "font.size.r_2xl": "5451ca70cfea9afb0d918639151643303bebbaa8",
+        "font.size.r_3xl": "cc2f2281e30766fbce5c2fcdb60fa4a2eedc3839",
+        "font.size.r_4xl": "6469cbbf8481ad1294de3cfdee7a7265f26db2a9",
+        "dimentions.page.r_min-width": "524b7f1bf32ec9894936cf381980a4fab48d7554",
+        "dimentions.page.r_max-width": "f70d00a30a3ef43409420f2dac0e1cbf3c105ac2",
+        "r_viewport": "4be5377dfe4a20b64c7841ce3456e1ba1c5a7759"
       },
       "$figmaCollectionId": "VariableCollectionId:1455:18",
       "$figmaModeId": "1455:4",
@@ -2979,8 +2847,6 @@
         "spacing.md": "dba2f149139228b49567c49dad422bc15593f22d",
         "spacing.lg": "5539cf95c959459aa42073cbbe767a237522dac8",
         "spacing.xl": "a06091ef21f948020de456ccc4d8ccf821a7b6cf",
-        "dimentions.page.min-width": "524b7f1bf32ec9894936cf381980a4fab48d7554",
-        "dimentions.page.max-width": "f70d00a30a3ef43409420f2dac0e1cbf3c105ac2",
         "dimentions.content.max-width": "2d095687fc94ab8acb458940a9a26826822f13e0",
         "layout.sections-rows": "f2d66f5605f5d4a762c3ceebd6a6b6a16ad9e81c",
         "layout.sections-columns": "326b4f129f3affcd7638f1e439f8b0cf6b767238",
@@ -2990,18 +2856,20 @@
         "border-radius.lg": "22f185969c6b2c2aa9f50427c6b212b8fc0cbf3a",
         "border-radius.max": "87698d9d31b49b4f0bf28eb24c1c392013b66a3c",
         "border-radius.static": "7f34200422f6b83f1a90c8b0597017abbb6c27e6",
-        "viewport": "4be5377dfe4a20b64c7841ce3456e1ba1c5a7759",
-        "font.size.xs": "6d6b7a44428fff2dfd8358775f8ee46b4b100a5b",
-        "font.size.sm": "45270d4fc2fb696aeeb57887e6faf6cafdb88c3f",
-        "font.size.md": "1db08217d9d1a995ffe7ab24c1e054d9cc007acb",
-        "font.size.lg": "412a531b38ca4c45b16bb1299032f0e6a2d7cfa0",
-        "font.size.xl": "85193fefbe90bf7e02e96ab533d0a481bfcbfbcb",
-        "font.size.2xl": "5451ca70cfea9afb0d918639151643303bebbaa8",
-        "font.size.3xl": "cc2f2281e30766fbce5c2fcdb60fa4a2eedc3839",
         "font.line-height.sm": "d4d4c3289e2ea6f4f32f2a5119610cc7a4bb0f95",
         "font.line-height.md": "c5a90c9c97f3d3d64316e30f5e4a79fa9e6a7d4e",
         "font.line-height.lg": "993689b14d409858ee20694979d1d627597d9f12",
-        "font.size.4xl": "6469cbbf8481ad1294de3cfdee7a7265f26db2a9"
+        "font.size.r_xs": "6d6b7a44428fff2dfd8358775f8ee46b4b100a5b",
+        "font.size.r_sm": "45270d4fc2fb696aeeb57887e6faf6cafdb88c3f",
+        "font.size.r_md": "1db08217d9d1a995ffe7ab24c1e054d9cc007acb",
+        "font.size.r_lg": "412a531b38ca4c45b16bb1299032f0e6a2d7cfa0",
+        "font.size.r_xl": "85193fefbe90bf7e02e96ab533d0a481bfcbfbcb",
+        "font.size.r_2xl": "5451ca70cfea9afb0d918639151643303bebbaa8",
+        "font.size.r_3xl": "cc2f2281e30766fbce5c2fcdb60fa4a2eedc3839",
+        "font.size.r_4xl": "6469cbbf8481ad1294de3cfdee7a7265f26db2a9",
+        "dimentions.page.r_min-width": "524b7f1bf32ec9894936cf381980a4fab48d7554",
+        "dimentions.page.r_max-width": "f70d00a30a3ef43409420f2dac0e1cbf3c105ac2",
+        "r_viewport": "4be5377dfe4a20b64c7841ce3456e1ba1c5a7759"
       },
       "$figmaCollectionId": "VariableCollectionId:1455:18",
       "$figmaModeId": "1455:5",
