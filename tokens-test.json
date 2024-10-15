@@ -2414,7 +2414,7 @@
       },
       "$figmaCollectionId": "VariableCollectionId:1618:19",
       "$figmaModeId": "1618:0",
-      "group": "theme"
+      "group": "1. theme"
     },
     {
       "id": "c08b8dbe113c391979d14342301d374a9bf6d3a9",
@@ -2520,7 +2520,7 @@
       },
       "$figmaCollectionId": "VariableCollectionId:1618:19",
       "$figmaModeId": "1618:1",
-      "group": "theme"
+      "group": "1. theme"
     },
     {
       "id": "f0a2cdc4db5cf8f685175d500e628a3ba5d6f465",
@@ -2567,7 +2567,7 @@
       },
       "$figmaCollectionId": "VariableCollectionId:1618:20",
       "$figmaModeId": "1618:2",
-      "group": "responsive"
+      "group": "2. responsive"
     },
     {
       "id": "bd138330cb912e00d943bb050faba6e4a6ef2545",
@@ -2614,7 +2614,7 @@
       },
       "$figmaCollectionId": "VariableCollectionId:1618:20",
       "$figmaModeId": "1618:3",
-      "group": "responsive"
+      "group": "2. responsive"
     },
     {
       "id": "0d9726d856539445b3dc8372eb7979fa16a0de05",
@@ -2661,7 +2661,7 @@
       },
       "$figmaCollectionId": "VariableCollectionId:1618:20",
       "$figmaModeId": "1618:4",
-      "group": "responsive"
+      "group": "2. responsive"
     },
     {
       "id": "afe2da2ce29c2e20a49292e580f9cf584cc811bf",
@@ -2708,7 +2708,7 @@
       },
       "$figmaCollectionId": "VariableCollectionId:1618:20",
       "$figmaModeId": "1618:5",
-      "group": "responsive"
+      "group": "2. responsive"
     },
     {
       "id": "87ed7bcf60f46870bca6132530f5e68972aafe8b",
@@ -2717,7 +2717,7 @@
       "selectedTokenSets": {
         "theme/light": "enabled"
       },
-      "group": "bk/theme"
+      "group": "bk/1. theme"
     },
     {
       "id": "f13aaa0a53e22eb29389be204ffe0b0aa5faee15",
@@ -2726,7 +2726,7 @@
       "selectedTokenSets": {
         "theme/dark": "enabled"
       },
-      "group": "bk/theme"
+      "group": "bk/1. theme"
     },
     {
       "id": "1d176c4cf6a857b4d414172a1645feb2e295250b",
@@ -2735,7 +2735,7 @@
       "selectedTokenSets": {
         "responsive/lg": "enabled"
       },
-      "group": "bk/responsive"
+      "group": "bk/2. responsive"
     },
     {
       "id": "c5b0e057afe7e5ef72f56e795fe710c33f86e7a6",
@@ -2744,7 +2744,7 @@
       "selectedTokenSets": {
         "responsive/md": "enabled"
       },
-      "group": "bk/responsive"
+      "group": "bk/2. responsive"
     },
     {
       "id": "d57f0184fae84d11ccd9addf8ab415378c9f78ef",
@@ -2753,7 +2753,7 @@
       "selectedTokenSets": {
         "responsive/sm": "enabled"
       },
-      "group": "bk/responsive"
+      "group": "bk/2. responsive"
     },
     {
       "id": "ca9941e8309ea293fd5da3469965bb90f77f96d2",
@@ -2762,7 +2762,7 @@
       "selectedTokenSets": {
         "responsive/xs": "enabled"
       },
-      "group": "bk/responsive"
+      "group": "bk/2. responsive"
     }
   ],
   "$metadata": {
