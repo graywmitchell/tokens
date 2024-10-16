@@ -1795,83 +1795,83 @@
       },
       "line-height": {
         "r_xs_single": {
-          "value": "{font.line-height.100}",
+          "value": "{font._line-height.300}",
           "type": "number"
         },
         "r_xs_double": {
-          "value": "{font.line-height.150}",
+          "value": "{font._line-height.350}",
           "type": "number"
         },
         "r_sm_single": {
-          "value": "{font.line-height.200}",
+          "value": "{font._line-height.400}",
           "type": "number"
         },
         "r_sm_double": {
-          "value": "{font.line-height.250}",
+          "value": "{font._line-height.450}",
           "type": "number"
         },
         "r_md_single": {
-          "value": "{font.line-height.300}",
+          "value": "{font._line-height.500}",
           "type": "number"
         },
         "r_md_double": {
-          "value": "{font.line-height.350}",
+          "value": "{font._line-height.550}",
           "type": "number"
         },
         "r_lg_single": {
-          "value": "{font.line-height.400}",
+          "value": "{font._line-height.600}",
           "type": "number"
         },
         "r_lg_double": {
-          "value": "{font.line-height.450}",
+          "value": "{font._line-height.650}",
           "type": "number"
         },
         "r_xl_single": {
-          "value": "{font.line-height.500}",
+          "value": "{font._line-height.700}",
           "type": "number"
         },
         "r_xl_double": {
-          "value": "{font.line-height.550}",
+          "value": "{font._line-height.750}",
           "type": "number"
         },
         "r_2xl_single": {
-          "value": "{font.line-height.600}",
+          "value": "{font._line-height.800}",
           "type": "number"
         },
         "r_2xl_double": {
-          "value": "{font.line-height.650}",
+          "value": "{font._line-height.850}",
           "type": "number"
         },
         "r_3xl_single": {
-          "value": "{font.line-height.700}",
+          "value": "{font._line-height.900}",
           "type": "number"
         },
         "r_3xl_double": {
-          "value": "{font.line-height.750}",
+          "value": "{font._line-height.950}",
           "type": "number"
         },
         "r_4xl_single": {
-          "value": "{font.line-height.800}",
+          "value": "{font._line-height.1000}",
           "type": "number"
         },
         "r_4xl_double": {
-          "value": "{font.line-height.850}",
+          "value": "{font._line-height.1050}",
           "type": "number"
         },
         "r_5xl_single": {
-          "value": "{font.line-height.900}",
+          "value": "{font._line-height.1100}",
           "type": "number"
         },
         "r_5xl_double": {
-          "value": "{font.line-height.950}",
+          "value": "{font._line-height.1150}",
           "type": "number"
         },
         "r_6xl_single": {
-          "value": "{font.line-height.1000}",
+          "value": "{font._line-height.1200}",
           "type": "number"
         },
         "r_6xl_double": {
-          "value": "{font.line-height.1050}",
+          "value": "{font._line-height.1250}",
           "type": "number"
         }
       }
@@ -1939,83 +1939,83 @@
       },
       "line-height": {
         "r_xs_single": {
-          "value": "{font.line-height.100}",
+          "value": "{font._line-height.300}",
           "type": "number"
         },
         "r_xs_double": {
-          "value": "{font.line-height.150}",
+          "value": "{font._line-height.350}",
           "type": "number"
         },
         "r_sm_single": {
-          "value": "{font.line-height.200}",
+          "value": "{font._line-height.400}",
           "type": "number"
         },
         "r_sm_double": {
-          "value": "{font.line-height.250}",
+          "value": "{font._line-height.450}",
           "type": "number"
         },
         "r_md_single": {
-          "value": "{font.line-height.300}",
+          "value": "{font._line-height.500}",
           "type": "number"
         },
         "r_md_double": {
-          "value": "{font.line-height.350}",
+          "value": "{font._line-height.550}",
           "type": "number"
         },
         "r_lg_single": {
-          "value": "{font.line-height.400}",
+          "value": "{font._line-height.600}",
           "type": "number"
         },
         "r_lg_double": {
-          "value": "{font.line-height.450}",
+          "value": "{font._line-height.650}",
           "type": "number"
         },
         "r_xl_single": {
-          "value": "{font.line-height.500}",
+          "value": "{font._line-height.700}",
           "type": "number"
         },
         "r_xl_double": {
-          "value": "{font.line-height.550}",
+          "value": "{font._line-height.750}",
           "type": "number"
         },
         "r_2xl_single": {
-          "value": "{font.line-height.600}",
+          "value": "{font._line-height.800}",
           "type": "number"
         },
         "r_2xl_double": {
-          "value": "{font.line-height.650}",
+          "value": "{font._line-height.850}",
           "type": "number"
         },
         "r_3xl_single": {
-          "value": "{font.line-height.700}",
+          "value": "{font._line-height.900}",
           "type": "number"
         },
         "r_3xl_double": {
-          "value": "{font.line-height.750}",
+          "value": "{font._line-height.950}",
           "type": "number"
         },
         "r_4xl_single": {
-          "value": "{font.line-height.800}",
+          "value": "{font._line-height.1000}",
           "type": "number"
         },
         "r_4xl_double": {
-          "value": "{font.line-height.850}",
+          "value": "{font._line-height.1050}",
           "type": "number"
         },
         "r_5xl_single": {
-          "value": "{font.line-height.900}",
+          "value": "{font._line-height.1100}",
           "type": "number"
         },
         "r_5xl_double": {
-          "value": "{font.line-height.950}",
+          "value": "{font._line-height.1150}",
           "type": "number"
         },
         "r_6xl_single": {
-          "value": "{font.line-height.1000}",
+          "value": "{font._line-height.1200}",
           "type": "number"
         },
         "r_6xl_double": {
-          "value": "{font.line-height.1050}",
+          "value": "{font._line-height.1250}",
           "type": "number"
         }
       }
@@ -2083,83 +2083,83 @@
       },
       "line-height": {
         "r_xs_single": {
-          "value": "{font.line-height.100}",
+          "value": "{font._line-height.300}",
           "type": "number"
         },
         "r_xs_double": {
-          "value": "{font.line-height.150}",
+          "value": "{font._line-height.350}",
           "type": "number"
         },
         "r_sm_single": {
-          "value": "{font.line-height.200}",
+          "value": "{font._line-height.400}",
           "type": "number"
         },
         "r_sm_double": {
-          "value": "{font.line-height.250}",
+          "value": "{font._line-height.450}",
           "type": "number"
         },
         "r_md_single": {
-          "value": "{font.line-height.300}",
+          "value": "{font._line-height.500}",
           "type": "number"
         },
         "r_md_double": {
-          "value": "{font.line-height.350}",
+          "value": "{font._line-height.550}",
           "type": "number"
         },
         "r_lg_single": {
-          "value": "{font.line-height.400}",
+          "value": "{font._line-height.600}",
           "type": "number"
         },
         "r_lg_double": {
-          "value": "{font.line-height.450}",
+          "value": "{font._line-height.650}",
           "type": "number"
         },
         "r_xl_single": {
-          "value": "{font.line-height.500}",
+          "value": "{font._line-height.700}",
           "type": "number"
         },
         "r_xl_double": {
-          "value": "{font.line-height.550}",
+          "value": "{font._line-height.750}",
           "type": "number"
         },
         "r_2xl_single": {
-          "value": "{font.line-height.600}",
+          "value": "{font._line-height.800}",
           "type": "number"
         },
         "r_2xl_double": {
-          "value": "{font.line-height.650}",
+          "value": "{font._line-height.850}",
           "type": "number"
         },
         "r_3xl_single": {
-          "value": "{font.line-height.700}",
+          "value": "{font._line-height.900}",
           "type": "number"
         },
         "r_3xl_double": {
-          "value": "{font.line-height.750}",
+          "value": "{font._line-height.950}",
           "type": "number"
         },
         "r_4xl_single": {
-          "value": "{font.line-height.800}",
+          "value": "{font._line-height.1000}",
           "type": "number"
         },
         "r_4xl_double": {
-          "value": "{font.line-height.850}",
+          "value": "{font._line-height.1050}",
           "type": "number"
         },
         "r_5xl_single": {
-          "value": "{font.line-height.900}",
+          "value": "{font._line-height.1100}",
           "type": "number"
         },
         "r_5xl_double": {
-          "value": "{font.line-height.950}",
+          "value": "{font._line-height.1150}",
           "type": "number"
         },
         "r_6xl_single": {
-          "value": "{font.line-height.1000}",
+          "value": "{font._line-height.1200}",
           "type": "number"
         },
         "r_6xl_double": {
-          "value": "{font.line-height.1050}",
+          "value": "{font._line-height.1250}",
           "type": "number"
         }
       }
@@ -2215,83 +2215,83 @@
       },
       "line-height": {
         "r_xs_single": {
-          "value": "{font.line-height.100}",
+          "value": "{font._line-height.300}",
           "type": "number"
         },
         "r_xs_double": {
-          "value": "{font.line-height.150}",
+          "value": "{font._line-height.350}",
           "type": "number"
         },
         "r_sm_single": {
-          "value": "{font.line-height.200}",
+          "value": "{font._line-height.400}",
           "type": "number"
         },
         "r_sm_double": {
-          "value": "{font.line-height.250}",
+          "value": "{font._line-height.450}",
           "type": "number"
         },
         "r_md_single": {
-          "value": "{font.line-height.300}",
+          "value": "{font._line-height.500}",
           "type": "number"
         },
         "r_md_double": {
-          "value": "{font.line-height.350}",
+          "value": "{font._line-height.550}",
           "type": "number"
         },
         "r_lg_single": {
-          "value": "{font.line-height.400}",
+          "value": "{font._line-height.600}",
           "type": "number"
         },
         "r_lg_double": {
-          "value": "{font.line-height.450}",
+          "value": "{font._line-height.650}",
           "type": "number"
         },
         "r_xl_single": {
-          "value": "{font.line-height.500}",
+          "value": "{font._line-height.700}",
           "type": "number"
         },
         "r_xl_double": {
-          "value": "{font.line-height.550}",
+          "value": "{font._line-height.750}",
           "type": "number"
         },
         "r_2xl_single": {
-          "value": "{font.line-height.600}",
+          "value": "{font._line-height.800}",
           "type": "number"
         },
         "r_2xl_double": {
-          "value": "{font.line-height.650}",
+          "value": "{font._line-height.850}",
           "type": "number"
         },
         "r_3xl_single": {
-          "value": "{font.line-height.700}",
+          "value": "{font._line-height.900}",
           "type": "number"
         },
         "r_3xl_double": {
-          "value": "{font.line-height.750}",
+          "value": "{font._line-height.950}",
           "type": "number"
         },
         "r_4xl_single": {
-          "value": "{font.line-height.800}",
+          "value": "{font._line-height.1000}",
           "type": "number"
         },
         "r_4xl_double": {
-          "value": "{font.line-height.850}",
+          "value": "{font._line-height.1050}",
           "type": "number"
         },
         "r_5xl_single": {
-          "value": "{font.line-height.900}",
+          "value": "{font._line-height.1100}",
           "type": "number"
         },
         "r_5xl_double": {
-          "value": "{font.line-height.950}",
+          "value": "{font._line-height.1150}",
           "type": "number"
         },
         "r_6xl_single": {
-          "value": "{font.line-height.1000}",
+          "value": "{font._line-height.1200}",
           "type": "number"
         },
         "r_6xl_double": {
-          "value": "{font.line-height.1050}",
+          "value": "{font._line-height.1250}",
           "type": "number"
         }
       }
