@@ -304,10 +304,6 @@
         }
       },
       "brand 1": {
-        "0": {
-          "value": "#ffffff",
-          "type": "color"
-        },
         "50": {
           "value": "#e7f9ff",
           "type": "color"
@@ -346,18 +342,10 @@
         },
         "900": {
           "value": "#1e3137",
-          "type": "color"
-        },
-        "1000": {
-          "value": "#000000",
           "type": "color"
         }
       },
       "brand 2": {
-        "0": {
-          "value": "#ffffff",
-          "type": "color"
-        },
         "50": {
           "value": "#e7f9ff",
           "type": "color"
@@ -396,18 +384,10 @@
         },
         "900": {
           "value": "#1e3137",
-          "type": "color"
-        },
-        "1000": {
-          "value": "#000000",
           "type": "color"
         }
       },
       "brand 3": {
-        "0": {
-          "value": "#ffffff",
-          "type": "color"
-        },
         "50": {
           "value": "#e7f9ff",
           "type": "color"
@@ -446,10 +426,6 @@
         },
         "900": {
           "value": "#1e3137",
-          "type": "color"
-        },
-        "1000": {
-          "value": "#000000",
           "type": "color"
         }
       }
