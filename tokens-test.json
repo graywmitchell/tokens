@@ -2555,8 +2555,7 @@
       "name": "light",
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
-        "theme/light": "enabled",
-        "primitives": "disabled"
+        "theme/light": "enabled"
       },
       "group": "bk/1. theme"
     },
@@ -2565,8 +2564,7 @@
       "name": "dark",
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
-        "theme/dark": "enabled",
-        "primitives": "disabled"
+        "theme/dark": "enabled"
       },
       "group": "bk/1. theme"
     },
@@ -2575,8 +2573,7 @@
       "name": "lg",
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
-        "responsive/lg": "enabled",
-        "primitives": "disabled"
+        "responsive/lg": "enabled"
       },
       "group": "bk/2. responsive"
     },
@@ -2585,8 +2582,7 @@
       "name": "md",
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
-        "responsive/md": "enabled",
-        "primitives": "disabled"
+        "responsive/md": "enabled"
       },
       "group": "bk/2. responsive"
     },
@@ -2595,8 +2591,7 @@
       "name": "sm",
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
-        "responsive/sm": "enabled",
-        "primitives": "disabled"
+        "responsive/sm": "enabled"
       },
       "group": "bk/2. responsive"
     },
@@ -2605,8 +2600,7 @@
       "name": "xs",
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
-        "responsive/xs": "enabled",
-        "primitives": "disabled"
+        "responsive/xs": "enabled"
       },
       "group": "bk/2. responsive"
     }
