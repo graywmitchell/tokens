@@ -2547,60 +2547,6 @@
       "$figmaCollectionId": "VariableCollectionId:1618:20",
       "$figmaModeId": "1618:5",
       "group": "2. responsive"
-    },
-    {
-      "id": "87ed7bcf60f46870bca6132530f5e68972aafe8b",
-      "name": "light",
-      "$figmaStyleReferences": {},
-      "selectedTokenSets": {
-        "theme/light": "enabled"
-      },
-      "group": "bk/1. theme"
-    },
-    {
-      "id": "f13aaa0a53e22eb29389be204ffe0b0aa5faee15",
-      "name": "dark",
-      "$figmaStyleReferences": {},
-      "selectedTokenSets": {
-        "theme/dark": "enabled"
-      },
-      "group": "bk/1. theme"
-    },
-    {
-      "id": "1d176c4cf6a857b4d414172a1645feb2e295250b",
-      "name": "lg",
-      "$figmaStyleReferences": {},
-      "selectedTokenSets": {
-        "responsive/lg": "enabled"
-      },
-      "group": "bk/2. responsive"
-    },
-    {
-      "id": "c5b0e057afe7e5ef72f56e795fe710c33f86e7a6",
-      "name": "md",
-      "$figmaStyleReferences": {},
-      "selectedTokenSets": {
-        "responsive/md": "enabled"
-      },
-      "group": "bk/2. responsive"
-    },
-    {
-      "id": "d57f0184fae84d11ccd9addf8ab415378c9f78ef",
-      "name": "sm",
-      "$figmaStyleReferences": {},
-      "selectedTokenSets": {
-        "responsive/sm": "enabled"
-      },
-      "group": "bk/2. responsive"
-    },
-    {
-      "id": "ca9941e8309ea293fd5da3469965bb90f77f96d2",
-      "name": "xs",
-      "$figmaStyleReferences": {},
-      "selectedTokenSets": {
-        "responsive/xs": "enabled"
-      },
-      "group": "bk/2. responsive"
     }
   ],
   "$metadata": {
