@@ -1674,43 +1674,43 @@
         }
       },
       "size": {
-        "xs": {
+        "r_xs": {
           "value": "{font.font-size.10}",
           "type": "number"
         },
-        "sm": {
+        "r_sm": {
           "value": "{font.font-size.12}",
           "type": "number"
         },
-        "md": {
+        "r_md": {
           "value": "{font.font-size.14}",
           "type": "number"
         },
-        "lg": {
+        "r_lg": {
           "value": "{font.font-size.16}",
           "type": "number"
         },
-        "xl": {
+        "r_xl": {
           "value": "{font.font-size.20}",
           "type": "number"
         },
-        "2xl": {
+        "r_2xl": {
           "value": "{font.font-size.24}",
           "type": "number"
         },
-        "3xl": {
+        "r_3xl": {
           "value": "{font.font-size.28}",
           "type": "number"
         },
-        "4xl": {
+        "r_4xl": {
           "value": "{font.font-size.32}",
           "type": "number"
         },
-        "5xl": {
+        "r_5xl": {
           "value": "{font.font-size.40}",
           "type": "number"
         },
-        "6xl": {
+        "r_6xl": {
           "value": "{font.font-size.52}",
           "type": "number"
         }
@@ -1818,43 +1818,43 @@
         }
       },
       "size": {
-        "xs": {
+        "r_xs": {
           "value": "{font.font-size.10}",
           "type": "number"
         },
-        "sm": {
+        "r_sm": {
           "value": "{font.font-size.12}",
           "type": "number"
         },
-        "md": {
+        "r_md": {
           "value": "{font.font-size.14}",
           "type": "number"
         },
-        "lg": {
+        "r_lg": {
           "value": "{font.font-size.16}",
           "type": "number"
         },
-        "xl": {
+        "r_xl": {
           "value": "{font.font-size.20}",
           "type": "number"
         },
-        "2xl": {
+        "r_2xl": {
           "value": "{font.font-size.24}",
           "type": "number"
         },
-        "3xl": {
+        "r_3xl": {
           "value": "{font.font-size.28}",
           "type": "number"
         },
-        "4xl": {
+        "r_4xl": {
           "value": "{font.font-size.32}",
           "type": "number"
         },
-        "5xl": {
+        "r_5xl": {
           "value": "{font.font-size.40}",
           "type": "number"
         },
-        "6xl": {
+        "r_6xl": {
           "value": "{font.font-size.52}",
           "type": "number"
         }
@@ -1962,43 +1962,43 @@
         }
       },
       "size": {
-        "xs": {
+        "r_xs": {
           "value": "{font.font-size.10}",
           "type": "number"
         },
-        "sm": {
+        "r_sm": {
           "value": "{font.font-size.12}",
           "type": "number"
         },
-        "md": {
+        "r_md": {
           "value": "{font.font-size.14}",
           "type": "number"
         },
-        "lg": {
+        "r_lg": {
           "value": "{font.font-size.16}",
           "type": "number"
         },
-        "xl": {
+        "r_xl": {
           "value": "{font.font-size.20}",
           "type": "number"
         },
-        "2xl": {
+        "r_2xl": {
           "value": "{font.font-size.24}",
           "type": "number"
         },
-        "3xl": {
+        "r_3xl": {
           "value": "{font.font-size.28}",
           "type": "number"
         },
-        "4xl": {
+        "r_4xl": {
           "value": "{font.font-size.32}",
           "type": "number"
         },
-        "5xl": {
+        "r_5xl": {
           "value": "{font.font-size.40}",
           "type": "number"
         },
-        "6xl": {
+        "r_6xl": {
           "value": "{font.font-size.52}",
           "type": "number"
         }
@@ -2094,43 +2094,43 @@
         }
       },
       "size": {
-        "xs": {
+        "r_xs": {
           "value": "{font.font-size.10}",
           "type": "number"
         },
-        "sm": {
+        "r_sm": {
           "value": "{font.font-size.12}",
           "type": "number"
         },
-        "md": {
+        "r_md": {
           "value": "{font.font-size.14}",
           "type": "number"
         },
-        "lg": {
+        "r_lg": {
           "value": "{font.font-size.16}",
           "type": "number"
         },
-        "xl": {
+        "r_xl": {
           "value": "{font.font-size.20}",
           "type": "number"
         },
-        "2xl": {
+        "r_2xl": {
           "value": "{font.font-size.24}",
           "type": "number"
         },
-        "3xl": {
+        "r_3xl": {
           "value": "{font.font-size.28}",
           "type": "number"
         },
-        "4xl": {
+        "r_4xl": {
           "value": "{font.font-size.32}",
           "type": "number"
         },
-        "5xl": {
+        "r_5xl": {
           "value": "{font.font-size.40}",
           "type": "number"
         },
-        "6xl": {
+        "r_6xl": {
           "value": "{font.font-size.52}",
           "type": "number"
         }
@@ -2209,16 +2209,8 @@
         "font.weight.regular": "92b8ada994b11ba37ac631dd49e759e509f873e5",
         "font.weight.medium": "08cf16a5b87c1d105153bddebfbdbe511e447b61",
         "font.weight.bold": "078cdbf103059cdf77809905f5a2ad4cd0148b80",
-        "font.size.xs": "49b46c615dc474b0f6bc67b6326d8c650ae9f58e",
-        "font.size.sm": "513ad3cf77318e81db332a663c39526d177b02de",
-        "font.size.md": "cd3b43594e3d0d3a8812fd640180927373d357bc",
-        "font.size.lg": "a2013d85a5d6e9e1d0f625e1bf7fbdb105aaeb47",
-        "font.size.xl": "05501ec985db3ffc89c408a03acf39fc67b86cad",
-        "font.size.2xl": "727779632d638dbf9ccce20a13c3c5f40e74ead3",
-        "font.size.3xl": "8eaa70c253970d44c46f955642507b9bebfdefc9",
-        "font.size.4xl": "9c25baaf5b037f843d1c3f04da3b928a60acccc3",
-        "font.size.5xl": "6dbd3371f032ae520a6cbf3d3f0a902380300a92",
-        "font.size.6xl": "45ecfcaa02af0333b87784459f0a2c9ecc43795f",
+        "font.transform": "4abcb598f218e2f7e88e68543cff492f320fca4b",
+        "font.decoration": "62d68afbdf2e7f42fff05bbebaf552bf83ebacf2",
         "font.line-height.xs_single": "3fcc1cd769211dc2efafa661a49b37a206f38965",
         "font.line-height.xs_double": "6ab398a68b92eb3810067933c2e5230b83e301c7",
         "font.line-height.sm_single": "1adbff35f7c0245415ee54fcf3284e5e2045d994",
@@ -2248,7 +2240,17 @@
         "border.radius.lg": "68393d5645180357879d0a0db49c7163b0eb887d",
         "border.radius.max": "40e896f54f1cf04a011a94ffeda778cf6f11a94a",
         "color.surface.on-inverse-surface": "076918edfd61ac3c858ffc3e874782e32fd4f981",
-        "color.other.on-other": "1fc3b0ea8c5386dad44749574d1de6c1c831fb75"
+        "color.other.on-other": "1fc3b0ea8c5386dad44749574d1de6c1c831fb75",
+        "font.size.r_xs": "49b46c615dc474b0f6bc67b6326d8c650ae9f58e",
+        "font.size.r_sm": "513ad3cf77318e81db332a663c39526d177b02de",
+        "font.size.r_md": "cd3b43594e3d0d3a8812fd640180927373d357bc",
+        "font.size.r_lg": "a2013d85a5d6e9e1d0f625e1bf7fbdb105aaeb47",
+        "font.size.r_xl": "05501ec985db3ffc89c408a03acf39fc67b86cad",
+        "font.size.r_2xl": "727779632d638dbf9ccce20a13c3c5f40e74ead3",
+        "font.size.r_3xl": "8eaa70c253970d44c46f955642507b9bebfdefc9",
+        "font.size.r_4xl": "9c25baaf5b037f843d1c3f04da3b928a60acccc3",
+        "font.size.r_5xl": "6dbd3371f032ae520a6cbf3d3f0a902380300a92",
+        "font.size.r_6xl": "45ecfcaa02af0333b87784459f0a2c9ecc43795f"
       },
       "$figmaCollectionId": "VariableCollectionId:1618:19",
       "$figmaModeId": "1618:0",
@@ -2308,23 +2310,8 @@
         "color.other.shadow": "30cef6774b02d37f00ebe68978ed4b11aed94ca6",
         "color.other.scrim": "387c639cfe10c2cbafc77f831294cbffe066cd9e",
         "color.other.overlay": "60dc640ff2c6440d06aa48b2ec69e1e51b696060",
-        "font.weight.regular": "92b8ada994b11ba37ac631dd49e759e509f873e5",
-        "font.weight.medium": "08cf16a5b87c1d105153bddebfbdbe511e447b61",
-        "font.weight.bold": "078cdbf103059cdf77809905f5a2ad4cd0148b80",
         "font.family.primary": "22e194b13e24e3f95158e271759a86a891f2a921",
         "font.family.secondary": "5cb9b5d74c769461c345d583f4da3db6d87b6f3b",
-        "font.transform": "4abcb598f218e2f7e88e68543cff492f320fca4b",
-        "font.decoration": "62d68afbdf2e7f42fff05bbebaf552bf83ebacf2",
-        "font.size.xs": "49b46c615dc474b0f6bc67b6326d8c650ae9f58e",
-        "font.size.sm": "513ad3cf77318e81db332a663c39526d177b02de",
-        "font.size.md": "cd3b43594e3d0d3a8812fd640180927373d357bc",
-        "font.size.lg": "a2013d85a5d6e9e1d0f625e1bf7fbdb105aaeb47",
-        "font.size.xl": "05501ec985db3ffc89c408a03acf39fc67b86cad",
-        "font.size.2xl": "727779632d638dbf9ccce20a13c3c5f40e74ead3",
-        "font.size.3xl": "8eaa70c253970d44c46f955642507b9bebfdefc9",
-        "font.size.4xl": "9c25baaf5b037f843d1c3f04da3b928a60acccc3",
-        "font.size.5xl": "6dbd3371f032ae520a6cbf3d3f0a902380300a92",
-        "font.size.6xl": "45ecfcaa02af0333b87784459f0a2c9ecc43795f",
         "font.line-height.xs_single": "3fcc1cd769211dc2efafa661a49b37a206f38965",
         "font.line-height.xs_double": "6ab398a68b92eb3810067933c2e5230b83e301c7",
         "font.line-height.sm_single": "1adbff35f7c0245415ee54fcf3284e5e2045d994",
@@ -2345,6 +2332,11 @@
         "font.line-height.5xl_double": "2b877212d6b0d3729253e3aeb19f029ba0f5195a",
         "font.line-height.6xl_single": "7e21380d5bd5d024ae4fc55282ef26076388fcac",
         "font.line-height.6xl_double": "75cdc5717913e69cd22a51ac8034df0cbb303571",
+        "font.weight.regular": "92b8ada994b11ba37ac631dd49e759e509f873e5",
+        "font.weight.medium": "08cf16a5b87c1d105153bddebfbdbe511e447b61",
+        "font.weight.bold": "078cdbf103059cdf77809905f5a2ad4cd0148b80",
+        "font.transform": "4abcb598f218e2f7e88e68543cff492f320fca4b",
+        "font.decoration": "62d68afbdf2e7f42fff05bbebaf552bf83ebacf2",
         "border.thickness.light": "f793e1c6fec23c4948010dbd5622c9a5930bd363",
         "border.thickness.default": "02ff2b0eb7594631cf7b7560c57b248718c59bbf",
         "border.thickness.strong": "a38f0195142084454d80c2a935f1f33549e3c72b",
@@ -2354,7 +2346,17 @@
         "border.radius.lg": "68393d5645180357879d0a0db49c7163b0eb887d",
         "border.radius.max": "40e896f54f1cf04a011a94ffeda778cf6f11a94a",
         "color.surface.inverse-on-surface": "bc1855a38d2e3cb4e668c9cb7c81daaead405d80",
-        "color.other.on-overlay": "93a8ba0ab49707e04e5b9e6d8551dd34cf235548"
+        "color.other.on-overlay": "93a8ba0ab49707e04e5b9e6d8551dd34cf235548",
+        "font.size.r_xs": "49b46c615dc474b0f6bc67b6326d8c650ae9f58e",
+        "font.size.r_sm": "513ad3cf77318e81db332a663c39526d177b02de",
+        "font.size.r_md": "cd3b43594e3d0d3a8812fd640180927373d357bc",
+        "font.size.r_lg": "a2013d85a5d6e9e1d0f625e1bf7fbdb105aaeb47",
+        "font.size.r_xl": "05501ec985db3ffc89c408a03acf39fc67b86cad",
+        "font.size.r_2xl": "727779632d638dbf9ccce20a13c3c5f40e74ead3",
+        "font.size.r_3xl": "8eaa70c253970d44c46f955642507b9bebfdefc9",
+        "font.size.r_4xl": "9c25baaf5b037f843d1c3f04da3b928a60acccc3",
+        "font.size.r_5xl": "6dbd3371f032ae520a6cbf3d3f0a902380300a92",
+        "font.size.r_6xl": "45ecfcaa02af0333b87784459f0a2c9ecc43795f"
       },
       "$figmaCollectionId": "VariableCollectionId:1618:19",
       "$figmaModeId": "1618:1",
@@ -2372,16 +2374,6 @@
         "r_viewport": "acc1fbe008eef04c3c90b27e9880b8606aea4d18",
         "dimentions.page.r_min-width": "ed30df56080c1edffa50f619fca4cb708172c777",
         "dimentions.page.r_max-width": "2e5ecb39902af066f8ce16c2da0e3ec15e942ce8",
-        "font.size.r_xs": "ec8e6f0d6a2612a631ccd45479579b98287b0b31",
-        "font.size.r_sm": "54c48d3bc6e20029cdfd534a9308662f227672a7",
-        "font.size.r_md": "a87de6985d9272a1220fabc85de9929d452d7e81",
-        "font.size.r_lg": "6b614c6267c3f4850274d0359900f1c3e53d2dc2",
-        "font.size.r_xl": "28afa3f34e1740f5c16fb0a70211e2c8d141e805",
-        "font.size.r_2xl": "eed2d24e19f0eca50ca374ee737696b635e1488a",
-        "font.size.r_3xl": "f59ef6722deb5ef2735e74595361da2dd4fee31a",
-        "font.size.r_4xl": "f49c94f6c0b08653fab9ca955934612cf61f1a9f",
-        "font.size.r_5xl": "5b433f9cdb0a7dde83237997ca9f7197370a9784",
-        "font.size.r_6xl": "ba0af10150ea1de065cc41092468d118dea0ff40",
         "font.line-height.r_xs_single": "38474c8a982da8508bf48eb84138ed29884a7c97",
         "font.line-height.r_xs_double": "84f205bb1ebbd00c7d36bbb682302933f147f34b",
         "font.line-height.r_sm_single": "b70a3f8b9284dbd2261ecd3b3ab9ddfad3426010",
@@ -2401,7 +2393,17 @@
         "font.line-height.r_5xl_single": "4bedf4c4d19e1770fdb5e20c71c4b396e4146e7f",
         "font.line-height.r_5xl_double": "15b274dc146921407d57150534a8f7694eff3fff",
         "font.line-height.r_6xl_single": "2f1ca85808372f5c43257c5f88b056656e32be82",
-        "font.line-height.r_6xl_double": "530c21c2bf369e3522b2da083c2a4ee73f970499"
+        "font.line-height.r_6xl_double": "530c21c2bf369e3522b2da083c2a4ee73f970499",
+        "font.size.r_xs": "6d4ee33b26f6647a3891c4801364ccffb5138d2a",
+        "font.size.r_sm": "47ed9f218a2a9afda3ab7de8308e09f4f6a7a375",
+        "font.size.r_md": "0c0e2941a98e8c4bcbd7ebf46208154c63f8c5c0",
+        "font.size.r_lg": "eda23439444a7471cfabf2181501d25b486332d4",
+        "font.size.r_xl": "d84ce5071a93a0816755fb501ea7a2596b0a6c51",
+        "font.size.r_2xl": "79c4ea8a2fb4099e7e50bf438d68057a2e71d7d1",
+        "font.size.r_3xl": "516b3a93fdecc03cfe6dcdd96b99ab4efca783a4",
+        "font.size.r_4xl": "318041dc804ae2aedda2017489f649255fcf5919",
+        "font.size.r_5xl": "f4978ac30925049261b0fb3c8a10fd7cd07c57de",
+        "font.size.r_6xl": "99448368870aa6ec9d833e34c2724e623d30e84e"
       },
       "$figmaCollectionId": "VariableCollectionId:1618:20",
       "$figmaModeId": "1618:2",
@@ -2419,16 +2421,6 @@
         "r_viewport": "acc1fbe008eef04c3c90b27e9880b8606aea4d18",
         "dimentions.page.r_min-width": "ed30df56080c1edffa50f619fca4cb708172c777",
         "dimentions.page.r_max-width": "2e5ecb39902af066f8ce16c2da0e3ec15e942ce8",
-        "font.size.r_xs": "ec8e6f0d6a2612a631ccd45479579b98287b0b31",
-        "font.size.r_sm": "54c48d3bc6e20029cdfd534a9308662f227672a7",
-        "font.size.r_md": "a87de6985d9272a1220fabc85de9929d452d7e81",
-        "font.size.r_lg": "6b614c6267c3f4850274d0359900f1c3e53d2dc2",
-        "font.size.r_xl": "28afa3f34e1740f5c16fb0a70211e2c8d141e805",
-        "font.size.r_2xl": "eed2d24e19f0eca50ca374ee737696b635e1488a",
-        "font.size.r_3xl": "f59ef6722deb5ef2735e74595361da2dd4fee31a",
-        "font.size.r_4xl": "f49c94f6c0b08653fab9ca955934612cf61f1a9f",
-        "font.size.r_5xl": "5b433f9cdb0a7dde83237997ca9f7197370a9784",
-        "font.size.r_6xl": "ba0af10150ea1de065cc41092468d118dea0ff40",
         "font.line-height.r_xs_single": "38474c8a982da8508bf48eb84138ed29884a7c97",
         "font.line-height.r_xs_double": "84f205bb1ebbd00c7d36bbb682302933f147f34b",
         "font.line-height.r_sm_single": "b70a3f8b9284dbd2261ecd3b3ab9ddfad3426010",
@@ -2448,7 +2440,17 @@
         "font.line-height.r_5xl_single": "4bedf4c4d19e1770fdb5e20c71c4b396e4146e7f",
         "font.line-height.r_5xl_double": "15b274dc146921407d57150534a8f7694eff3fff",
         "font.line-height.r_6xl_single": "2f1ca85808372f5c43257c5f88b056656e32be82",
-        "font.line-height.r_6xl_double": "530c21c2bf369e3522b2da083c2a4ee73f970499"
+        "font.line-height.r_6xl_double": "530c21c2bf369e3522b2da083c2a4ee73f970499",
+        "font.size.r_xs": "6d4ee33b26f6647a3891c4801364ccffb5138d2a",
+        "font.size.r_sm": "47ed9f218a2a9afda3ab7de8308e09f4f6a7a375",
+        "font.size.r_md": "0c0e2941a98e8c4bcbd7ebf46208154c63f8c5c0",
+        "font.size.r_lg": "eda23439444a7471cfabf2181501d25b486332d4",
+        "font.size.r_xl": "d84ce5071a93a0816755fb501ea7a2596b0a6c51",
+        "font.size.r_2xl": "79c4ea8a2fb4099e7e50bf438d68057a2e71d7d1",
+        "font.size.r_3xl": "516b3a93fdecc03cfe6dcdd96b99ab4efca783a4",
+        "font.size.r_4xl": "318041dc804ae2aedda2017489f649255fcf5919",
+        "font.size.r_5xl": "f4978ac30925049261b0fb3c8a10fd7cd07c57de",
+        "font.size.r_6xl": "99448368870aa6ec9d833e34c2724e623d30e84e"
       },
       "$figmaCollectionId": "VariableCollectionId:1618:20",
       "$figmaModeId": "1618:3",
@@ -2466,16 +2468,6 @@
         "r_viewport": "acc1fbe008eef04c3c90b27e9880b8606aea4d18",
         "dimentions.page.r_min-width": "ed30df56080c1edffa50f619fca4cb708172c777",
         "dimentions.page.r_max-width": "2e5ecb39902af066f8ce16c2da0e3ec15e942ce8",
-        "font.size.r_xs": "ec8e6f0d6a2612a631ccd45479579b98287b0b31",
-        "font.size.r_sm": "54c48d3bc6e20029cdfd534a9308662f227672a7",
-        "font.size.r_md": "a87de6985d9272a1220fabc85de9929d452d7e81",
-        "font.size.r_lg": "6b614c6267c3f4850274d0359900f1c3e53d2dc2",
-        "font.size.r_xl": "28afa3f34e1740f5c16fb0a70211e2c8d141e805",
-        "font.size.r_2xl": "eed2d24e19f0eca50ca374ee737696b635e1488a",
-        "font.size.r_3xl": "f59ef6722deb5ef2735e74595361da2dd4fee31a",
-        "font.size.r_4xl": "f49c94f6c0b08653fab9ca955934612cf61f1a9f",
-        "font.size.r_5xl": "5b433f9cdb0a7dde83237997ca9f7197370a9784",
-        "font.size.r_6xl": "ba0af10150ea1de065cc41092468d118dea0ff40",
         "font.line-height.r_xs_single": "38474c8a982da8508bf48eb84138ed29884a7c97",
         "font.line-height.r_xs_double": "84f205bb1ebbd00c7d36bbb682302933f147f34b",
         "font.line-height.r_sm_single": "b70a3f8b9284dbd2261ecd3b3ab9ddfad3426010",
@@ -2495,7 +2487,17 @@
         "font.line-height.r_5xl_single": "4bedf4c4d19e1770fdb5e20c71c4b396e4146e7f",
         "font.line-height.r_5xl_double": "15b274dc146921407d57150534a8f7694eff3fff",
         "font.line-height.r_6xl_single": "2f1ca85808372f5c43257c5f88b056656e32be82",
-        "font.line-height.r_6xl_double": "530c21c2bf369e3522b2da083c2a4ee73f970499"
+        "font.line-height.r_6xl_double": "530c21c2bf369e3522b2da083c2a4ee73f970499",
+        "font.size.r_xs": "6d4ee33b26f6647a3891c4801364ccffb5138d2a",
+        "font.size.r_sm": "47ed9f218a2a9afda3ab7de8308e09f4f6a7a375",
+        "font.size.r_md": "0c0e2941a98e8c4bcbd7ebf46208154c63f8c5c0",
+        "font.size.r_lg": "eda23439444a7471cfabf2181501d25b486332d4",
+        "font.size.r_xl": "d84ce5071a93a0816755fb501ea7a2596b0a6c51",
+        "font.size.r_2xl": "79c4ea8a2fb4099e7e50bf438d68057a2e71d7d1",
+        "font.size.r_3xl": "516b3a93fdecc03cfe6dcdd96b99ab4efca783a4",
+        "font.size.r_4xl": "318041dc804ae2aedda2017489f649255fcf5919",
+        "font.size.r_5xl": "f4978ac30925049261b0fb3c8a10fd7cd07c57de",
+        "font.size.r_6xl": "99448368870aa6ec9d833e34c2724e623d30e84e"
       },
       "$figmaCollectionId": "VariableCollectionId:1618:20",
       "$figmaModeId": "1618:4",
@@ -2513,16 +2515,6 @@
         "r_viewport": "acc1fbe008eef04c3c90b27e9880b8606aea4d18",
         "dimentions.page.r_min-width": "ed30df56080c1edffa50f619fca4cb708172c777",
         "dimentions.page.r_max-width": "2e5ecb39902af066f8ce16c2da0e3ec15e942ce8",
-        "font.size.r_xs": "ec8e6f0d6a2612a631ccd45479579b98287b0b31",
-        "font.size.r_sm": "54c48d3bc6e20029cdfd534a9308662f227672a7",
-        "font.size.r_md": "a87de6985d9272a1220fabc85de9929d452d7e81",
-        "font.size.r_lg": "6b614c6267c3f4850274d0359900f1c3e53d2dc2",
-        "font.size.r_xl": "28afa3f34e1740f5c16fb0a70211e2c8d141e805",
-        "font.size.r_2xl": "eed2d24e19f0eca50ca374ee737696b635e1488a",
-        "font.size.r_3xl": "f59ef6722deb5ef2735e74595361da2dd4fee31a",
-        "font.size.r_4xl": "f49c94f6c0b08653fab9ca955934612cf61f1a9f",
-        "font.size.r_5xl": "5b433f9cdb0a7dde83237997ca9f7197370a9784",
-        "font.size.r_6xl": "ba0af10150ea1de065cc41092468d118dea0ff40",
         "font.line-height.r_xs_single": "38474c8a982da8508bf48eb84138ed29884a7c97",
         "font.line-height.r_xs_double": "84f205bb1ebbd00c7d36bbb682302933f147f34b",
         "font.line-height.r_sm_single": "b70a3f8b9284dbd2261ecd3b3ab9ddfad3426010",
@@ -2542,7 +2534,17 @@
         "font.line-height.r_5xl_single": "4bedf4c4d19e1770fdb5e20c71c4b396e4146e7f",
         "font.line-height.r_5xl_double": "15b274dc146921407d57150534a8f7694eff3fff",
         "font.line-height.r_6xl_single": "2f1ca85808372f5c43257c5f88b056656e32be82",
-        "font.line-height.r_6xl_double": "530c21c2bf369e3522b2da083c2a4ee73f970499"
+        "font.line-height.r_6xl_double": "530c21c2bf369e3522b2da083c2a4ee73f970499",
+        "font.size.r_xs": "6d4ee33b26f6647a3891c4801364ccffb5138d2a",
+        "font.size.r_sm": "47ed9f218a2a9afda3ab7de8308e09f4f6a7a375",
+        "font.size.r_md": "0c0e2941a98e8c4bcbd7ebf46208154c63f8c5c0",
+        "font.size.r_lg": "eda23439444a7471cfabf2181501d25b486332d4",
+        "font.size.r_xl": "d84ce5071a93a0816755fb501ea7a2596b0a6c51",
+        "font.size.r_2xl": "79c4ea8a2fb4099e7e50bf438d68057a2e71d7d1",
+        "font.size.r_3xl": "516b3a93fdecc03cfe6dcdd96b99ab4efca783a4",
+        "font.size.r_4xl": "318041dc804ae2aedda2017489f649255fcf5919",
+        "font.size.r_5xl": "f4978ac30925049261b0fb3c8a10fd7cd07c57de",
+        "font.size.r_6xl": "99448368870aa6ec9d833e34c2724e623d30e84e"
       },
       "$figmaCollectionId": "VariableCollectionId:1618:20",
       "$figmaModeId": "1618:5",
