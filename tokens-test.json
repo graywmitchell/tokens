@@ -969,20 +969,6 @@
       }
     },
     "font": {
-      "weight": {
-        "regular": {
-          "value": "{font.font-weight.regular}",
-          "type": "text"
-        },
-        "medium": {
-          "value": "{font.font-weight.medium}",
-          "type": "text"
-        },
-        "bold": {
-          "value": "{font.font-weight.bold}",
-          "type": "text"
-        }
-      },
       "family": {
         "primary": {
           "value": "{font.font-family.primary}",
@@ -992,14 +978,6 @@
           "value": "{font.font-family.secondary}",
           "type": "text"
         }
-      },
-      "transform": {
-        "value": "{font-transform}",
-        "type": "text"
-      },
-      "decoration": {
-        "value": "{font-decoration}",
-        "type": "text"
       },
       "size": {
         "xs": {
@@ -1124,6 +1102,28 @@
           "value": "{font.line-height.52_double}",
           "type": "number"
         }
+      },
+      "weight": {
+        "regular": {
+          "value": "{font.font-weight.regular}",
+          "type": "text"
+        },
+        "medium": {
+          "value": "{font.font-weight.medium}",
+          "type": "text"
+        },
+        "bold": {
+          "value": "{font.font-weight.bold}",
+          "type": "text"
+        }
+      },
+      "transform": {
+        "value": "{font-transform}",
+        "type": "text"
+      },
+      "decoration": {
+        "value": "{font-decoration}",
+        "type": "text"
       }
     },
     "border": {
@@ -2209,8 +2209,6 @@
         "font.weight.regular": "92b8ada994b11ba37ac631dd49e759e509f873e5",
         "font.weight.medium": "08cf16a5b87c1d105153bddebfbdbe511e447b61",
         "font.weight.bold": "078cdbf103059cdf77809905f5a2ad4cd0148b80",
-        "font.transform": "4abcb598f218e2f7e88e68543cff492f320fca4b",
-        "font.decoration": "62d68afbdf2e7f42fff05bbebaf552bf83ebacf2",
         "font.size.xs": "49b46c615dc474b0f6bc67b6326d8c650ae9f58e",
         "font.size.sm": "513ad3cf77318e81db332a663c39526d177b02de",
         "font.size.md": "cd3b43594e3d0d3a8812fd640180927373d357bc",
