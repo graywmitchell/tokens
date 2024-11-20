@@ -329,7 +329,7 @@
           "type": "color"
         },
         "600": {
-          "value": "#9b229b",
+          "value": "#227D9B",
           "type": "color"
         },
         "700": {
@@ -341,7 +341,7 @@
           "type": "color"
         },
         "900": {
-          "value": "#381f38",
+          "value": "#1e3137",
           "type": "color"
         }
       },
@@ -741,7 +741,7 @@
           "type": "color"
         },
         "primary-variant": {
-          "value": "{color.brand-1.900}",
+          "value": "{color.brand-1.800}",
           "type": "color"
         },
         "on-primary": {
