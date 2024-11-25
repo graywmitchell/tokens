@@ -1,0 +1,10 @@
+{
+  "tokenSetOrder": [
+    "primitives/whiteLabel",
+    "primitives/dsBuild",
+    "theme/whiteLabel-light",
+    "theme/whiteLabel-dark",
+    "theme/dsBuild-light",
+    "theme/dsBuild-dark"
+  ]
+}
