@@ -897,19 +897,19 @@
       },
       "featured": {
         "featured-default": {
-          "value": "{color.accent-6.600}",
+          "value": "{color.brand-2.600}",
           "type": "color"
         },
         "on-featured": {
-          "value": "{color.accent-6.50}",
+          "value": "{color.brand-2.50}",
           "type": "color"
         },
         "featured-container": {
-          "value": "{color.accent-6.100}",
+          "value": "{color.brand-2.100}",
           "type": "color"
         },
         "on-featured-container": {
-          "value": "{color.accent-6.800}",
+          "value": "{color.brand-2.800}",
           "type": "color"
         }
       },
@@ -1111,11 +1111,11 @@
           "type": "number"
         },
         "sm": {
-          "value": "{border-radius.4}",
+          "value": "{border-radius.none}",
           "type": "number"
         },
         "md": {
-          "value": "{border-radius.16}",
+          "value": "{border-radius.none}",
           "type": "number"
         },
         "lg": {
@@ -1305,19 +1305,19 @@
       },
       "featured": {
         "featured-default": {
-          "value": "{color.accent-6.100}",
+          "value": "{color.brand-2.100}",
           "type": "color"
         },
         "on-featured": {
-          "value": "{color.accent-6.900}",
+          "value": "{color.brand-2.900}",
           "type": "color"
         },
         "featured-container": {
-          "value": "{color.accent-6.600}",
+          "value": "{color.brand-2.600}",
           "type": "color"
         },
         "on-featured-container": {
-          "value": "{color.accent-6.50}",
+          "value": "{color.brand-2.50}",
           "type": "color"
         }
       },
@@ -1519,11 +1519,11 @@
           "type": "number"
         },
         "sm": {
-          "value": "{border-radius.4}",
+          "value": "{border-radius.none}",
           "type": "number"
         },
         "md": {
-          "value": "{border-radius.16}",
+          "value": "{border-radius.none}",
           "type": "number"
         },
         "lg": {
