@@ -447,11 +447,11 @@
           "type": "text"
         },
         "regular": {
-          "value": "Lt",
+          "value": "Regular",
           "type": "text"
         },
         "medium": {
-          "value": "Regular",
+          "value": "Bold",
           "type": "text"
         },
         "bold": {
