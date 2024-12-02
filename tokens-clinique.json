@@ -1119,7 +1119,7 @@
           "type": "number"
         },
         "lg": {
-          "value": "{border-radius.24}",
+          "value": "{border-radius.none}",
           "type": "number"
         },
         "xl": {
@@ -1527,7 +1527,7 @@
           "type": "number"
         },
         "lg": {
-          "value": "{border-radius.24}",
+          "value": "{border-radius.none}",
           "type": "number"
         },
         "xl": {
