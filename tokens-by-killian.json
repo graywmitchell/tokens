@@ -334,10 +334,6 @@
         }
       },
       "font-size": {
-        "10": {
-          "value": "10",
-          "type": "number"
-        },
         "12": {
           "value": "12",
           "type": "number"
@@ -392,14 +388,6 @@
         }
       },
       "line-height": {
-        "10-single": {
-          "value": "12",
-          "type": "number"
-        },
-        "10-double": {
-          "value": "14",
-          "type": "number"
-        },
         "12-single": {
           "value": "14",
           "type": "number"
@@ -843,15 +831,15 @@
       },
       "size": {
         "xs": {
-          "value": "{font.font-size.10}",
-          "type": "number"
-        },
-        "sm": {
           "value": "{font.font-size.12}",
           "type": "number"
         },
-        "md": {
+        "sm": {
           "value": "{font.font-size.14}",
+          "type": "number"
+        },
+        "md": {
+          "value": "{font.font-size.15}",
           "type": "number"
         },
         "lg": {
@@ -885,27 +873,27 @@
       },
       "line-height": {
         "xs-single": {
-          "value": "{font.line-height.10-single}",
-          "type": "number"
-        },
-        "xs-double": {
-          "value": "{font.line-height.10-double}",
-          "type": "number"
-        },
-        "sm-single": {
           "value": "{font.line-height.12-single}",
           "type": "number"
         },
-        "sm-double": {
+        "xs-double": {
           "value": "{font.line-height.12-double}",
           "type": "number"
         },
-        "md-single": {
+        "sm-single": {
           "value": "{font.line-height.14-single}",
           "type": "number"
         },
-        "md-double": {
+        "sm-double": {
           "value": "{font.line-height.14-double}",
+          "type": "number"
+        },
+        "md-single": {
+          "value": "{font.line-height.15-single}",
+          "type": "number"
+        },
+        "md-double": {
+          "value": "{font.line-height.15-double}",
           "type": "number"
         },
         "lg-single": {
@@ -1017,7 +1005,7 @@
           "type": "number"
         },
         "lg": {
-          "value": "{border-radius.16}",
+          "value": "{border-radius.none}",
           "type": "number"
         },
         "xl": {
@@ -1273,15 +1261,15 @@
       },
       "size": {
         "xs": {
-          "value": "{font.font-size.10}",
-          "type": "number"
-        },
-        "sm": {
           "value": "{font.font-size.12}",
           "type": "number"
         },
-        "md": {
+        "sm": {
           "value": "{font.font-size.14}",
+          "type": "number"
+        },
+        "md": {
+          "value": "{font.font-size.15}",
           "type": "number"
         },
         "lg": {
@@ -1315,27 +1303,27 @@
       },
       "line-height": {
         "xs-single": {
-          "value": "{font.line-height.10-single}",
-          "type": "number"
-        },
-        "xs-double": {
-          "value": "{font.line-height.10-double}",
-          "type": "number"
-        },
-        "sm-single": {
           "value": "{font.line-height.12-single}",
           "type": "number"
         },
-        "sm-double": {
+        "xs-double": {
           "value": "{font.line-height.12-double}",
           "type": "number"
         },
-        "md-single": {
+        "sm-single": {
           "value": "{font.line-height.14-single}",
           "type": "number"
         },
-        "md-double": {
+        "sm-double": {
           "value": "{font.line-height.14-double}",
+          "type": "number"
+        },
+        "md-single": {
+          "value": "{font.line-height.15-single}",
+          "type": "number"
+        },
+        "md-double": {
+          "value": "{font.line-height.15-double}",
           "type": "number"
         },
         "lg-single": {
@@ -1425,7 +1413,7 @@
           "type": "number"
         },
         "lg": {
-          "value": "{border-radius.16}",
+          "value": "{border-radius.none}",
           "type": "number"
         },
         "xl": {
