@@ -731,11 +731,11 @@
       },
       "outline": {
         "outline-default": {
-          "value": "{color.neutral.400}",
+          "value": "{color.brand-1.300}",
           "type": "color"
         },
         "outline-variant": {
-          "value": "{color.neutral.100}",
+          "value": "{color.brand-1.200}",
           "type": "color"
         }
       },
