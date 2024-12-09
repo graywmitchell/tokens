@@ -1120,7 +1120,7 @@
           "value": "{color.neutral.100}",
           "type": "color"
         },
-        "inverse-on-surface": {
+        "on-inverse-surface": {
           "value": "{color.neutral.800}",
           "type": "color"
         }
@@ -2205,8 +2205,8 @@
         "border.radius.md": "4268859a999d6defb5396f64535052dc43ea69b1",
         "border.radius.lg": "3ad5a4153c2658ce6ec0335c9f863a3a29d00c65",
         "border.radius.xl": "5b037e77a996a0ee6f1ab4c2bbed91862c4d7044",
-        "color.surface.inverse-on-surface": "443319d83dc927144d27150582978ce990f56e16",
-        "color.other.on-overlay": "89c7a5bc6d9ed65a3a507e896d98ae67d98c0f3b"
+        "color.other.on-overlay": "89c7a5bc6d9ed65a3a507e896d98ae67d98c0f3b",
+        "color.surface.on-inverse-surface": "443319d83dc927144d27150582978ce990f56e16"
       },
       "$figmaCollectionId": "VariableCollectionId:5008:1178",
       "$figmaModeId": "5008:1",
