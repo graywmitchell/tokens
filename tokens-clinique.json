@@ -1234,7 +1234,7 @@
           "value": "{color.neutral.100}",
           "type": "color"
         },
-        "inverse-on-surface": {
+        "on-inverse-surface": {
           "value": "{color.neutral.800}",
           "type": "color"
         }
@@ -2147,6 +2147,7 @@
         "color.surface.surface-container-medium": "1bfe3343ad724b18c90cfb8a4339e61d77c46a0d",
         "color.surface.surface-container-high": "dbb4fb117697aaa72b7463ab41f113081ad21cc3",
         "color.surface.inverse-surface": "bbe64baa94608f950faafa71093b4386ee1e9c1a",
+        "color.surface.on-inverse-surface": "89fac2d7b92cd2685a9abe68f95b82fb13111581",
         "color.outline.outline-default": "35d93704a370c3af1fdf65f861d023d72f3159f4",
         "color.outline.outline-variant": "ed529e810aecc62a1cff5b87ee820cf7692992ca",
         "color.critical.critical-default": "913c0c0f3c5a391c15ed4a3cde6900232d2f0111",
@@ -2213,7 +2214,6 @@
         "border.radius.md": "1f30be7e7c25eb00db9c94c8579511262a51cfcf",
         "border.radius.lg": "2621530803bab5ea8f9b45570089f98c78824e0e",
         "border.radius.xl": "871bc4992edb12f678c3dca9a3bf2437379a81cf",
-        "color.surface.on-inverse-surface": "89fac2d7b92cd2685a9abe68f95b82fb13111581",
         "color.other.on-other": "a0f8532789e1cf7048cea449cfd3fa3b04993167"
       },
       "$figmaCollectionId": "VariableCollectionId:1618:19",
@@ -2250,6 +2250,7 @@
         "color.surface.surface-variant": "7ee537a9c3347026cd8066a4f9c12387d6dff576",
         "color.surface.on-surface-variant": "ad577a64221f9e02bdef688e77524d531985aae4",
         "color.surface.inverse-surface": "bbe64baa94608f950faafa71093b4386ee1e9c1a",
+        "color.surface.on-inverse-surface": "89fac2d7b92cd2685a9abe68f95b82fb13111581",
         "color.surface.surface-container-low": "b313e3519beafabb1903b6d282891fd29cdbb315",
         "color.surface.surface-container-medium": "1bfe3343ad724b18c90cfb8a4339e61d77c46a0d",
         "color.surface.surface-container-high": "dbb4fb117697aaa72b7463ab41f113081ad21cc3",
@@ -2319,7 +2320,6 @@
         "border.radius.md": "1f30be7e7c25eb00db9c94c8579511262a51cfcf",
         "border.radius.lg": "2621530803bab5ea8f9b45570089f98c78824e0e",
         "border.radius.xl": "871bc4992edb12f678c3dca9a3bf2437379a81cf",
-        "color.surface.inverse-on-surface": "2f3679e373b3e39de4eb80f75688e0bc57a0f083",
         "color.other.on-overlay": "8b31c55f6f4fc4ec69fb644b3b0990345c63515f"
       },
       "$figmaCollectionId": "VariableCollectionId:1618:19",
