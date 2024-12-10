@@ -831,7 +831,7 @@
           "type": "color"
         },
         "surface-container-low": {
-          "value": "{color.neutral.0}",
+          "value": "{color.neutral.50}",
           "type": "color"
         },
         "surface-container-medium": {
