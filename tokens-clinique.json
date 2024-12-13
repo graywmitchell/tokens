@@ -1123,7 +1123,7 @@
           "type": "number"
         },
         "xl": {
-          "value": "{border-radius.max}",
+          "value": "{border-radius.none}",
           "type": "number"
         }
       }
@@ -1531,7 +1531,7 @@
           "type": "number"
         },
         "xl": {
-          "value": "{border-radius.max}",
+          "value": "{border-radius.none}",
           "type": "number"
         }
       }
