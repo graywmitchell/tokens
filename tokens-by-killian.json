@@ -1443,97 +1443,97 @@
     "font": {
       "line-height": {
         "r-xs-single": {
-          "value": "{font.line-height.14-single}",
+          "value": "{font.line-height.12-single}",
           "type": "number"
         },
         "r-xs-double": {
-          "value": "{font.line-height.14-double}",
+          "value": "{font.line-height.12-double}",
           "type": "number"
         },
         "r-sm-single": {
-          "value": "{font.line-height.16-single}",
+          "value": "{font.line-height.14-single}",
           "type": "number"
         },
         "r-sm-double": {
-          "value": "{font.line-height.16-double}",
+          "value": "{font.line-height.14-double}",
           "type": "number"
         },
         "r-md-single": {
-          "value": "{font.line-height.18-single}",
+          "value": "{font.line-height.15-single}",
           "type": "number"
         },
         "r-md-double": {
-          "value": "{font.line-height.18-double}",
+          "value": "{font.line-height.15-double}",
           "type": "number"
         },
         "r-lg-single": {
-          "value": "{font.line-height.21-single}",
+          "value": "{font.line-height.16-single}",
           "type": "number"
         },
         "r-lg-double": {
-          "value": "{font.line-height.21-double}",
+          "value": "{font.line-height.16-double}",
           "type": "number"
         },
         "r-xl-single": {
-          "value": "{font.line-height.26-single}",
+          "value": "{font.line-height.18-single}",
           "type": "number"
         },
         "r-xl-double": {
-          "value": "{font.line-height.26-double}",
+          "value": "{font.line-height.18-double}",
           "type": "number"
         },
         "r-2xl-single": {
-          "value": "{font.line-height.28-single}",
+          "value": "{font.line-height.21-single}",
           "type": "number"
         },
         "r-2xl-double": {
-          "value": "{font.line-height.28-double}",
+          "value": "{font.line-height.21-double}",
           "type": "number"
         },
         "r-3xl-single": {
-          "value": "{font.line-height.40-single}",
+          "value": "{font.line-height.26-single}",
           "type": "number"
         },
         "r-3xl-double": {
-          "value": "{font.line-height.40-double}",
+          "value": "{font.line-height.26-double}",
           "type": "number"
         },
         "r-4xl-single": {
-          "value": "{font.line-height.50-single}",
+          "value": "{font.line-height.28-single}",
           "type": "number"
         },
         "r-4xl-double": {
-          "value": "{font.line-height.50-double}",
+          "value": "{font.line-height.28-double}",
           "type": "number"
         },
         "r-5xl-single": {
-          "value": "{font.line-height.64-single}",
+          "value": "{font.line-height.40-single}",
           "type": "number"
         },
         "r-5xl-double": {
-          "value": "{font.line-height.64-double}",
+          "value": "{font.line-height.40-double}",
           "type": "number"
         },
         "r-6xl-single": {
-          "value": "{font.line-height.76-single}",
+          "value": "{font.line-height.50-single}",
           "type": "number"
         },
         "r-6xl-double": {
-          "value": "{font.line-height.76-double}",
+          "value": "{font.line-height.50-double}",
           "type": "number"
         }
       },
       "size": {
         "r-xs": {
-          "value": "{font.font-size.10}",
-          "type": "number"
-        },
-        "r-sm": {
           "value": "{font.font-size.12}",
           "type": "number"
         },
-        "r-md": {
+        "r-sm": {
           "value": "{font.font-size.14}",
+          "type": "number"
+        },
+        "r-md": {
+          "value": "{font.font-size.15}",
           "type": "number"
         },
         "r-lg": {
@@ -1587,97 +1587,97 @@
     "font": {
       "line-height": {
         "r-xs-single": {
-          "value": "{font.line-height.14-single}",
+          "value": "{font.line-height.12-single}",
           "type": "number"
         },
         "r-xs-double": {
-          "value": "{font.line-height.14-double}",
+          "value": "{font.line-height.12-double}",
           "type": "number"
         },
         "r-sm-single": {
-          "value": "{font.line-height.16-single}",
+          "value": "{font.line-height.14-single}",
           "type": "number"
         },
         "r-sm-double": {
-          "value": "{font.line-height.16-double}",
+          "value": "{font.line-height.14-double}",
           "type": "number"
         },
         "r-md-single": {
-          "value": "{font.line-height.18-single}",
+          "value": "{font.line-height.15-single}",
           "type": "number"
         },
         "r-md-double": {
-          "value": "{font.line-height.18-double}",
+          "value": "{font.line-height.15-double}",
           "type": "number"
         },
         "r-lg-single": {
-          "value": "{font.line-height.21-single}",
+          "value": "{font.line-height.16-single}",
           "type": "number"
         },
         "r-lg-double": {
-          "value": "{font.line-height.21-double}",
+          "value": "{font.line-height.16-double}",
           "type": "number"
         },
         "r-xl-single": {
-          "value": "{font.line-height.26-single}",
+          "value": "{font.line-height.18-single}",
           "type": "number"
         },
         "r-xl-double": {
-          "value": "{font.line-height.26-double}",
+          "value": "{font.line-height.18-double}",
           "type": "number"
         },
         "r-2xl-single": {
-          "value": "{font.line-height.28-single}",
+          "value": "{font.line-height.21-single}",
           "type": "number"
         },
         "r-2xl-double": {
-          "value": "{font.line-height.28-double}",
+          "value": "{font.line-height.21-double}",
           "type": "number"
         },
         "r-3xl-single": {
-          "value": "{font.line-height.40-single}",
+          "value": "{font.line-height.26-single}",
           "type": "number"
         },
         "r-3xl-double": {
-          "value": "{font.line-height.40-double}",
+          "value": "{font.line-height.26-double}",
           "type": "number"
         },
         "r-4xl-single": {
-          "value": "{font.line-height.50-single}",
+          "value": "{font.line-height.28-single}",
           "type": "number"
         },
         "r-4xl-double": {
-          "value": "{font.line-height.50-double}",
+          "value": "{font.line-height.28-double}",
           "type": "number"
         },
         "r-5xl-single": {
-          "value": "{font.line-height.64-single}",
+          "value": "{font.line-height.40-single}",
           "type": "number"
         },
         "r-5xl-double": {
-          "value": "{font.line-height.64-double}",
+          "value": "{font.line-height.40-double}",
           "type": "number"
         },
         "r-6xl-single": {
-          "value": "{font.line-height.76-single}",
+          "value": "{font.line-height.50-single}",
           "type": "number"
         },
         "r-6xl-double": {
-          "value": "{font.line-height.76-double}",
+          "value": "{font.line-height.50-double}",
           "type": "number"
         }
       },
       "size": {
         "r-xs": {
-          "value": "{font.font-size.10}",
-          "type": "number"
-        },
-        "r-sm": {
           "value": "{font.font-size.12}",
           "type": "number"
         },
-        "r-md": {
+        "r-sm": {
           "value": "{font.font-size.14}",
+          "type": "number"
+        },
+        "r-md": {
+          "value": "{font.font-size.15}",
           "type": "number"
         },
         "r-lg": {
@@ -1731,97 +1731,97 @@
     "font": {
       "line-height": {
         "r-xs-single": {
-          "value": "{font.line-height.14-single}",
+          "value": "{font.line-height.12-single}",
           "type": "number"
         },
         "r-xs-double": {
-          "value": "{font.line-height.14-double}",
+          "value": "{font.line-height.12-double}",
           "type": "number"
         },
         "r-sm-single": {
-          "value": "{font.line-height.16-single}",
+          "value": "{font.line-height.14-single}",
           "type": "number"
         },
         "r-sm-double": {
-          "value": "{font.line-height.16-double}",
+          "value": "{font.line-height.14-double}",
           "type": "number"
         },
         "r-md-single": {
-          "value": "{font.line-height.18-single}",
+          "value": "{font.line-height.15-single}",
           "type": "number"
         },
         "r-md-double": {
-          "value": "{font.line-height.18-double}",
+          "value": "{font.line-height.15-double}",
           "type": "number"
         },
         "r-lg-single": {
-          "value": "{font.line-height.21-single}",
+          "value": "{font.line-height.16-single}",
           "type": "number"
         },
         "r-lg-double": {
-          "value": "{font.line-height.21-double}",
+          "value": "{font.line-height.16-double}",
           "type": "number"
         },
         "r-xl-single": {
-          "value": "{font.line-height.26-single}",
+          "value": "{font.line-height.18-single}",
           "type": "number"
         },
         "r-xl-double": {
-          "value": "{font.line-height.26-double}",
+          "value": "{font.line-height.18-double}",
           "type": "number"
         },
         "r-2xl-single": {
-          "value": "{font.line-height.28-single}",
+          "value": "{font.line-height.21-single}",
           "type": "number"
         },
         "r-2xl-double": {
-          "value": "{font.line-height.28-double}",
+          "value": "{font.line-height.21-double}",
           "type": "number"
         },
         "r-3xl-single": {
-          "value": "{font.line-height.40-single}",
+          "value": "{font.line-height.26-single}",
           "type": "number"
         },
         "r-3xl-double": {
-          "value": "{font.line-height.40-double}",
+          "value": "{font.line-height.26-double}",
           "type": "number"
         },
         "r-4xl-single": {
-          "value": "{font.line-height.50-single}",
+          "value": "{font.line-height.28-single}",
           "type": "number"
         },
         "r-4xl-double": {
-          "value": "{font.line-height.50-double}",
+          "value": "{font.line-height.28-double}",
           "type": "number"
         },
         "r-5xl-single": {
-          "value": "{font.line-height.64-single}",
+          "value": "{font.line-height.40-single}",
           "type": "number"
         },
         "r-5xl-double": {
-          "value": "{font.line-height.64-double}",
+          "value": "{font.line-height.40-double}",
           "type": "number"
         },
         "r-6xl-single": {
-          "value": "{font.line-height.76-single}",
+          "value": "{font.line-height.50-single}",
           "type": "number"
         },
         "r-6xl-double": {
-          "value": "{font.line-height.76-double}",
+          "value": "{font.line-height.50-double}",
           "type": "number"
         }
       },
       "size": {
         "r-xs": {
-          "value": "{font.font-size.10}",
-          "type": "number"
-        },
-        "r-sm": {
           "value": "{font.font-size.12}",
           "type": "number"
         },
-        "r-md": {
+        "r-sm": {
           "value": "{font.font-size.14}",
+          "type": "number"
+        },
+        "r-md": {
+          "value": "{font.font-size.15}",
           "type": "number"
         },
         "r-lg": {
@@ -1857,7 +1857,7 @@
   },
   "responsive/xs": {
     "r-viewport": {
-      "value": "sm",
+      "value": "xs",
       "type": "text"
     },
     "dimentions": {
@@ -1875,97 +1875,97 @@
     "font": {
       "line-height": {
         "r-xs-single": {
-          "value": "{font.line-height.14-single}",
+          "value": "{font.line-height.12-single}",
           "type": "number"
         },
         "r-xs-double": {
-          "value": "{font.line-height.14-double}",
+          "value": "{font.line-height.12-double}",
           "type": "number"
         },
         "r-sm-single": {
-          "value": "{font.line-height.16-single}",
+          "value": "{font.line-height.14-single}",
           "type": "number"
         },
         "r-sm-double": {
-          "value": "{font.line-height.16-double}",
+          "value": "{font.line-height.14-double}",
           "type": "number"
         },
         "r-md-single": {
-          "value": "{font.line-height.18-single}",
+          "value": "{font.line-height.15-single}",
           "type": "number"
         },
         "r-md-double": {
-          "value": "{font.line-height.18-double}",
+          "value": "{font.line-height.15-double}",
           "type": "number"
         },
         "r-lg-single": {
-          "value": "{font.line-height.21-single}",
+          "value": "{font.line-height.16-single}",
           "type": "number"
         },
         "r-lg-double": {
-          "value": "{font.line-height.21-double}",
+          "value": "{font.line-height.16-double}",
           "type": "number"
         },
         "r-xl-single": {
-          "value": "{font.line-height.26-single}",
+          "value": "{font.line-height.18-single}",
           "type": "number"
         },
         "r-xl-double": {
-          "value": "{font.line-height.26-double}",
+          "value": "{font.line-height.18-double}",
           "type": "number"
         },
         "r-2xl-single": {
-          "value": "{font.line-height.28-single}",
+          "value": "{font.line-height.21-single}",
           "type": "number"
         },
         "r-2xl-double": {
-          "value": "{font.line-height.28-double}",
+          "value": "{font.line-height.21-double}",
           "type": "number"
         },
         "r-3xl-single": {
-          "value": "{font.line-height.40-single}",
+          "value": "{font.line-height.26-single}",
           "type": "number"
         },
         "r-3xl-double": {
-          "value": "{font.line-height.40-double}",
+          "value": "{font.line-height.26-double}",
           "type": "number"
         },
         "r-4xl-single": {
-          "value": "{font.line-height.50-single}",
+          "value": "{font.line-height.28-single}",
           "type": "number"
         },
         "r-4xl-double": {
-          "value": "{font.line-height.50-double}",
+          "value": "{font.line-height.28-double}",
           "type": "number"
         },
         "r-5xl-single": {
-          "value": "{font.line-height.64-single}",
+          "value": "{font.line-height.40-single}",
           "type": "number"
         },
         "r-5xl-double": {
-          "value": "{font.line-height.64-double}",
+          "value": "{font.line-height.40-double}",
           "type": "number"
         },
         "r-6xl-single": {
-          "value": "{font.line-height.76-single}",
+          "value": "{font.line-height.50-single}",
           "type": "number"
         },
         "r-6xl-double": {
-          "value": "{font.line-height.76-double}",
+          "value": "{font.line-height.50-double}",
           "type": "number"
         }
       },
       "size": {
         "r-xs": {
-          "value": "{font.font-size.10}",
-          "type": "number"
-        },
-        "r-sm": {
           "value": "{font.font-size.12}",
           "type": "number"
         },
-        "r-md": {
+        "r-sm": {
           "value": "{font.font-size.14}",
+          "type": "number"
+        },
+        "r-md": {
+          "value": "{font.font-size.15}",
           "type": "number"
         },
         "r-lg": {
@@ -2006,7 +2006,10 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "theme/light": "enabled",
-        "primitives": "source"
+        "primitives": "source",
+        "responsive/md": "disabled",
+        "responsive/sm": "disabled",
+        "responsive/xs": "disabled"
       },
       "$figmaVariableReferences": {
         "color.primary.primary-default": "2b8404839e70bfba8ac6e07ca03a247d1a98604f",
@@ -2033,6 +2036,7 @@
         "color.surface.surface-container-medium": "5fb4fe0c974340b7c728e5876a32b6548b739392",
         "color.surface.surface-container-high": "1ea081b3ade0413351ecaa50f646c49b792077e9",
         "color.surface.inverse-surface": "4db412c85f616850c1882c1738d8d1fc3baaaad6",
+        "color.surface.on-inverse-surface": "411a6a33888dcc692c1e0311bf15a40f9e38d35b",
         "color.outline.outline-default": "ececb995a33ed8b6d4168f4e5a839eca1597eb9a",
         "color.outline.outline-variant": "bcf194068f96339448415b6baf49ce38fa7e1e9f",
         "color.critical.critical-default": "1521ff60342115b4a5da64e14a71277067a10896",
@@ -2099,7 +2103,6 @@
         "border.radius.md": "4268859a999d6defb5396f64535052dc43ea69b1",
         "border.radius.lg": "3ad5a4153c2658ce6ec0335c9f863a3a29d00c65",
         "border.radius.xl": "5b037e77a996a0ee6f1ab4c2bbed91862c4d7044",
-        "color.surface.on-inverse-surface": "411a6a33888dcc692c1e0311bf15a40f9e38d35b",
         "color.other.on-other": "f652f63fdcf69426169c214b41070f8acb3b6525"
       },
       "$figmaCollectionId": "VariableCollectionId:5008:1178",
@@ -2112,7 +2115,10 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "theme/dark": "enabled",
-        "primitives": "source"
+        "primitives": "source",
+        "responsive/md": "disabled",
+        "responsive/sm": "disabled",
+        "responsive/xs": "disabled"
       },
       "$figmaVariableReferences": {
         "color.primary.primary-default": "2b8404839e70bfba8ac6e07ca03a247d1a98604f",
@@ -2136,6 +2142,7 @@
         "color.surface.surface-variant": "5e998448511b7a8165110f31a1887aaff03adb53",
         "color.surface.on-surface-variant": "9e075f0d5c803ca3c805fd5c1f1c946fb2b178e9",
         "color.surface.inverse-surface": "4db412c85f616850c1882c1738d8d1fc3baaaad6",
+        "color.surface.on-inverse-surface": "411a6a33888dcc692c1e0311bf15a40f9e38d35b",
         "color.surface.surface-container-low": "94139dce6108815bee9a2b63642acf245d8bf86f",
         "color.surface.surface-container-medium": "5fb4fe0c974340b7c728e5876a32b6548b739392",
         "color.surface.surface-container-high": "1ea081b3ade0413351ecaa50f646c49b792077e9",
@@ -2205,8 +2212,7 @@
         "border.radius.md": "4268859a999d6defb5396f64535052dc43ea69b1",
         "border.radius.lg": "3ad5a4153c2658ce6ec0335c9f863a3a29d00c65",
         "border.radius.xl": "5b037e77a996a0ee6f1ab4c2bbed91862c4d7044",
-        "color.other.on-overlay": "89c7a5bc6d9ed65a3a507e896d98ae67d98c0f3b",
-        "color.surface.on-inverse-surface": "443319d83dc927144d27150582978ce990f56e16"
+        "color.other.on-overlay": "89c7a5bc6d9ed65a3a507e896d98ae67d98c0f3b"
       },
       "$figmaCollectionId": "VariableCollectionId:5008:1178",
       "$figmaModeId": "5008:1",
@@ -2218,7 +2224,10 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "responsive/lg": "enabled",
-        "primitives": "source"
+        "primitives": "source",
+        "responsive/md": "disabled",
+        "responsive/sm": "disabled",
+        "responsive/xs": "disabled"
       },
       "$figmaVariableReferences": {
         "r-viewport": "32590d4bbc1161fb8ba911f3334fa9e5199bbbf5",
@@ -2264,8 +2273,8 @@
       "name": "md",
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
-        "responsive/md": "enabled",
-        "primitives": "source"
+        "primitives": "source",
+        "responsive/md": "enabled"
       },
       "$figmaVariableReferences": {
         "r-viewport": "32590d4bbc1161fb8ba911f3334fa9e5199bbbf5",
@@ -2311,8 +2320,8 @@
       "name": "sm",
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
-        "responsive/sm": "enabled",
-        "primitives": "source"
+        "primitives": "source",
+        "responsive/sm": "enabled"
       },
       "$figmaVariableReferences": {
         "r-viewport": "32590d4bbc1161fb8ba911f3334fa9e5199bbbf5",
@@ -2358,8 +2367,8 @@
       "name": "xs",
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
-        "responsive/xs": "enabled",
-        "primitives": "source"
+        "primitives": "source",
+        "responsive/xs": "enabled"
       },
       "$figmaVariableReferences": {
         "r-viewport": "32590d4bbc1161fb8ba911f3334fa9e5199bbbf5",
