@@ -269,13 +269,13 @@
           "type": "fontFamilies"
         },
         "secondary": {
-          "value": "Open Sans",
+          "value": "Inter",
           "type": "fontFamilies"
         }
       },
       "font-weight": {
         "light": {
-          "value": "Light",
+          "value": "Thin",
           "type": "fontWeights"
         },
         "regular": {
@@ -283,7 +283,7 @@
           "type": "fontWeights"
         },
         "medium": {
-          "value": "SemiBold",
+          "value": "Medium",
           "type": "fontWeights"
         },
         "bold": {
