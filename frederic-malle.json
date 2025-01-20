@@ -1483,88 +1483,6 @@
       }
     },
     "font": {
-      "line-height": {
-        "r-xs-single": {
-          "value": "{font.line-height.12}",
-          "type": "lineHeights"
-        },
-        "r-xs-double": {
-          "value": "{font.line-height.16}",
-          "type": "lineHeights"
-        },
-        "r-sm-single": {
-          "value": "{font.line-height.14}",
-          "type": "lineHeights"
-        },
-        "r-sm-double": {
-          "value": "{font.line-height.20}",
-          "type": "lineHeights"
-        },
-        "r-md-single": {
-          "value": "{font.line-height.16}",
-          "type": "lineHeights"
-        },
-        "r-md-double": {
-          "value": "{font.line-height.22}",
-          "type": "lineHeights"
-        },
-        "r-lg-single": {
-          "value": "{font.line-height.20}",
-          "type": "lineHeights"
-        },
-        "r-lg-double": {
-          "value": "{font.line-height.26}",
-          "type": "lineHeights"
-        },
-        "r-xl-single": {
-          "value": "{font.line-height.24}",
-          "type": "lineHeights"
-        },
-        "r-xl-double": {
-          "value": "{font.line-height.32}",
-          "type": "lineHeights"
-        },
-        "r-2xl-single": {
-          "value": "{font.line-height.28}",
-          "type": "lineHeights"
-        },
-        "r-2xl-double": {
-          "value": "{font.line-height.38}",
-          "type": "lineHeights"
-        },
-        "r-3xl-single": {
-          "value": "{font.line-height.34}",
-          "type": "lineHeights"
-        },
-        "r-3xl-double": {
-          "value": "{font.line-height.44}",
-          "type": "lineHeights"
-        },
-        "r-4xl-single": {
-          "value": "{font.line-height.38}",
-          "type": "lineHeights"
-        },
-        "r-4xl-double": {
-          "value": "{font.line-height.52}",
-          "type": "lineHeights"
-        },
-        "r-5xl-single": {
-          "value": "{font.line-height.48}",
-          "type": "lineHeights"
-        },
-        "r-5xl-double": {
-          "value": "{font.line-height.64}",
-          "type": "lineHeights"
-        },
-        "r-6xl-single": {
-          "value": "{font.line-height.62}",
-          "type": "lineHeights"
-        },
-        "r-6xl-double": {
-          "value": "{font.line-height.84}",
-          "type": "lineHeights"
-        }
-      },
       "size": {
         "r-xs": {
           "value": "{font.font-size.10}",
@@ -1579,15 +1497,15 @@
           "type": "fontSizes"
         },
         "r-lg": {
-          "value": "{font.font-size.16}",
+          "value": "{font.font-size.17}",
           "type": "fontSizes"
         },
         "r-xl": {
-          "value": "{font.font-size.20}",
+          "value": "{font.font-size.21}",
           "type": "fontSizes"
         },
         "r-2xl": {
-          "value": "{font.font-size.24}",
+          "value": "{font.font-size.25}",
           "type": "fontSizes"
         },
         "r-3xl": {
@@ -1595,7 +1513,7 @@
           "type": "fontSizes"
         },
         "r-4xl": {
-          "value": "{font.font-size.32}",
+          "value": "{font.font-size.34}",
           "type": "fontSizes"
         },
         "r-5xl": {
@@ -1605,6 +1523,88 @@
         "r-6xl": {
           "value": "{font.font-size.52}",
           "type": "fontSizes"
+        }
+      },
+      "line-height": {
+        "r-xs-single": {
+          "value": "{font.line-height.13}",
+          "type": "lineHeights"
+        },
+        "r-xs-double": {
+          "value": "{font.line-height.16}",
+          "type": "lineHeights"
+        },
+        "r-sm-single": {
+          "value": "{font.line-height.14}",
+          "type": "lineHeights"
+        },
+        "r-sm-double": {
+          "value": "{font.line-height.17}",
+          "type": "lineHeights"
+        },
+        "r-md-single": {
+          "value": "{font.line-height.17}",
+          "type": "lineHeights"
+        },
+        "r-md-double": {
+          "value": "{font.line-height.20}",
+          "type": "lineHeights"
+        },
+        "r-lg-single": {
+          "value": "{font.line-height.20}",
+          "type": "lineHeights"
+        },
+        "r-lg-double": {
+          "value": "{font.line-height.27}",
+          "type": "lineHeights"
+        },
+        "r-xl-single": {
+          "value": "{font.line-height.25}",
+          "type": "lineHeights"
+        },
+        "r-xl-double": {
+          "value": "{font.line-height.30}",
+          "type": "lineHeights"
+        },
+        "r-2xl-single": {
+          "value": "{font.line-height.30}",
+          "type": "lineHeights"
+        },
+        "r-2xl-double": {
+          "value": "{font.line-height.38}",
+          "type": "lineHeights"
+        },
+        "r-3xl-single": {
+          "value": "{font.line-height.34}",
+          "type": "lineHeights"
+        },
+        "r-3xl-double": {
+          "value": "{font.line-height.56}",
+          "type": "lineHeights"
+        },
+        "r-4xl-single": {
+          "value": "{font.line-height.41}",
+          "type": "lineHeights"
+        },
+        "r-4xl-double": {
+          "value": "{font.line-height.68}",
+          "type": "lineHeights"
+        },
+        "r-5xl-single": {
+          "value": "{font.line-height.48}",
+          "type": "lineHeights"
+        },
+        "r-5xl-double": {
+          "value": "{font.line-height.80}",
+          "type": "lineHeights"
+        },
+        "r-6xl-single": {
+          "value": "{font.line-height.62}",
+          "type": "lineHeights"
+        },
+        "r-6xl-double": {
+          "value": "{font.line-height.104}",
+          "type": "lineHeights"
         }
       }
     }
@@ -1625,88 +1625,6 @@
       }
     },
     "font": {
-      "line-height": {
-        "r-xs-single": {
-          "value": "{font.line-height.12}",
-          "type": "lineHeights"
-        },
-        "r-xs-double": {
-          "value": "{font.line-height.16}",
-          "type": "lineHeights"
-        },
-        "r-sm-single": {
-          "value": "{font.line-height.14}",
-          "type": "lineHeights"
-        },
-        "r-sm-double": {
-          "value": "{font.line-height.20}",
-          "type": "lineHeights"
-        },
-        "r-md-single": {
-          "value": "{font.line-height.16}",
-          "type": "lineHeights"
-        },
-        "r-md-double": {
-          "value": "{font.line-height.22}",
-          "type": "lineHeights"
-        },
-        "r-lg-single": {
-          "value": "{font.line-height.20}",
-          "type": "lineHeights"
-        },
-        "r-lg-double": {
-          "value": "{font.line-height.26}",
-          "type": "lineHeights"
-        },
-        "r-xl-single": {
-          "value": "{font.line-height.24}",
-          "type": "lineHeights"
-        },
-        "r-xl-double": {
-          "value": "{font.line-height.32}",
-          "type": "lineHeights"
-        },
-        "r-2xl-single": {
-          "value": "{font.line-height.28}",
-          "type": "lineHeights"
-        },
-        "r-2xl-double": {
-          "value": "{font.line-height.38}",
-          "type": "lineHeights"
-        },
-        "r-3xl-single": {
-          "value": "{font.line-height.34}",
-          "type": "lineHeights"
-        },
-        "r-3xl-double": {
-          "value": "{font.line-height.44}",
-          "type": "lineHeights"
-        },
-        "r-4xl-single": {
-          "value": "{font.line-height.38}",
-          "type": "lineHeights"
-        },
-        "r-4xl-double": {
-          "value": "{font.line-height.52}",
-          "type": "lineHeights"
-        },
-        "r-5xl-single": {
-          "value": "{font.line-height.48}",
-          "type": "lineHeights"
-        },
-        "r-5xl-double": {
-          "value": "{font.line-height.64}",
-          "type": "lineHeights"
-        },
-        "r-6xl-single": {
-          "value": "{font.line-height.62}",
-          "type": "lineHeights"
-        },
-        "r-6xl-double": {
-          "value": "{font.line-height.84}",
-          "type": "lineHeights"
-        }
-      },
       "size": {
         "r-xs": {
           "value": "{font.font-size.10}",
@@ -1721,15 +1639,15 @@
           "type": "fontSizes"
         },
         "r-lg": {
-          "value": "{font.font-size.16}",
+          "value": "{font.font-size.17}",
           "type": "fontSizes"
         },
         "r-xl": {
-          "value": "{font.font-size.20}",
+          "value": "{font.font-size.21}",
           "type": "fontSizes"
         },
         "r-2xl": {
-          "value": "{font.font-size.24}",
+          "value": "{font.font-size.25}",
           "type": "fontSizes"
         },
         "r-3xl": {
@@ -1737,7 +1655,7 @@
           "type": "fontSizes"
         },
         "r-4xl": {
-          "value": "{font.font-size.32}",
+          "value": "{font.font-size.34}",
           "type": "fontSizes"
         },
         "r-5xl": {
@@ -1747,6 +1665,88 @@
         "r-6xl": {
           "value": "{font.font-size.52}",
           "type": "fontSizes"
+        }
+      },
+      "line-height": {
+        "r-xs-single": {
+          "value": "{font.line-height.13}",
+          "type": "lineHeights"
+        },
+        "r-xs-double": {
+          "value": "{font.line-height.16}",
+          "type": "lineHeights"
+        },
+        "r-sm-single": {
+          "value": "{font.line-height.14}",
+          "type": "lineHeights"
+        },
+        "r-sm-double": {
+          "value": "{font.line-height.17}",
+          "type": "lineHeights"
+        },
+        "r-md-single": {
+          "value": "{font.line-height.17}",
+          "type": "lineHeights"
+        },
+        "r-md-double": {
+          "value": "{font.line-height.20}",
+          "type": "lineHeights"
+        },
+        "r-lg-single": {
+          "value": "{font.line-height.20}",
+          "type": "lineHeights"
+        },
+        "r-lg-double": {
+          "value": "{font.line-height.27}",
+          "type": "lineHeights"
+        },
+        "r-xl-single": {
+          "value": "{font.line-height.25}",
+          "type": "lineHeights"
+        },
+        "r-xl-double": {
+          "value": "{font.line-height.30}",
+          "type": "lineHeights"
+        },
+        "r-2xl-single": {
+          "value": "{font.line-height.30}",
+          "type": "lineHeights"
+        },
+        "r-2xl-double": {
+          "value": "{font.line-height.38}",
+          "type": "lineHeights"
+        },
+        "r-3xl-single": {
+          "value": "{font.line-height.34}",
+          "type": "lineHeights"
+        },
+        "r-3xl-double": {
+          "value": "{font.line-height.56}",
+          "type": "lineHeights"
+        },
+        "r-4xl-single": {
+          "value": "{font.line-height.41}",
+          "type": "lineHeights"
+        },
+        "r-4xl-double": {
+          "value": "{font.line-height.68}",
+          "type": "lineHeights"
+        },
+        "r-5xl-single": {
+          "value": "{font.line-height.48}",
+          "type": "lineHeights"
+        },
+        "r-5xl-double": {
+          "value": "{font.line-height.80}",
+          "type": "lineHeights"
+        },
+        "r-6xl-single": {
+          "value": "{font.line-height.62}",
+          "type": "lineHeights"
+        },
+        "r-6xl-double": {
+          "value": "{font.line-height.104}",
+          "type": "lineHeights"
         }
       }
     }
@@ -1767,88 +1767,6 @@
       }
     },
     "font": {
-      "line-height": {
-        "r-xs-single": {
-          "value": "{font.line-height.12}",
-          "type": "lineHeights"
-        },
-        "r-xs-double": {
-          "value": "{font.line-height.16}",
-          "type": "lineHeights"
-        },
-        "r-sm-single": {
-          "value": "{font.line-height.14}",
-          "type": "lineHeights"
-        },
-        "r-sm-double": {
-          "value": "{font.line-height.20}",
-          "type": "lineHeights"
-        },
-        "r-md-single": {
-          "value": "{font.line-height.16}",
-          "type": "lineHeights"
-        },
-        "r-md-double": {
-          "value": "{font.line-height.22}",
-          "type": "lineHeights"
-        },
-        "r-lg-single": {
-          "value": "{font.line-height.20}",
-          "type": "lineHeights"
-        },
-        "r-lg-double": {
-          "value": "{font.line-height.26}",
-          "type": "lineHeights"
-        },
-        "r-xl-single": {
-          "value": "{font.line-height.24}",
-          "type": "lineHeights"
-        },
-        "r-xl-double": {
-          "value": "{font.line-height.32}",
-          "type": "lineHeights"
-        },
-        "r-2xl-single": {
-          "value": "{font.line-height.28}",
-          "type": "lineHeights"
-        },
-        "r-2xl-double": {
-          "value": "{font.line-height.38}",
-          "type": "lineHeights"
-        },
-        "r-3xl-single": {
-          "value": "{font.line-height.34}",
-          "type": "lineHeights"
-        },
-        "r-3xl-double": {
-          "value": "{font.line-height.44}",
-          "type": "lineHeights"
-        },
-        "r-4xl-single": {
-          "value": "{font.line-height.38}",
-          "type": "lineHeights"
-        },
-        "r-4xl-double": {
-          "value": "{font.line-height.52}",
-          "type": "lineHeights"
-        },
-        "r-5xl-single": {
-          "value": "{font.line-height.48}",
-          "type": "lineHeights"
-        },
-        "r-5xl-double": {
-          "value": "{font.line-height.64}",
-          "type": "lineHeights"
-        },
-        "r-6xl-single": {
-          "value": "{font.line-height.62}",
-          "type": "lineHeights"
-        },
-        "r-6xl-double": {
-          "value": "{font.line-height.84}",
-          "type": "lineHeights"
-        }
-      },
       "size": {
         "r-xs": {
           "value": "{font.font-size.10}",
@@ -1863,15 +1781,15 @@
           "type": "fontSizes"
         },
         "r-lg": {
-          "value": "{font.font-size.16}",
+          "value": "{font.font-size.17}",
           "type": "fontSizes"
         },
         "r-xl": {
-          "value": "{font.font-size.20}",
+          "value": "{font.font-size.21}",
           "type": "fontSizes"
         },
         "r-2xl": {
-          "value": "{font.font-size.24}",
+          "value": "{font.font-size.25}",
           "type": "fontSizes"
         },
         "r-3xl": {
@@ -1879,7 +1797,7 @@
           "type": "fontSizes"
         },
         "r-4xl": {
-          "value": "{font.font-size.32}",
+          "value": "{font.font-size.34}",
           "type": "fontSizes"
         },
         "r-5xl": {
@@ -1889,6 +1807,88 @@
         "r-6xl": {
           "value": "{font.font-size.52}",
           "type": "fontSizes"
+        }
+      },
+      "line-height": {
+        "r-xs-single": {
+          "value": "{font.line-height.13}",
+          "type": "lineHeights"
+        },
+        "r-xs-double": {
+          "value": "{font.line-height.16}",
+          "type": "lineHeights"
+        },
+        "r-sm-single": {
+          "value": "{font.line-height.14}",
+          "type": "lineHeights"
+        },
+        "r-sm-double": {
+          "value": "{font.line-height.17}",
+          "type": "lineHeights"
+        },
+        "r-md-single": {
+          "value": "{font.line-height.17}",
+          "type": "lineHeights"
+        },
+        "r-md-double": {
+          "value": "{font.line-height.20}",
+          "type": "lineHeights"
+        },
+        "r-lg-single": {
+          "value": "{font.line-height.20}",
+          "type": "lineHeights"
+        },
+        "r-lg-double": {
+          "value": "{font.line-height.27}",
+          "type": "lineHeights"
+        },
+        "r-xl-single": {
+          "value": "{font.line-height.25}",
+          "type": "lineHeights"
+        },
+        "r-xl-double": {
+          "value": "{font.line-height.30}",
+          "type": "lineHeights"
+        },
+        "r-2xl-single": {
+          "value": "{font.line-height.30}",
+          "type": "lineHeights"
+        },
+        "r-2xl-double": {
+          "value": "{font.line-height.38}",
+          "type": "lineHeights"
+        },
+        "r-3xl-single": {
+          "value": "{font.line-height.34}",
+          "type": "lineHeights"
+        },
+        "r-3xl-double": {
+          "value": "{font.line-height.56}",
+          "type": "lineHeights"
+        },
+        "r-4xl-single": {
+          "value": "{font.line-height.41}",
+          "type": "lineHeights"
+        },
+        "r-4xl-double": {
+          "value": "{font.line-height.68}",
+          "type": "lineHeights"
+        },
+        "r-5xl-single": {
+          "value": "{font.line-height.48}",
+          "type": "lineHeights"
+        },
+        "r-5xl-double": {
+          "value": "{font.line-height.80}",
+          "type": "lineHeights"
+        },
+        "r-6xl-single": {
+          "value": "{font.line-height.62}",
+          "type": "lineHeights"
+        },
+        "r-6xl-double": {
+          "value": "{font.line-height.104}",
+          "type": "lineHeights"
         }
       }
     }
@@ -1909,88 +1909,6 @@
       }
     },
     "font": {
-      "line-height": {
-        "r-xs-single": {
-          "value": "{font.line-height.12}",
-          "type": "lineHeights"
-        },
-        "r-xs-double": {
-          "value": "{font.line-height.16}",
-          "type": "lineHeights"
-        },
-        "r-sm-single": {
-          "value": "{font.line-height.14}",
-          "type": "lineHeights"
-        },
-        "r-sm-double": {
-          "value": "{font.line-height.20}",
-          "type": "lineHeights"
-        },
-        "r-md-single": {
-          "value": "{font.line-height.16}",
-          "type": "lineHeights"
-        },
-        "r-md-double": {
-          "value": "{font.line-height.22}",
-          "type": "lineHeights"
-        },
-        "r-lg-single": {
-          "value": "{font.line-height.20}",
-          "type": "lineHeights"
-        },
-        "r-lg-double": {
-          "value": "{font.line-height.26}",
-          "type": "lineHeights"
-        },
-        "r-xl-single": {
-          "value": "{font.line-height.24}",
-          "type": "lineHeights"
-        },
-        "r-xl-double": {
-          "value": "{font.line-height.32}",
-          "type": "lineHeights"
-        },
-        "r-2xl-single": {
-          "value": "{font.line-height.28}",
-          "type": "lineHeights"
-        },
-        "r-2xl-double": {
-          "value": "{font.line-height.38}",
-          "type": "lineHeights"
-        },
-        "r-3xl-single": {
-          "value": "{font.line-height.34}",
-          "type": "lineHeights"
-        },
-        "r-3xl-double": {
-          "value": "{font.line-height.44}",
-          "type": "lineHeights"
-        },
-        "r-4xl-single": {
-          "value": "{font.line-height.38}",
-          "type": "lineHeights"
-        },
-        "r-4xl-double": {
-          "value": "{font.line-height.52}",
-          "type": "lineHeights"
-        },
-        "r-5xl-single": {
-          "value": "{font.line-height.48}",
-          "type": "lineHeights"
-        },
-        "r-5xl-double": {
-          "value": "{font.line-height.64}",
-          "type": "lineHeights"
-        },
-        "r-6xl-single": {
-          "value": "{font.line-height.62}",
-          "type": "lineHeights"
-        },
-        "r-6xl-double": {
-          "value": "{font.line-height.84}",
-          "type": "lineHeights"
-        }
-      },
       "size": {
         "r-xs": {
           "value": "{font.font-size.10}",
@@ -2005,15 +1923,15 @@
           "type": "fontSizes"
         },
         "r-lg": {
-          "value": "{font.font-size.16}",
+          "value": "{font.font-size.17}",
           "type": "fontSizes"
         },
         "r-xl": {
-          "value": "{font.font-size.20}",
+          "value": "{font.font-size.21}",
           "type": "fontSizes"
         },
         "r-2xl": {
-          "value": "{font.font-size.24}",
+          "value": "{font.font-size.25}",
           "type": "fontSizes"
         },
         "r-3xl": {
@@ -2021,7 +1939,7 @@
           "type": "fontSizes"
         },
         "r-4xl": {
-          "value": "{font.font-size.32}",
+          "value": "{font.font-size.34}",
           "type": "fontSizes"
         },
         "r-5xl": {
@@ -2031,6 +1949,88 @@
         "r-6xl": {
           "value": "{font.font-size.52}",
           "type": "fontSizes"
+        }
+      },
+      "line-height": {
+        "r-xs-single": {
+          "value": "{font.line-height.13}",
+          "type": "lineHeights"
+        },
+        "r-xs-double": {
+          "value": "{font.line-height.16}",
+          "type": "lineHeights"
+        },
+        "r-sm-single": {
+          "value": "{font.line-height.14}",
+          "type": "lineHeights"
+        },
+        "r-sm-double": {
+          "value": "{font.line-height.17}",
+          "type": "lineHeights"
+        },
+        "r-md-single": {
+          "value": "{font.line-height.17}",
+          "type": "lineHeights"
+        },
+        "r-md-double": {
+          "value": "{font.line-height.20}",
+          "type": "lineHeights"
+        },
+        "r-lg-single": {
+          "value": "{font.line-height.20}",
+          "type": "lineHeights"
+        },
+        "r-lg-double": {
+          "value": "{font.line-height.27}",
+          "type": "lineHeights"
+        },
+        "r-xl-single": {
+          "value": "{font.line-height.25}",
+          "type": "lineHeights"
+        },
+        "r-xl-double": {
+          "value": "{font.line-height.30}",
+          "type": "lineHeights"
+        },
+        "r-2xl-single": {
+          "value": "{font.line-height.30}",
+          "type": "lineHeights"
+        },
+        "r-2xl-double": {
+          "value": "{font.line-height.38}",
+          "type": "lineHeights"
+        },
+        "r-3xl-single": {
+          "value": "{font.line-height.34}",
+          "type": "lineHeights"
+        },
+        "r-3xl-double": {
+          "value": "{font.line-height.56}",
+          "type": "lineHeights"
+        },
+        "r-4xl-single": {
+          "value": "{font.line-height.41}",
+          "type": "lineHeights"
+        },
+        "r-4xl-double": {
+          "value": "{font.line-height.68}",
+          "type": "lineHeights"
+        },
+        "r-5xl-single": {
+          "value": "{font.line-height.48}",
+          "type": "lineHeights"
+        },
+        "r-5xl-double": {
+          "value": "{font.line-height.80}",
+          "type": "lineHeights"
+        },
+        "r-6xl-single": {
+          "value": "{font.line-height.62}",
+          "type": "lineHeights"
+        },
+        "r-6xl-double": {
+          "value": "{font.line-height.104}",
+          "type": "lineHeights"
         }
       }
     }
@@ -2261,6 +2261,16 @@
         "viewport.r-size": "cba54f2d534f05d7c0760591233788e4ea173435",
         "viewport.r-min-width": "203700c0228f4a3459c9bf9903e8931706336c2f",
         "viewport.r-max-width": "eb9bd8842da20f93d9882c0687814caebceeb0b9",
+        "font.size.r-xs": "a3e8b3eeb80b036f405ace37b92704f799a25fc8",
+        "font.size.r-sm": "a241b1bff0ac23b221cceed479b9b908b58bc23c",
+        "font.size.r-md": "0760a2b8b355d50576cf9e4026437dfef2602470",
+        "font.size.r-lg": "c8ca5ef947c7a1c58fc232dc81bfbbbc56f33edf",
+        "font.size.r-xl": "5b43144dd642a3e20327628de9f58b068dfbb741",
+        "font.size.r-2xl": "c1de73df864ef31c4d3e986704a1c479aa0ddec4",
+        "font.size.r-3xl": "f1a164432276e6952885e87e5d522a24a1851ff4",
+        "font.size.r-4xl": "d2c29fd6166ffb3d48a7d29f65d513949eeedf18",
+        "font.size.r-5xl": "61841d86f86a9c4c5d96ea62663fc9aaf654ce96",
+        "font.size.r-6xl": "9a0cd7a8ba33e1bad6c6877d6ac48a4b650860c4",
         "font.line-height.r-xs-single": "48a138d280edd01765a484a3dbb3c52770acbf08",
         "font.line-height.r-xs-double": "58420335d015e1ef8b7b4b1050e2e237b4578bbc",
         "font.line-height.r-sm-single": "6f415bf0138915ae7b45a5548b8ef7006d539402",
@@ -2280,17 +2290,7 @@
         "font.line-height.r-5xl-single": "2347d0bfec2b032476dc0417a2107f654dfb07e8",
         "font.line-height.r-5xl-double": "d780d3c0a4b9471cd0aa554218d8a6d6d58b8b78",
         "font.line-height.r-6xl-single": "648ac8bd293b9272e799033ad9bec240a950277b",
-        "font.line-height.r-6xl-double": "9d36b8b0f6fa87594640b56087524189fbd75a0b",
-        "font.size.r-xs": "a3e8b3eeb80b036f405ace37b92704f799a25fc8",
-        "font.size.r-sm": "a241b1bff0ac23b221cceed479b9b908b58bc23c",
-        "font.size.r-md": "0760a2b8b355d50576cf9e4026437dfef2602470",
-        "font.size.r-lg": "c8ca5ef947c7a1c58fc232dc81bfbbbc56f33edf",
-        "font.size.r-xl": "5b43144dd642a3e20327628de9f58b068dfbb741",
-        "font.size.r-2xl": "c1de73df864ef31c4d3e986704a1c479aa0ddec4",
-        "font.size.r-3xl": "f1a164432276e6952885e87e5d522a24a1851ff4",
-        "font.size.r-4xl": "d2c29fd6166ffb3d48a7d29f65d513949eeedf18",
-        "font.size.r-5xl": "61841d86f86a9c4c5d96ea62663fc9aaf654ce96",
-        "font.size.r-6xl": "9a0cd7a8ba33e1bad6c6877d6ac48a4b650860c4"
+        "font.line-height.r-6xl-double": "9d36b8b0f6fa87594640b56087524189fbd75a0b"
       },
       "$figmaCollectionId": "VariableCollectionId:8014:49",
       "$figmaModeId": "8014:2",
@@ -2309,6 +2309,16 @@
         "viewport.r-size": "cba54f2d534f05d7c0760591233788e4ea173435",
         "viewport.r-min-width": "203700c0228f4a3459c9bf9903e8931706336c2f",
         "viewport.r-max-width": "eb9bd8842da20f93d9882c0687814caebceeb0b9",
+        "font.size.r-xs": "a3e8b3eeb80b036f405ace37b92704f799a25fc8",
+        "font.size.r-sm": "a241b1bff0ac23b221cceed479b9b908b58bc23c",
+        "font.size.r-md": "0760a2b8b355d50576cf9e4026437dfef2602470",
+        "font.size.r-lg": "c8ca5ef947c7a1c58fc232dc81bfbbbc56f33edf",
+        "font.size.r-xl": "5b43144dd642a3e20327628de9f58b068dfbb741",
+        "font.size.r-2xl": "c1de73df864ef31c4d3e986704a1c479aa0ddec4",
+        "font.size.r-3xl": "f1a164432276e6952885e87e5d522a24a1851ff4",
+        "font.size.r-4xl": "d2c29fd6166ffb3d48a7d29f65d513949eeedf18",
+        "font.size.r-5xl": "61841d86f86a9c4c5d96ea62663fc9aaf654ce96",
+        "font.size.r-6xl": "9a0cd7a8ba33e1bad6c6877d6ac48a4b650860c4",
         "font.line-height.r-xs-single": "48a138d280edd01765a484a3dbb3c52770acbf08",
         "font.line-height.r-xs-double": "58420335d015e1ef8b7b4b1050e2e237b4578bbc",
         "font.line-height.r-sm-single": "6f415bf0138915ae7b45a5548b8ef7006d539402",
@@ -2328,17 +2338,7 @@
         "font.line-height.r-5xl-single": "2347d0bfec2b032476dc0417a2107f654dfb07e8",
         "font.line-height.r-5xl-double": "d780d3c0a4b9471cd0aa554218d8a6d6d58b8b78",
         "font.line-height.r-6xl-single": "648ac8bd293b9272e799033ad9bec240a950277b",
-        "font.line-height.r-6xl-double": "9d36b8b0f6fa87594640b56087524189fbd75a0b",
-        "font.size.r-xs": "a3e8b3eeb80b036f405ace37b92704f799a25fc8",
-        "font.size.r-sm": "a241b1bff0ac23b221cceed479b9b908b58bc23c",
-        "font.size.r-md": "0760a2b8b355d50576cf9e4026437dfef2602470",
-        "font.size.r-lg": "c8ca5ef947c7a1c58fc232dc81bfbbbc56f33edf",
-        "font.size.r-xl": "5b43144dd642a3e20327628de9f58b068dfbb741",
-        "font.size.r-2xl": "c1de73df864ef31c4d3e986704a1c479aa0ddec4",
-        "font.size.r-3xl": "f1a164432276e6952885e87e5d522a24a1851ff4",
-        "font.size.r-4xl": "d2c29fd6166ffb3d48a7d29f65d513949eeedf18",
-        "font.size.r-5xl": "61841d86f86a9c4c5d96ea62663fc9aaf654ce96",
-        "font.size.r-6xl": "9a0cd7a8ba33e1bad6c6877d6ac48a4b650860c4"
+        "font.line-height.r-6xl-double": "9d36b8b0f6fa87594640b56087524189fbd75a0b"
       },
       "$figmaCollectionId": "VariableCollectionId:8014:49",
       "$figmaModeId": "8014:3",
@@ -2357,6 +2357,16 @@
         "viewport.r-size": "cba54f2d534f05d7c0760591233788e4ea173435",
         "viewport.r-min-width": "203700c0228f4a3459c9bf9903e8931706336c2f",
         "viewport.r-max-width": "eb9bd8842da20f93d9882c0687814caebceeb0b9",
+        "font.size.r-xs": "a3e8b3eeb80b036f405ace37b92704f799a25fc8",
+        "font.size.r-sm": "a241b1bff0ac23b221cceed479b9b908b58bc23c",
+        "font.size.r-md": "0760a2b8b355d50576cf9e4026437dfef2602470",
+        "font.size.r-lg": "c8ca5ef947c7a1c58fc232dc81bfbbbc56f33edf",
+        "font.size.r-xl": "5b43144dd642a3e20327628de9f58b068dfbb741",
+        "font.size.r-2xl": "c1de73df864ef31c4d3e986704a1c479aa0ddec4",
+        "font.size.r-3xl": "f1a164432276e6952885e87e5d522a24a1851ff4",
+        "font.size.r-4xl": "d2c29fd6166ffb3d48a7d29f65d513949eeedf18",
+        "font.size.r-5xl": "61841d86f86a9c4c5d96ea62663fc9aaf654ce96",
+        "font.size.r-6xl": "9a0cd7a8ba33e1bad6c6877d6ac48a4b650860c4",
         "font.line-height.r-xs-single": "48a138d280edd01765a484a3dbb3c52770acbf08",
         "font.line-height.r-xs-double": "58420335d015e1ef8b7b4b1050e2e237b4578bbc",
         "font.line-height.r-sm-single": "6f415bf0138915ae7b45a5548b8ef7006d539402",
@@ -2376,17 +2386,7 @@
         "font.line-height.r-5xl-single": "2347d0bfec2b032476dc0417a2107f654dfb07e8",
         "font.line-height.r-5xl-double": "d780d3c0a4b9471cd0aa554218d8a6d6d58b8b78",
         "font.line-height.r-6xl-single": "648ac8bd293b9272e799033ad9bec240a950277b",
-        "font.line-height.r-6xl-double": "9d36b8b0f6fa87594640b56087524189fbd75a0b",
-        "font.size.r-xs": "a3e8b3eeb80b036f405ace37b92704f799a25fc8",
-        "font.size.r-sm": "a241b1bff0ac23b221cceed479b9b908b58bc23c",
-        "font.size.r-md": "0760a2b8b355d50576cf9e4026437dfef2602470",
-        "font.size.r-lg": "c8ca5ef947c7a1c58fc232dc81bfbbbc56f33edf",
-        "font.size.r-xl": "5b43144dd642a3e20327628de9f58b068dfbb741",
-        "font.size.r-2xl": "c1de73df864ef31c4d3e986704a1c479aa0ddec4",
-        "font.size.r-3xl": "f1a164432276e6952885e87e5d522a24a1851ff4",
-        "font.size.r-4xl": "d2c29fd6166ffb3d48a7d29f65d513949eeedf18",
-        "font.size.r-5xl": "61841d86f86a9c4c5d96ea62663fc9aaf654ce96",
-        "font.size.r-6xl": "9a0cd7a8ba33e1bad6c6877d6ac48a4b650860c4"
+        "font.line-height.r-6xl-double": "9d36b8b0f6fa87594640b56087524189fbd75a0b"
       },
       "$figmaCollectionId": "VariableCollectionId:8014:49",
       "$figmaModeId": "8014:4",
@@ -2405,6 +2405,16 @@
         "viewport.r-size": "cba54f2d534f05d7c0760591233788e4ea173435",
         "viewport.r-min-width": "203700c0228f4a3459c9bf9903e8931706336c2f",
         "viewport.r-max-width": "eb9bd8842da20f93d9882c0687814caebceeb0b9",
+        "font.size.r-xs": "a3e8b3eeb80b036f405ace37b92704f799a25fc8",
+        "font.size.r-sm": "a241b1bff0ac23b221cceed479b9b908b58bc23c",
+        "font.size.r-md": "0760a2b8b355d50576cf9e4026437dfef2602470",
+        "font.size.r-lg": "c8ca5ef947c7a1c58fc232dc81bfbbbc56f33edf",
+        "font.size.r-xl": "5b43144dd642a3e20327628de9f58b068dfbb741",
+        "font.size.r-2xl": "c1de73df864ef31c4d3e986704a1c479aa0ddec4",
+        "font.size.r-3xl": "f1a164432276e6952885e87e5d522a24a1851ff4",
+        "font.size.r-4xl": "d2c29fd6166ffb3d48a7d29f65d513949eeedf18",
+        "font.size.r-5xl": "61841d86f86a9c4c5d96ea62663fc9aaf654ce96",
+        "font.size.r-6xl": "9a0cd7a8ba33e1bad6c6877d6ac48a4b650860c4",
         "font.line-height.r-xs-single": "48a138d280edd01765a484a3dbb3c52770acbf08",
         "font.line-height.r-xs-double": "58420335d015e1ef8b7b4b1050e2e237b4578bbc",
         "font.line-height.r-sm-single": "6f415bf0138915ae7b45a5548b8ef7006d539402",
@@ -2424,17 +2434,7 @@
         "font.line-height.r-5xl-single": "2347d0bfec2b032476dc0417a2107f654dfb07e8",
         "font.line-height.r-5xl-double": "d780d3c0a4b9471cd0aa554218d8a6d6d58b8b78",
         "font.line-height.r-6xl-single": "648ac8bd293b9272e799033ad9bec240a950277b",
-        "font.line-height.r-6xl-double": "9d36b8b0f6fa87594640b56087524189fbd75a0b",
-        "font.size.r-xs": "a3e8b3eeb80b036f405ace37b92704f799a25fc8",
-        "font.size.r-sm": "a241b1bff0ac23b221cceed479b9b908b58bc23c",
-        "font.size.r-md": "0760a2b8b355d50576cf9e4026437dfef2602470",
-        "font.size.r-lg": "c8ca5ef947c7a1c58fc232dc81bfbbbc56f33edf",
-        "font.size.r-xl": "5b43144dd642a3e20327628de9f58b068dfbb741",
-        "font.size.r-2xl": "c1de73df864ef31c4d3e986704a1c479aa0ddec4",
-        "font.size.r-3xl": "f1a164432276e6952885e87e5d522a24a1851ff4",
-        "font.size.r-4xl": "d2c29fd6166ffb3d48a7d29f65d513949eeedf18",
-        "font.size.r-5xl": "61841d86f86a9c4c5d96ea62663fc9aaf654ce96",
-        "font.size.r-6xl": "9a0cd7a8ba33e1bad6c6877d6ac48a4b650860c4"
+        "font.line-height.r-6xl-double": "9d36b8b0f6fa87594640b56087524189fbd75a0b"
       },
       "$figmaCollectionId": "VariableCollectionId:8014:49",
       "$figmaModeId": "8014:5",
