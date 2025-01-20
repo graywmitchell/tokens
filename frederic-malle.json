@@ -269,13 +269,13 @@
           "type": "fontFamilies"
         },
         "secondary": {
-          "value": "Inter",
+          "value": "Open Sans",
           "type": "fontFamilies"
         }
       },
       "font-weight": {
         "light": {
-          "value": "Thin",
+          "value": "Light",
           "type": "fontWeights"
         },
         "regular": {
@@ -283,7 +283,7 @@
           "type": "fontWeights"
         },
         "medium": {
-          "value": "Medium",
+          "value": "SemiBold",
           "type": "fontWeights"
         },
         "bold": {
@@ -293,161 +293,149 @@
       },
       "font-size": {
         "10": {
-          "value": "10",
+          "value": "10px",
           "type": "fontSizes"
         },
         "12": {
-          "value": "12",
+          "value": "12px",
           "type": "fontSizes"
         },
         "14": {
-          "value": "14",
+          "value": "14px",
           "type": "fontSizes"
         },
         "16": {
-          "value": "16",
+          "value": "16px",
           "type": "fontSizes"
         },
         "20": {
-          "value": "20",
+          "value": "20px",
           "type": "fontSizes"
         },
         "24": {
-          "value": "24",
+          "value": "24px",
           "type": "fontSizes"
         },
         "28": {
-          "value": "28",
+          "value": "28px",
           "type": "fontSizes"
         },
         "32": {
-          "value": "32",
+          "value": "32px",
           "type": "fontSizes"
         },
         "40": {
-          "value": "40",
+          "value": "40px",
           "type": "fontSizes"
         },
         "52": {
-          "value": "52",
+          "value": "52px",
           "type": "fontSizes"
         },
         "64": {
-          "value": "64",
+          "value": "64px",
           "type": "fontSizes"
         },
         "76": {
-          "value": "76",
+          "value": "76px",
           "type": "fontSizes"
         },
         "92": {
-          "value": "92",
+          "value": "92px",
           "type": "fontSizes"
         }
       },
       "line-height": {
-        "10-single": {
+        "12": {
           "value": "12px",
           "type": "lineHeights"
         },
-        "10-double": {
+        "14": {
           "value": "14px",
           "type": "lineHeights"
         },
-        "12-single": {
-          "value": "15px",
+        "16": {
+          "value": "16px",
           "type": "lineHeights"
         },
-        "12-double": {
-          "value": "17px",
+        "20": {
+          "value": "20px",
           "type": "lineHeights"
         },
-        "14-single": {
-          "value": "17px",
+        "22": {
+          "value": "22px",
           "type": "lineHeights"
         },
-        "14-double": {
-          "value": "19px",
-          "type": "lineHeights"
-        },
-        "16-single": {
-          "value": "19px",
-          "type": "lineHeights"
-        },
-        "16-double": {
-          "value": "23px",
-          "type": "lineHeights"
-        },
-        "20-single": {
+        "24": {
           "value": "24px",
           "type": "lineHeights"
         },
-        "20-double": {
+        "26": {
+          "value": "26px",
+          "type": "lineHeights"
+        },
+        "28": {
           "value": "28px",
           "type": "lineHeights"
         },
-        "24-single": {
-          "value": "29px",
+        "32": {
+          "value": "32px",
           "type": "lineHeights"
         },
-        "24-double": {
+        "34": {
           "value": "34px",
           "type": "lineHeights"
         },
-        "28-single": {
-          "value": "34px",
-          "type": "lineHeights"
-        },
-        "28-double": {
-          "value": "39px",
-          "type": "lineHeights"
-        },
-        "32-single": {
+        "38": {
           "value": "38px",
           "type": "lineHeights"
         },
-        "32-double": {
-          "value": "45px",
+        "44": {
+          "value": "44px",
           "type": "lineHeights"
         },
-        "40-single": {
+        "48": {
           "value": "48px",
           "type": "lineHeights"
         },
-        "40-double": {
-          "value": "56px",
+        "52": {
+          "value": "52px",
           "type": "lineHeights"
         },
-        "52-single": {
+        "62": {
           "value": "62px",
           "type": "lineHeights"
         },
-        "52-double": {
-          "value": "73px",
+        "64": {
+          "value": "64px",
           "type": "lineHeights"
         },
-        "64-single": {
-          "value": "77px",
+        "76": {
+          "value": "76px",
           "type": "lineHeights"
         },
-        "64-double": {
-          "value": "89px",
+        "84": {
+          "value": "84px",
           "type": "lineHeights"
         },
-        "76-single": {
-          "value": "86px",
+        "92": {
+          "value": "92px",
           "type": "lineHeights"
         },
-        "76-double": {
-          "value": "101px",
+        "102": {
+          "value": "102px",
           "type": "lineHeights"
         },
-        "92-single": {
-          "value": "115px",
+        "110": {
+          "value": "110px",
           "type": "lineHeights"
         },
-        "92-double": {
-          "value": "135px",
+        "122": {
+          "value": "122px",
+          "type": "lineHeights"
+        },
+        "148": {
+          "value": "148px",
           "type": "lineHeights"
         }
       },
@@ -873,83 +861,83 @@
       },
       "line-height": {
         "xs-single": {
-          "value": "{font.line-height.10-single}",
+          "value": "{font.line-height.12}",
           "type": "lineHeights"
         },
         "xs-double": {
-          "value": "{font.line-height.10-double}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "sm-single": {
-          "value": "{font.line-height.12-single}",
+          "value": "{font.line-height.14}",
           "type": "lineHeights"
         },
         "sm-double": {
-          "value": "{font.line-height.12-double}",
+          "value": "{font.line-height.20}",
           "type": "lineHeights"
         },
         "md-single": {
-          "value": "{font.line-height.14-single}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "md-double": {
-          "value": "{font.line-height.14-double}",
+          "value": "{font.line-height.22}",
           "type": "lineHeights"
         },
         "lg-single": {
-          "value": "{font.line-height.16-single}",
+          "value": "{font.line-height.20}",
           "type": "lineHeights"
         },
         "lg-double": {
-          "value": "{font.line-height.16-double}",
+          "value": "{font.line-height.26}",
           "type": "lineHeights"
         },
         "xl-single": {
-          "value": "{font.line-height.20-single}",
+          "value": "{font.line-height.24}",
           "type": "lineHeights"
         },
         "xl-double": {
-          "value": "{font.line-height.20-double}",
+          "value": "{font.line-height.32}",
           "type": "lineHeights"
         },
         "2xl-single": {
-          "value": "{font.line-height.24-single}",
+          "value": "{font.line-height.28}",
           "type": "lineHeights"
         },
         "2xl-double": {
-          "value": "{font.line-height.24-double}",
+          "value": "{font.line-height.38}",
           "type": "lineHeights"
         },
         "3xl-single": {
-          "value": "{font.line-height.28-single}",
+          "value": "{font.line-height.34}",
           "type": "lineHeights"
         },
         "3xl-double": {
-          "value": "{font.line-height.28-double}",
+          "value": "{font.line-height.44}",
           "type": "lineHeights"
         },
         "4xl-single": {
-          "value": "{font.line-height.32-single}",
+          "value": "{font.line-height.38}",
           "type": "lineHeights"
         },
         "4xl-double": {
-          "value": "{font.line-height.32-double}",
+          "value": "{font.line-height.52}",
           "type": "lineHeights"
         },
         "5xl-single": {
-          "value": "{font.line-height.40-single}",
+          "value": "{font.line-height.48}",
           "type": "lineHeights"
         },
         "5xl-double": {
-          "value": "{font.line-height.40-double}",
+          "value": "{font.line-height.64}",
           "type": "lineHeights"
         },
         "6xl-single": {
-          "value": "{font.line-height.52-single}",
+          "value": "{font.line-height.62}",
           "type": "lineHeights"
         },
         "6xl-double": {
-          "value": "{font.line-height.52-double}",
+          "value": "{font.line-height.84}",
           "type": "lineHeights"
         }
       },
@@ -1237,20 +1225,6 @@
           "type": "fontFamilies"
         }
       },
-      "weight": {
-        "regular": {
-          "value": "{font.font-weight.regular}",
-          "type": "fontWeights"
-        },
-        "medium": {
-          "value": "{font.font-weight.medium}",
-          "type": "fontWeights"
-        },
-        "bold": {
-          "value": "{font.font-weight.bold}",
-          "type": "fontWeights"
-        }
-      },
       "size": {
         "xs": {
           "value": "{font.font-size.10}",
@@ -1295,84 +1269,98 @@
       },
       "line-height": {
         "xs-single": {
-          "value": "{font.line-height.10-single}",
+          "value": "{font.line-height.12}",
           "type": "lineHeights"
         },
         "xs-double": {
-          "value": "{font.line-height.10-double}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "sm-single": {
-          "value": "{font.line-height.12-single}",
+          "value": "{font.line-height.14}",
           "type": "lineHeights"
         },
         "sm-double": {
-          "value": "{font.line-height.12-double}",
+          "value": "{font.line-height.20}",
           "type": "lineHeights"
         },
         "md-single": {
-          "value": "{font.line-height.14-single}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "md-double": {
-          "value": "{font.line-height.14-double}",
+          "value": "{font.line-height.22}",
           "type": "lineHeights"
         },
         "lg-single": {
-          "value": "{font.line-height.16-single}",
+          "value": "{font.line-height.20}",
           "type": "lineHeights"
         },
         "lg-double": {
-          "value": "{font.line-height.16-double}",
+          "value": "{font.line-height.26}",
           "type": "lineHeights"
         },
         "xl-single": {
-          "value": "{font.line-height.20-single}",
+          "value": "{font.line-height.24}",
           "type": "lineHeights"
         },
         "xl-double": {
-          "value": "{font.line-height.20-double}",
+          "value": "{font.line-height.32}",
           "type": "lineHeights"
         },
         "2xl-single": {
-          "value": "{font.line-height.24-single}",
+          "value": "{font.line-height.28}",
           "type": "lineHeights"
         },
         "2xl-double": {
-          "value": "{font.line-height.24-double}",
+          "value": "{font.line-height.38}",
           "type": "lineHeights"
         },
         "3xl-single": {
-          "value": "{font.line-height.28-single}",
+          "value": "{font.line-height.34}",
           "type": "lineHeights"
         },
         "3xl-double": {
-          "value": "{font.line-height.28-double}",
+          "value": "{font.line-height.44}",
           "type": "lineHeights"
         },
         "4xl-single": {
-          "value": "{font.line-height.32-single}",
+          "value": "{font.line-height.38}",
           "type": "lineHeights"
         },
         "4xl-double": {
-          "value": "{font.line-height.32-double}",
+          "value": "{font.line-height.52}",
           "type": "lineHeights"
         },
         "5xl-single": {
-          "value": "{font.line-height.40-single}",
+          "value": "{font.line-height.48}",
           "type": "lineHeights"
         },
         "5xl-double": {
-          "value": "{font.line-height.40-double}",
+          "value": "{font.line-height.64}",
           "type": "lineHeights"
         },
         "6xl-single": {
-          "value": "{font.line-height.52-single}",
+          "value": "{font.line-height.62}",
           "type": "lineHeights"
         },
         "6xl-double": {
-          "value": "{font.line-height.52-double}",
+          "value": "{font.line-height.84}",
           "type": "lineHeights"
+        }
+      },
+      "weight": {
+        "regular": {
+          "value": "{font.font-weight.regular}",
+          "type": "fontWeights"
+        },
+        "medium": {
+          "value": "{font.font-weight.medium}",
+          "type": "fontWeights"
+        },
+        "bold": {
+          "value": "{font.font-weight.bold}",
+          "type": "fontWeights"
         }
       },
       "transform": {
@@ -1441,83 +1429,83 @@
     "font": {
       "line-height": {
         "r-xs-single": {
-          "value": "{font.line-height.14-single}",
+          "value": "{font.line-height.12}",
           "type": "lineHeights"
         },
         "r-xs-double": {
-          "value": "{font.line-height.14-double}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-sm-single": {
-          "value": "{font.line-height.16-single}",
+          "value": "{font.line-height.14}",
           "type": "lineHeights"
         },
         "r-sm-double": {
-          "value": "{font.line-height.16-double}",
+          "value": "{font.line-height.20}",
           "type": "lineHeights"
         },
         "r-md-single": {
-          "value": "{font.line-height.20-single}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-md-double": {
-          "value": "{font.line-height.20-double}",
+          "value": "{font.line-height.22}",
           "type": "lineHeights"
         },
         "r-lg-single": {
-          "value": "{font.line-height.24-single}",
+          "value": "{font.line-height.20}",
           "type": "lineHeights"
         },
         "r-lg-double": {
-          "value": "{font.line-height.24-double}",
+          "value": "{font.line-height.26}",
           "type": "lineHeights"
         },
         "r-xl-single": {
-          "value": "{font.line-height.28-single}",
+          "value": "{font.line-height.24}",
           "type": "lineHeights"
         },
         "r-xl-double": {
-          "value": "{font.line-height.28-double}",
+          "value": "{font.line-height.32}",
           "type": "lineHeights"
         },
         "r-2xl-single": {
-          "value": "{font.line-height.32-single}",
+          "value": "{font.line-height.28}",
           "type": "lineHeights"
         },
         "r-2xl-double": {
-          "value": "{font.line-height.32-double}",
+          "value": "{font.line-height.38}",
           "type": "lineHeights"
         },
         "r-3xl-single": {
-          "value": "{font.line-height.40-single}",
+          "value": "{font.line-height.34}",
           "type": "lineHeights"
         },
         "r-3xl-double": {
-          "value": "{font.line-height.40-double}",
+          "value": "{font.line-height.44}",
           "type": "lineHeights"
         },
         "r-4xl-single": {
-          "value": "{font.line-height.52-single}",
+          "value": "{font.line-height.38}",
           "type": "lineHeights"
         },
         "r-4xl-double": {
-          "value": "{font.line-height.52-double}",
+          "value": "{font.line-height.52}",
           "type": "lineHeights"
         },
         "r-5xl-single": {
-          "value": "{font.line-height.64-single}",
+          "value": "{font.line-height.48}",
           "type": "lineHeights"
         },
         "r-5xl-double": {
-          "value": "{font.line-height.64-double}",
+          "value": "{font.line-height.64}",
           "type": "lineHeights"
         },
         "r-6xl-single": {
-          "value": "{font.line-height.76-single}",
+          "value": "{font.line-height.62}",
           "type": "lineHeights"
         },
         "r-6xl-double": {
-          "value": "{font.line-height.76-double}",
+          "value": "{font.line-height.84}",
           "type": "lineHeights"
         }
       },
@@ -1583,83 +1571,83 @@
     "font": {
       "line-height": {
         "r-xs-single": {
-          "value": "{font.line-height.14-single}",
+          "value": "{font.line-height.12}",
           "type": "lineHeights"
         },
         "r-xs-double": {
-          "value": "{font.line-height.14-double}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-sm-single": {
-          "value": "{font.line-height.16-single}",
+          "value": "{font.line-height.14}",
           "type": "lineHeights"
         },
         "r-sm-double": {
-          "value": "{font.line-height.16-double}",
+          "value": "{font.line-height.20}",
           "type": "lineHeights"
         },
         "r-md-single": {
-          "value": "{font.line-height.20-single}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-md-double": {
-          "value": "{font.line-height.20-double}",
+          "value": "{font.line-height.22}",
           "type": "lineHeights"
         },
         "r-lg-single": {
-          "value": "{font.line-height.24-single}",
+          "value": "{font.line-height.20}",
           "type": "lineHeights"
         },
         "r-lg-double": {
-          "value": "{font.line-height.24-double}",
+          "value": "{font.line-height.26}",
           "type": "lineHeights"
         },
         "r-xl-single": {
-          "value": "{font.line-height.28-single}",
+          "value": "{font.line-height.24}",
           "type": "lineHeights"
         },
         "r-xl-double": {
-          "value": "{font.line-height.28-double}",
+          "value": "{font.line-height.32}",
           "type": "lineHeights"
         },
         "r-2xl-single": {
-          "value": "{font.line-height.32-single}",
+          "value": "{font.line-height.28}",
           "type": "lineHeights"
         },
         "r-2xl-double": {
-          "value": "{font.line-height.32-double}",
+          "value": "{font.line-height.38}",
           "type": "lineHeights"
         },
         "r-3xl-single": {
-          "value": "{font.line-height.40-single}",
+          "value": "{font.line-height.34}",
           "type": "lineHeights"
         },
         "r-3xl-double": {
-          "value": "{font.line-height.40-double}",
+          "value": "{font.line-height.44}",
           "type": "lineHeights"
         },
         "r-4xl-single": {
-          "value": "{font.line-height.52-single}",
+          "value": "{font.line-height.38}",
           "type": "lineHeights"
         },
         "r-4xl-double": {
-          "value": "{font.line-height.52-double}",
+          "value": "{font.line-height.52}",
           "type": "lineHeights"
         },
         "r-5xl-single": {
-          "value": "{font.line-height.64-single}",
+          "value": "{font.line-height.48}",
           "type": "lineHeights"
         },
         "r-5xl-double": {
-          "value": "{font.line-height.64-double}",
+          "value": "{font.line-height.64}",
           "type": "lineHeights"
         },
         "r-6xl-single": {
-          "value": "{font.line-height.76-single}",
+          "value": "{font.line-height.62}",
           "type": "lineHeights"
         },
         "r-6xl-double": {
-          "value": "{font.line-height.76-double}",
+          "value": "{font.line-height.84}",
           "type": "lineHeights"
         }
       },
@@ -1725,83 +1713,83 @@
     "font": {
       "line-height": {
         "r-xs-single": {
-          "value": "{font.line-height.14-single}",
+          "value": "{font.line-height.12}",
           "type": "lineHeights"
         },
         "r-xs-double": {
-          "value": "{font.line-height.14-double}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-sm-single": {
-          "value": "{font.line-height.16-single}",
+          "value": "{font.line-height.14}",
           "type": "lineHeights"
         },
         "r-sm-double": {
-          "value": "{font.line-height.16-double}",
+          "value": "{font.line-height.20}",
           "type": "lineHeights"
         },
         "r-md-single": {
-          "value": "{font.line-height.20-single}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-md-double": {
-          "value": "{font.line-height.20-double}",
+          "value": "{font.line-height.22}",
           "type": "lineHeights"
         },
         "r-lg-single": {
-          "value": "{font.line-height.24-single}",
+          "value": "{font.line-height.20}",
           "type": "lineHeights"
         },
         "r-lg-double": {
-          "value": "{font.line-height.24-double}",
+          "value": "{font.line-height.26}",
           "type": "lineHeights"
         },
         "r-xl-single": {
-          "value": "{font.line-height.28-single}",
+          "value": "{font.line-height.24}",
           "type": "lineHeights"
         },
         "r-xl-double": {
-          "value": "{font.line-height.28-double}",
+          "value": "{font.line-height.32}",
           "type": "lineHeights"
         },
         "r-2xl-single": {
-          "value": "{font.line-height.32-single}",
+          "value": "{font.line-height.28}",
           "type": "lineHeights"
         },
         "r-2xl-double": {
-          "value": "{font.line-height.32-double}",
+          "value": "{font.line-height.38}",
           "type": "lineHeights"
         },
         "r-3xl-single": {
-          "value": "{font.line-height.40-single}",
+          "value": "{font.line-height.34}",
           "type": "lineHeights"
         },
         "r-3xl-double": {
-          "value": "{font.line-height.40-double}",
+          "value": "{font.line-height.44}",
           "type": "lineHeights"
         },
         "r-4xl-single": {
-          "value": "{font.line-height.52-single}",
+          "value": "{font.line-height.38}",
           "type": "lineHeights"
         },
         "r-4xl-double": {
-          "value": "{font.line-height.52-double}",
+          "value": "{font.line-height.52}",
           "type": "lineHeights"
         },
         "r-5xl-single": {
-          "value": "{font.line-height.64-single}",
+          "value": "{font.line-height.48}",
           "type": "lineHeights"
         },
         "r-5xl-double": {
-          "value": "{font.line-height.64-double}",
+          "value": "{font.line-height.64}",
           "type": "lineHeights"
         },
         "r-6xl-single": {
-          "value": "{font.line-height.76-single}",
+          "value": "{font.line-height.62}",
           "type": "lineHeights"
         },
         "r-6xl-double": {
-          "value": "{font.line-height.76-double}",
+          "value": "{font.line-height.84}",
           "type": "lineHeights"
         }
       },
@@ -1867,83 +1855,83 @@
     "font": {
       "line-height": {
         "r-xs-single": {
-          "value": "{font.line-height.14-single}",
+          "value": "{font.line-height.12}",
           "type": "lineHeights"
         },
         "r-xs-double": {
-          "value": "{font.line-height.14-double}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-sm-single": {
-          "value": "{font.line-height.16-single}",
+          "value": "{font.line-height.14}",
           "type": "lineHeights"
         },
         "r-sm-double": {
-          "value": "{font.line-height.16-double}",
+          "value": "{font.line-height.20}",
           "type": "lineHeights"
         },
         "r-md-single": {
-          "value": "{font.line-height.20-single}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-md-double": {
-          "value": "{font.line-height.20-double}",
+          "value": "{font.line-height.22}",
           "type": "lineHeights"
         },
         "r-lg-single": {
-          "value": "{font.line-height.24-single}",
+          "value": "{font.line-height.20}",
           "type": "lineHeights"
         },
         "r-lg-double": {
-          "value": "{font.line-height.24-double}",
+          "value": "{font.line-height.26}",
           "type": "lineHeights"
         },
         "r-xl-single": {
-          "value": "{font.line-height.28-single}",
+          "value": "{font.line-height.24}",
           "type": "lineHeights"
         },
         "r-xl-double": {
-          "value": "{font.line-height.28-double}",
+          "value": "{font.line-height.32}",
           "type": "lineHeights"
         },
         "r-2xl-single": {
-          "value": "{font.line-height.32-single}",
+          "value": "{font.line-height.28}",
           "type": "lineHeights"
         },
         "r-2xl-double": {
-          "value": "{font.line-height.32-double}",
+          "value": "{font.line-height.38}",
           "type": "lineHeights"
         },
         "r-3xl-single": {
-          "value": "{font.line-height.40-single}",
+          "value": "{font.line-height.34}",
           "type": "lineHeights"
         },
         "r-3xl-double": {
-          "value": "{font.line-height.40-double}",
+          "value": "{font.line-height.44}",
           "type": "lineHeights"
         },
         "r-4xl-single": {
-          "value": "{font.line-height.52-single}",
+          "value": "{font.line-height.38}",
           "type": "lineHeights"
         },
         "r-4xl-double": {
-          "value": "{font.line-height.52-double}",
+          "value": "{font.line-height.52}",
           "type": "lineHeights"
         },
         "r-5xl-single": {
-          "value": "{font.line-height.64-single}",
+          "value": "{font.line-height.48}",
           "type": "lineHeights"
         },
         "r-5xl-double": {
-          "value": "{font.line-height.64-double}",
+          "value": "{font.line-height.64}",
           "type": "lineHeights"
         },
         "r-6xl-single": {
-          "value": "{font.line-height.76-single}",
+          "value": "{font.line-height.62}",
           "type": "lineHeights"
         },
         "r-6xl-double": {
-          "value": "{font.line-height.76-double}",
+          "value": "{font.line-height.84}",
           "type": "lineHeights"
         }
       },
@@ -2001,101 +1989,101 @@
         "primitives": "source"
       },
       "$figmaVariableReferences": {
-        "color.primary.primary-default": "31bb0e290ebf32a0a2c967aa8d3a35cb9273809f",
-        "color.primary.primary-variant": "4a555bb65ea49a9a1e3013f705c485fc50ab2390",
-        "color.primary.on-primary": "4298b07beac74a62b0e6d7928d99cfbee3b55669",
-        "color.primary.primary-container": "7ce19f1bcc453711305734bf41526221cc6b2233",
-        "color.primary.on-primary-container": "11be37ca6d2424d668dc3520f1e27c2668f2aa86",
-        "color.primary.primary-container-variant": "53d759e6a4f2a61bd56526818157dc79ba0c1484",
-        "color.secondary.secondary-default": "0b04996f0ff1e1753e9905d237a2f36611cf0ef9",
-        "color.secondary.on-secondary": "e7b323efbc9848f75fc9f5722993d287fe24a932",
-        "color.secondary.secondary-container": "439f210e08020ea4f4bbee519b536d711c524de4",
-        "color.secondary.on-secondary-container": "7416cc62819bddaafa910bbbd0d0016f6c3bd9f5",
-        "color.secondary.secondary-container-variant": "f253b8a09c4c0afe5229072c78a9c55a5b9c6f87",
-        "color.tertiary.tertiary-default": "820ca6a5935e69adc4013f4690f89085f0310ab2",
-        "color.tertiary.on-tertiary": "f0689b61412859d7a4fbab3e234a28c2116e709e",
-        "color.tertiary.tertiary-container": "778edb296e5051abf9faf81ed8660e8361b86ab2",
-        "color.tertiary.on-tertiary-container": "18eb64fe0308072abd2cdc0c2b06bf6e8e7ac8f4",
-        "color.tertiary.tertiary-container-variant": "27ca5719a6bbc109449d7133400ddaab16a2610c",
-        "color.surface.surface-default": "971105c683fee026388268a9c3b3efafbeba23d6",
-        "color.surface.on-surface": "877f14a47651fb77efd4f562f71c173560c1f15d",
-        "color.surface.surface-variant": "f4bef06977d1ac9498bbe53face7a31e3745ee54",
-        "color.surface.on-surface-variant": "017872cfd147428f5e75480e46e8e54f7972b7a5",
-        "color.surface.surface-container-low": "9135ac55cd896b4339b4aadeeeaa6a0f57bc92a1",
-        "color.surface.surface-container-medium": "990c1674309a96f84112f949f66d163cc41760ea",
-        "color.surface.surface-container-high": "05e2bc6ba585f07369434b7770695be962c4cf42",
-        "color.surface.inverse-surface": "6f29fe16a057cb243511911602e711c9eb5a1a2f",
-        "color.surface.on-inverse-surface": "076918edfd61ac3c858ffc3e874782e32fd4f981",
-        "color.outline.outline-default": "4ac8a937414025e9179fde7940b1dc3fa59023a0",
-        "color.outline.outline-variant": "bcc6cf4966780481650a31ea9769491c707db9b2",
-        "color.critical.critical-default": "75f5982a24eccf353bc9deb7e1e8d16db94b7ffd",
-        "color.critical.on-critical": "dccc53c641200ffc074c152f7379ec07d92d9748",
-        "color.critical.critical-container": "c022e13363079b086d7eed614b0d8948fe28d6d6",
-        "color.critical.on-critical-container": "28af2a582fc94c476253d47c954b3da2048544ba",
-        "color.positive.positive-default": "8799ab68972d4967eaa1ce66e7c43d20947d82ae",
-        "color.positive.on-positive": "65d9a4f5d05e81a0eb2299be3eb64846b583f3ab",
-        "color.positive.positive-container": "b4ce95015fa3ba954c0f16295c2c4779631f3394",
-        "color.positive.on-positive-container": "b09a0b022bd932b7af997c488e99fbf7137a8c79",
-        "color.info.info-default": "96fcf1a38a20985756d86e3e8bf7b76c7026ea9d",
-        "color.info.on-info": "aa9d528d64d52901de1fb83eda7f3d5d5c63d28c",
-        "color.info.info-container": "c0f1abfc08bc473cad9d2ad759a9f462e8acdd22",
-        "color.info.on-info-container": "6220a16cc747b3c47f5bcf3387e5caac3ea2906c",
-        "color.featured.featured-default": "f061f8436b2290836b54ddc5eb5288f36637c97c",
-        "color.featured.on-featured": "30f2d6a40b355125275b7a2bd2d60ae521ecbb19",
-        "color.featured.featured-container": "74bad9823be3e17b81160a27ecf53a2dceefeb72",
-        "color.featured.on-featured-container": "dafdf041301ebe7e7f3647df11fc8810dee9b56f",
-        "color.other.shadow": "30cef6774b02d37f00ebe68978ed4b11aed94ca6",
-        "color.other.scrim": "387c639cfe10c2cbafc77f831294cbffe066cd9e",
-        "color.other.overlay": "60dc640ff2c6440d06aa48b2ec69e1e51b696060",
-        "font.family.primary": "22e194b13e24e3f95158e271759a86a891f2a921",
-        "font.family.secondary": "5cb9b5d74c769461c345d583f4da3db6d87b6f3b",
-        "font.weight.regular": "92b8ada994b11ba37ac631dd49e759e509f873e5",
-        "font.weight.medium": "08cf16a5b87c1d105153bddebfbdbe511e447b61",
-        "font.weight.bold": "078cdbf103059cdf77809905f5a2ad4cd0148b80",
-        "font.size.xs": "49b46c615dc474b0f6bc67b6326d8c650ae9f58e",
-        "font.size.sm": "513ad3cf77318e81db332a663c39526d177b02de",
-        "font.size.md": "cd3b43594e3d0d3a8812fd640180927373d357bc",
-        "font.size.lg": "a2013d85a5d6e9e1d0f625e1bf7fbdb105aaeb47",
-        "font.size.xl": "05501ec985db3ffc89c408a03acf39fc67b86cad",
-        "font.size.2xl": "727779632d638dbf9ccce20a13c3c5f40e74ead3",
-        "font.size.3xl": "8eaa70c253970d44c46f955642507b9bebfdefc9",
-        "font.size.4xl": "9c25baaf5b037f843d1c3f04da3b928a60acccc3",
-        "font.size.5xl": "6dbd3371f032ae520a6cbf3d3f0a902380300a92",
-        "font.size.6xl": "45ecfcaa02af0333b87784459f0a2c9ecc43795f",
-        "font.line-height.xs-single": "3fcc1cd769211dc2efafa661a49b37a206f38965",
-        "font.line-height.xs-double": "6ab398a68b92eb3810067933c2e5230b83e301c7",
-        "font.line-height.sm-single": "1adbff35f7c0245415ee54fcf3284e5e2045d994",
-        "font.line-height.sm-double": "7c1faac70ec0921d5c8107a8e23c235611599507",
-        "font.line-height.md-single": "e685801daa8a7652b7078f0dff6851432ed804f4",
-        "font.line-height.md-double": "5008f31fc099093cbf021f545f50c09f3f2b5eba",
-        "font.line-height.lg-single": "40a866de563850306c100d5beea9a2c9a8005497",
-        "font.line-height.lg-double": "6275be61995cd1030bb6c003ab7faac75f5408de",
-        "font.line-height.xl-single": "dc391bc27c05294256475528b4979b36af5e5a58",
-        "font.line-height.xl-double": "6aafb354ceb9264a3879a687921417950e08b0be",
-        "font.line-height.2xl-single": "1adbc9ce739646e85ceef5b1f852e7780eb41409",
-        "font.line-height.2xl-double": "53ab816944309ae54e3b7d0f938c2afc559b4441",
-        "font.line-height.3xl-single": "d3344ead97b96c064280d2c9fff68d6a82cd2134",
-        "font.line-height.3xl-double": "f9987eca89df08d1584d1edb9d22c6a3fcd3af5f",
-        "font.line-height.4xl-single": "15e694ede10ec8fab3636c1fbd0acd4df7fcbea0",
-        "font.line-height.4xl-double": "41631297c426ac4ea98fd9ee75c63e7762988180",
-        "font.line-height.5xl-single": "9ef2455dc7586c0e390bd078cbc1f2778ac966de",
-        "font.line-height.5xl-double": "2b877212d6b0d3729253e3aeb19f029ba0f5195a",
-        "font.line-height.6xl-single": "7e21380d5bd5d024ae4fc55282ef26076388fcac",
-        "font.line-height.6xl-double": "75cdc5717913e69cd22a51ac8034df0cbb303571",
-        "font.transform": "4abcb598f218e2f7e88e68543cff492f320fca4b",
-        "font.decoration": "62d68afbdf2e7f42fff05bbebaf552bf83ebacf2",
-        "border.thickness.light": "f793e1c6fec23c4948010dbd5622c9a5930bd363",
-        "border.thickness.default": "02ff2b0eb7594631cf7b7560c57b248718c59bbf",
-        "border.thickness.strong": "a38f0195142084454d80c2a935f1f33549e3c72b",
-        "border.radius.xs": "6a8a7d654df764b1f512262b0c1ac139e8171d9e",
-        "border.radius.sm": "7e7d870442217e82edcfbbe95be6d332c5417040",
-        "border.radius.md": "92370b600c0a8f1b6328503cbaeb817b3823dc17",
-        "border.radius.lg": "68393d5645180357879d0a0db49c7163b0eb887d",
-        "border.radius.xl": "40e896f54f1cf04a011a94ffeda778cf6f11a94a",
-        "color.other.on-other": "1fc3b0ea8c5386dad44749574d1de6c1c831fb75"
+        "color.primary.primary-default": "9e1b9d3ac30a7d201fc7fc587aee28526270339d",
+        "color.primary.primary-variant": "8c202116e48b9ab142829130629a872162cd4f4e",
+        "color.primary.on-primary": "409f209d7b22ab5f6ac27e3e749479d4c10e6b19",
+        "color.primary.primary-container": "5647e22b78ff73af4a62bf1b2645c5c0a8b5880c",
+        "color.primary.on-primary-container": "903e8d7e6af4698e821fd683187f21f9bdb9818f",
+        "color.primary.primary-container-variant": "4544295ac1b7050b6a0edbab66115c197db7bf59",
+        "color.secondary.secondary-default": "40eec4f89168421ad119d8e575753ad2598006b8",
+        "color.secondary.on-secondary": "ecc96b3140cf9405dcb660e26209e13370fe21b4",
+        "color.secondary.secondary-container": "93ce72d3c867c6add5cc12ece460f1c1bc65ad0b",
+        "color.secondary.on-secondary-container": "314488d2171458241baa252e3020aaf0f8e53c53",
+        "color.secondary.secondary-container-variant": "2a87c971bc0cc829b0cc8ed8aa17f2579db26ce9",
+        "color.tertiary.tertiary-default": "0653bffd7a33a8cad2ec699c82756ba5112cc88a",
+        "color.tertiary.on-tertiary": "6c56ecd7f736d23eca0239983339f1dfaa817829",
+        "color.tertiary.tertiary-container": "71c441b763b0c952f03439d3e82382af01d385e0",
+        "color.tertiary.on-tertiary-container": "d0963a9c8d84d0bebba607a125a4ac6ba97db7c5",
+        "color.tertiary.tertiary-container-variant": "dd37e8d7b6ece841f4b4de304fda639336504c96",
+        "color.surface.surface-default": "b710d1896d4285dde8bbb73578cc128d0d3447d3",
+        "color.surface.on-surface": "d8c366b6d8ee4763540dbd36ea50189313233f7b",
+        "color.surface.surface-variant": "d7177bc42365bebfba7a77dc0a50240b6ec2c086",
+        "color.surface.on-surface-variant": "bc2d7e7f23ae9e9d7484c5b56c62587ca7fdad29",
+        "color.surface.surface-container-low": "9da3c15e2bf9e34d666036c14b768eb9e3784492",
+        "color.surface.surface-container-medium": "ee731c471c98709b20856b220ae5ed53ee3579b0",
+        "color.surface.surface-container-high": "592550d0cabf274953c3eabfd346db1181e0bfa6",
+        "color.surface.inverse-surface": "9836222291345894cafec9f944a97420862db8aa",
+        "color.surface.on-inverse-surface": "2d48d754debf61b7233c48a9f94075c4ff8e5bfd",
+        "color.outline.outline-default": "a6eef40adb39c02390f7de7c25857648a84a9229",
+        "color.outline.outline-variant": "ced5ed572d68265d330364fc35383c75a033dc37",
+        "color.critical.critical-default": "1dc8ba3d80f2c89e3ce5a2327e0c94a97abaa21f",
+        "color.critical.on-critical": "06ad03ce1e15f517fe98f60c5251c2ea0b64f503",
+        "color.critical.critical-container": "89c1d8014f5d27f249d233401a170d699439e43f",
+        "color.critical.on-critical-container": "9f05cc1ffe6d2e68e60eec903c380d2e55b1ebbb",
+        "color.positive.positive-default": "79dd16a54e314338da8cb81f95fc2373b5c71d04",
+        "color.positive.on-positive": "4fcda30732fccf94829591cc8451bfd44a29a625",
+        "color.positive.positive-container": "f4f8cfc28c29f1e59d7c0722e368d631425cdcc6",
+        "color.positive.on-positive-container": "b28892ae08aa614580d587b504e9ebe44f01e09e",
+        "color.info.info-default": "a316629fa9427fbc39f806c7500b91162d9c68b0",
+        "color.info.on-info": "db7cfedbf82226846fce51bcb928984089e5d009",
+        "color.info.info-container": "23ebf78868bcb6af42badf05955f4d50ff44ce2a",
+        "color.info.on-info-container": "69cd74796896c1d33520687d607ea40676992b70",
+        "color.featured.featured-default": "3bd84bae7ba69aefa82cecc9bc367b6b9962cc35",
+        "color.featured.on-featured": "676b341c83e234fbf434e0ad282cbcd583e45b3a",
+        "color.featured.featured-container": "e44acbfb438a79fb5c69e3d3941ed94675462de9",
+        "color.featured.on-featured-container": "cd4600862cceee52c4254e0268413109aeec6517",
+        "color.other.shadow": "6e8a9710772a433cda87a1e4ca1bdca9170a25ab",
+        "color.other.scrim": "651835efd4bda5fc562dcdac9857e01feaa0e42f",
+        "color.other.overlay": "21bb2fa9caf359e2d081eed8e7c89bf79b9bfe30",
+        "font.family.primary": "ab76f6f499953325982df610f9ff54e4973bd6e7",
+        "font.family.secondary": "900af3dd82cb2cfb03d5c2b5c87a85b4316ff7ed",
+        "font.size.xs": "c937e1d1d38e1f158012519ad158762f97f2d210",
+        "font.size.sm": "91058ca0d18d47e61c3534e945e181af758aa238",
+        "font.size.md": "ad3463df286e2480da40ea13d06ca244cd8a58c8",
+        "font.size.lg": "d26a416209679dfb4b1e65a232cd174cbe5910f9",
+        "font.size.xl": "38d48eacff3941b149513b3d8b2346233963e430",
+        "font.size.2xl": "c41646ab4ed92b60a1c1748b54a5dbd1e5a391b7",
+        "font.size.3xl": "8a664e8c46ad66598e42f8ff1742261c407d1bc3",
+        "font.size.4xl": "59a1f151138a4ccda633ba130830a8c7abfb2d2b",
+        "font.size.5xl": "3b82fe7116cbd3d4abc3e2eabe046507102fb626",
+        "font.size.6xl": "8109e1db918de4825f8ef6a6e27cee59ab369c5b",
+        "font.line-height.xs-single": "fdacafe7a27b49a61b217476c6049f716870f8c0",
+        "font.line-height.xs-double": "6aa33c8d401d42468291d42ef10dd14abf645629",
+        "font.line-height.sm-single": "a62d4654d1e50705f80a227468aecca23ea405ce",
+        "font.line-height.sm-double": "06f7a2ddff2357631363223ea303676a42430de5",
+        "font.line-height.md-single": "e91b8bfa1df7f08676db012d20e6ab7ab3d16425",
+        "font.line-height.md-double": "b3afb5eae4b71af1c1e86814fbb36548b04fadfa",
+        "font.line-height.lg-single": "e97ee3e0e54516250df2ec30915dbe64d1abf43e",
+        "font.line-height.lg-double": "18d7ace7d369a1aa15a199c9480250fe7c832088",
+        "font.line-height.xl-single": "be39a0a547fe1775365fad19c979ba01ee157320",
+        "font.line-height.xl-double": "7de0ec89c28bfa1e8cc8d3ade28a1a2b894e064f",
+        "font.line-height.2xl-single": "404216d9071691283cb06ba85b41b38690200c6b",
+        "font.line-height.2xl-double": "3e53183a6c9eb7c24ec593e5700b4c5a29ecaf6d",
+        "font.line-height.3xl-single": "69f06d571dfecdde07b4c312928d66ecc4d4357f",
+        "font.line-height.3xl-double": "1f93711cc090d282b1ae1912dc61d602ae5098c4",
+        "font.line-height.4xl-single": "a371b3464a897c43e8cea2de0f19785c94143613",
+        "font.line-height.4xl-double": "f61f3327c1826a0efe40a7effe75978ab7b22f5e",
+        "font.line-height.5xl-single": "98023510c102505bae492664b3054cb486f20189",
+        "font.line-height.5xl-double": "2fafad64b6e8d5ef702f4e4d015fba4ecbd0281c",
+        "font.line-height.6xl-single": "33904b67c68b9e1f239c8c3ff0222706fbba02ab",
+        "font.line-height.6xl-double": "0fae57e3a8dd9c535577da9aeb224368e668f0c1",
+        "font.weight.regular": "b065818a1fc7962ca2d216a96f1564bf2ce084d7",
+        "font.weight.medium": "b25de2f308f858e1f843a5b7ff82d35aaba0b5a5",
+        "font.weight.bold": "0c93b5c03d7cd58eb3c1271215cc208c5bc16a10",
+        "font.transform": "ad5156bc5f63c302d51f57eb672f771d9b9db55f",
+        "font.decoration": "b8f678ff99241e9b841bf0ae99f8eb8d193feef9",
+        "border.thickness.light": "dd1ecc853c759f62964a78c19fde6b2c0f1b8150",
+        "border.thickness.default": "1c5fe0587a40fe823157a39f42aea98f26576174",
+        "border.thickness.strong": "910c3509a7ba9ba20eaaa06922760fe0da9a830e",
+        "border.radius.xs": "f1c7ae98a9b5e4684b9ee3b4e51e2ab6faee6a28",
+        "border.radius.sm": "a0208f65c105dddafecc94b7f65ab1e063aac0a5",
+        "border.radius.md": "59fe70df15974d37b5362969fc2be276a411c384",
+        "border.radius.lg": "69b4d98af4a5253c322cb7f9ce278fed2ed47266",
+        "border.radius.xl": "3e14a9cadf5f001aeee164878bbe098e8c20a65b",
+        "color.other.on-other": "6819f4e089a8b399ed75732bd4abd1dce0e4370b"
       },
-      "$figmaCollectionId": "VariableCollectionId:1618:19",
-      "$figmaModeId": "1618:0",
+      "$figmaCollectionId": "VariableCollectionId:8014:48",
+      "$figmaModeId": "8014:0",
       "group": "1.theme"
     },
     {
@@ -2107,101 +2095,101 @@
         "primitives": "source"
       },
       "$figmaVariableReferences": {
-        "color.primary.primary-default": "31bb0e290ebf32a0a2c967aa8d3a35cb9273809f",
-        "color.primary.primary-variant": "4a555bb65ea49a9a1e3013f705c485fc50ab2390",
-        "color.primary.on-primary": "4298b07beac74a62b0e6d7928d99cfbee3b55669",
-        "color.primary.on-primary-container": "11be37ca6d2424d668dc3520f1e27c2668f2aa86",
-        "color.primary.primary-container": "7ce19f1bcc453711305734bf41526221cc6b2233",
-        "color.primary.primary-container-variant": "53d759e6a4f2a61bd56526818157dc79ba0c1484",
-        "color.secondary.secondary-default": "0b04996f0ff1e1753e9905d237a2f36611cf0ef9",
-        "color.secondary.on-secondary": "e7b323efbc9848f75fc9f5722993d287fe24a932",
-        "color.secondary.secondary-container": "439f210e08020ea4f4bbee519b536d711c524de4",
-        "color.secondary.on-secondary-container": "7416cc62819bddaafa910bbbd0d0016f6c3bd9f5",
-        "color.secondary.secondary-container-variant": "f253b8a09c4c0afe5229072c78a9c55a5b9c6f87",
-        "color.tertiary.tertiary-default": "820ca6a5935e69adc4013f4690f89085f0310ab2",
-        "color.tertiary.on-tertiary": "f0689b61412859d7a4fbab3e234a28c2116e709e",
-        "color.tertiary.tertiary-container": "778edb296e5051abf9faf81ed8660e8361b86ab2",
-        "color.tertiary.on-tertiary-container": "18eb64fe0308072abd2cdc0c2b06bf6e8e7ac8f4",
-        "color.tertiary.tertiary-container-variant": "27ca5719a6bbc109449d7133400ddaab16a2610c",
-        "color.surface.surface-default": "971105c683fee026388268a9c3b3efafbeba23d6",
-        "color.surface.on-surface": "877f14a47651fb77efd4f562f71c173560c1f15d",
-        "color.surface.surface-variant": "f4bef06977d1ac9498bbe53face7a31e3745ee54",
-        "color.surface.on-surface-variant": "017872cfd147428f5e75480e46e8e54f7972b7a5",
-        "color.surface.inverse-surface": "6f29fe16a057cb243511911602e711c9eb5a1a2f",
-        "color.surface.on-inverse-surface": "076918edfd61ac3c858ffc3e874782e32fd4f981",
-        "color.surface.surface-container-low": "9135ac55cd896b4339b4aadeeeaa6a0f57bc92a1",
-        "color.surface.surface-container-medium": "990c1674309a96f84112f949f66d163cc41760ea",
-        "color.surface.surface-container-high": "05e2bc6ba585f07369434b7770695be962c4cf42",
-        "color.outline.outline-default": "4ac8a937414025e9179fde7940b1dc3fa59023a0",
-        "color.outline.outline-variant": "bcc6cf4966780481650a31ea9769491c707db9b2",
-        "color.critical.critical-default": "75f5982a24eccf353bc9deb7e1e8d16db94b7ffd",
-        "color.critical.on-critical": "dccc53c641200ffc074c152f7379ec07d92d9748",
-        "color.critical.critical-container": "c022e13363079b086d7eed614b0d8948fe28d6d6",
-        "color.critical.on-critical-container": "28af2a582fc94c476253d47c954b3da2048544ba",
-        "color.positive.positive-default": "8799ab68972d4967eaa1ce66e7c43d20947d82ae",
-        "color.positive.on-positive": "65d9a4f5d05e81a0eb2299be3eb64846b583f3ab",
-        "color.positive.positive-container": "b4ce95015fa3ba954c0f16295c2c4779631f3394",
-        "color.positive.on-positive-container": "b09a0b022bd932b7af997c488e99fbf7137a8c79",
-        "color.info.info-default": "96fcf1a38a20985756d86e3e8bf7b76c7026ea9d",
-        "color.info.on-info": "aa9d528d64d52901de1fb83eda7f3d5d5c63d28c",
-        "color.info.info-container": "c0f1abfc08bc473cad9d2ad759a9f462e8acdd22",
-        "color.info.on-info-container": "6220a16cc747b3c47f5bcf3387e5caac3ea2906c",
-        "color.featured.featured-default": "f061f8436b2290836b54ddc5eb5288f36637c97c",
-        "color.featured.on-featured": "30f2d6a40b355125275b7a2bd2d60ae521ecbb19",
-        "color.featured.featured-container": "74bad9823be3e17b81160a27ecf53a2dceefeb72",
-        "color.featured.on-featured-container": "dafdf041301ebe7e7f3647df11fc8810dee9b56f",
-        "color.other.shadow": "30cef6774b02d37f00ebe68978ed4b11aed94ca6",
-        "color.other.scrim": "387c639cfe10c2cbafc77f831294cbffe066cd9e",
-        "color.other.overlay": "60dc640ff2c6440d06aa48b2ec69e1e51b696060",
-        "font.family.primary": "22e194b13e24e3f95158e271759a86a891f2a921",
-        "font.family.secondary": "5cb9b5d74c769461c345d583f4da3db6d87b6f3b",
-        "font.size.xs": "49b46c615dc474b0f6bc67b6326d8c650ae9f58e",
-        "font.size.sm": "513ad3cf77318e81db332a663c39526d177b02de",
-        "font.size.md": "cd3b43594e3d0d3a8812fd640180927373d357bc",
-        "font.size.lg": "a2013d85a5d6e9e1d0f625e1bf7fbdb105aaeb47",
-        "font.size.xl": "05501ec985db3ffc89c408a03acf39fc67b86cad",
-        "font.size.2xl": "727779632d638dbf9ccce20a13c3c5f40e74ead3",
-        "font.size.3xl": "8eaa70c253970d44c46f955642507b9bebfdefc9",
-        "font.size.4xl": "9c25baaf5b037f843d1c3f04da3b928a60acccc3",
-        "font.size.5xl": "6dbd3371f032ae520a6cbf3d3f0a902380300a92",
-        "font.size.6xl": "45ecfcaa02af0333b87784459f0a2c9ecc43795f",
-        "font.line-height.xs-single": "3fcc1cd769211dc2efafa661a49b37a206f38965",
-        "font.line-height.xs-double": "6ab398a68b92eb3810067933c2e5230b83e301c7",
-        "font.line-height.sm-single": "1adbff35f7c0245415ee54fcf3284e5e2045d994",
-        "font.line-height.sm-double": "7c1faac70ec0921d5c8107a8e23c235611599507",
-        "font.line-height.md-single": "e685801daa8a7652b7078f0dff6851432ed804f4",
-        "font.line-height.md-double": "5008f31fc099093cbf021f545f50c09f3f2b5eba",
-        "font.line-height.lg-single": "40a866de563850306c100d5beea9a2c9a8005497",
-        "font.line-height.lg-double": "6275be61995cd1030bb6c003ab7faac75f5408de",
-        "font.line-height.xl-single": "dc391bc27c05294256475528b4979b36af5e5a58",
-        "font.line-height.xl-double": "6aafb354ceb9264a3879a687921417950e08b0be",
-        "font.line-height.2xl-single": "1adbc9ce739646e85ceef5b1f852e7780eb41409",
-        "font.line-height.2xl-double": "53ab816944309ae54e3b7d0f938c2afc559b4441",
-        "font.line-height.3xl-single": "d3344ead97b96c064280d2c9fff68d6a82cd2134",
-        "font.line-height.3xl-double": "f9987eca89df08d1584d1edb9d22c6a3fcd3af5f",
-        "font.line-height.4xl-single": "15e694ede10ec8fab3636c1fbd0acd4df7fcbea0",
-        "font.line-height.4xl-double": "41631297c426ac4ea98fd9ee75c63e7762988180",
-        "font.line-height.5xl-single": "9ef2455dc7586c0e390bd078cbc1f2778ac966de",
-        "font.line-height.5xl-double": "2b877212d6b0d3729253e3aeb19f029ba0f5195a",
-        "font.line-height.6xl-single": "7e21380d5bd5d024ae4fc55282ef26076388fcac",
-        "font.line-height.6xl-double": "75cdc5717913e69cd22a51ac8034df0cbb303571",
-        "font.weight.regular": "92b8ada994b11ba37ac631dd49e759e509f873e5",
-        "font.weight.medium": "08cf16a5b87c1d105153bddebfbdbe511e447b61",
-        "font.weight.bold": "078cdbf103059cdf77809905f5a2ad4cd0148b80",
-        "font.transform": "4abcb598f218e2f7e88e68543cff492f320fca4b",
-        "font.decoration": "62d68afbdf2e7f42fff05bbebaf552bf83ebacf2",
-        "border.thickness.light": "f793e1c6fec23c4948010dbd5622c9a5930bd363",
-        "border.thickness.default": "02ff2b0eb7594631cf7b7560c57b248718c59bbf",
-        "border.thickness.strong": "a38f0195142084454d80c2a935f1f33549e3c72b",
-        "border.radius.xs": "6a8a7d654df764b1f512262b0c1ac139e8171d9e",
-        "border.radius.sm": "7e7d870442217e82edcfbbe95be6d332c5417040",
-        "border.radius.md": "92370b600c0a8f1b6328503cbaeb817b3823dc17",
-        "border.radius.lg": "68393d5645180357879d0a0db49c7163b0eb887d",
-        "border.radius.xl": "40e896f54f1cf04a011a94ffeda778cf6f11a94a",
-        "color.other.on-overlay": "93a8ba0ab49707e04e5b9e6d8551dd34cf235548"
+        "color.primary.primary-default": "9e1b9d3ac30a7d201fc7fc587aee28526270339d",
+        "color.primary.primary-variant": "8c202116e48b9ab142829130629a872162cd4f4e",
+        "color.primary.on-primary": "409f209d7b22ab5f6ac27e3e749479d4c10e6b19",
+        "color.primary.on-primary-container": "903e8d7e6af4698e821fd683187f21f9bdb9818f",
+        "color.primary.primary-container": "5647e22b78ff73af4a62bf1b2645c5c0a8b5880c",
+        "color.primary.primary-container-variant": "4544295ac1b7050b6a0edbab66115c197db7bf59",
+        "color.secondary.secondary-default": "40eec4f89168421ad119d8e575753ad2598006b8",
+        "color.secondary.on-secondary": "ecc96b3140cf9405dcb660e26209e13370fe21b4",
+        "color.secondary.secondary-container": "93ce72d3c867c6add5cc12ece460f1c1bc65ad0b",
+        "color.secondary.on-secondary-container": "314488d2171458241baa252e3020aaf0f8e53c53",
+        "color.secondary.secondary-container-variant": "2a87c971bc0cc829b0cc8ed8aa17f2579db26ce9",
+        "color.tertiary.tertiary-default": "0653bffd7a33a8cad2ec699c82756ba5112cc88a",
+        "color.tertiary.on-tertiary": "6c56ecd7f736d23eca0239983339f1dfaa817829",
+        "color.tertiary.tertiary-container": "71c441b763b0c952f03439d3e82382af01d385e0",
+        "color.tertiary.on-tertiary-container": "d0963a9c8d84d0bebba607a125a4ac6ba97db7c5",
+        "color.tertiary.tertiary-container-variant": "dd37e8d7b6ece841f4b4de304fda639336504c96",
+        "color.surface.surface-default": "b710d1896d4285dde8bbb73578cc128d0d3447d3",
+        "color.surface.on-surface": "d8c366b6d8ee4763540dbd36ea50189313233f7b",
+        "color.surface.surface-variant": "d7177bc42365bebfba7a77dc0a50240b6ec2c086",
+        "color.surface.on-surface-variant": "bc2d7e7f23ae9e9d7484c5b56c62587ca7fdad29",
+        "color.surface.inverse-surface": "9836222291345894cafec9f944a97420862db8aa",
+        "color.surface.on-inverse-surface": "2d48d754debf61b7233c48a9f94075c4ff8e5bfd",
+        "color.surface.surface-container-low": "9da3c15e2bf9e34d666036c14b768eb9e3784492",
+        "color.surface.surface-container-medium": "ee731c471c98709b20856b220ae5ed53ee3579b0",
+        "color.surface.surface-container-high": "592550d0cabf274953c3eabfd346db1181e0bfa6",
+        "color.outline.outline-default": "a6eef40adb39c02390f7de7c25857648a84a9229",
+        "color.outline.outline-variant": "ced5ed572d68265d330364fc35383c75a033dc37",
+        "color.critical.critical-default": "1dc8ba3d80f2c89e3ce5a2327e0c94a97abaa21f",
+        "color.critical.on-critical": "06ad03ce1e15f517fe98f60c5251c2ea0b64f503",
+        "color.critical.critical-container": "89c1d8014f5d27f249d233401a170d699439e43f",
+        "color.critical.on-critical-container": "9f05cc1ffe6d2e68e60eec903c380d2e55b1ebbb",
+        "color.positive.positive-default": "79dd16a54e314338da8cb81f95fc2373b5c71d04",
+        "color.positive.on-positive": "4fcda30732fccf94829591cc8451bfd44a29a625",
+        "color.positive.positive-container": "f4f8cfc28c29f1e59d7c0722e368d631425cdcc6",
+        "color.positive.on-positive-container": "b28892ae08aa614580d587b504e9ebe44f01e09e",
+        "color.info.info-default": "a316629fa9427fbc39f806c7500b91162d9c68b0",
+        "color.info.on-info": "db7cfedbf82226846fce51bcb928984089e5d009",
+        "color.info.info-container": "23ebf78868bcb6af42badf05955f4d50ff44ce2a",
+        "color.info.on-info-container": "69cd74796896c1d33520687d607ea40676992b70",
+        "color.featured.featured-default": "3bd84bae7ba69aefa82cecc9bc367b6b9962cc35",
+        "color.featured.on-featured": "676b341c83e234fbf434e0ad282cbcd583e45b3a",
+        "color.featured.featured-container": "e44acbfb438a79fb5c69e3d3941ed94675462de9",
+        "color.featured.on-featured-container": "cd4600862cceee52c4254e0268413109aeec6517",
+        "color.other.shadow": "6e8a9710772a433cda87a1e4ca1bdca9170a25ab",
+        "color.other.scrim": "651835efd4bda5fc562dcdac9857e01feaa0e42f",
+        "color.other.overlay": "21bb2fa9caf359e2d081eed8e7c89bf79b9bfe30",
+        "font.family.primary": "ab76f6f499953325982df610f9ff54e4973bd6e7",
+        "font.family.secondary": "900af3dd82cb2cfb03d5c2b5c87a85b4316ff7ed",
+        "font.size.xs": "c937e1d1d38e1f158012519ad158762f97f2d210",
+        "font.size.sm": "91058ca0d18d47e61c3534e945e181af758aa238",
+        "font.size.md": "ad3463df286e2480da40ea13d06ca244cd8a58c8",
+        "font.size.lg": "d26a416209679dfb4b1e65a232cd174cbe5910f9",
+        "font.size.xl": "38d48eacff3941b149513b3d8b2346233963e430",
+        "font.size.2xl": "c41646ab4ed92b60a1c1748b54a5dbd1e5a391b7",
+        "font.size.3xl": "8a664e8c46ad66598e42f8ff1742261c407d1bc3",
+        "font.size.4xl": "59a1f151138a4ccda633ba130830a8c7abfb2d2b",
+        "font.size.5xl": "3b82fe7116cbd3d4abc3e2eabe046507102fb626",
+        "font.size.6xl": "8109e1db918de4825f8ef6a6e27cee59ab369c5b",
+        "font.line-height.xs-single": "fdacafe7a27b49a61b217476c6049f716870f8c0",
+        "font.line-height.xs-double": "6aa33c8d401d42468291d42ef10dd14abf645629",
+        "font.line-height.sm-single": "a62d4654d1e50705f80a227468aecca23ea405ce",
+        "font.line-height.sm-double": "06f7a2ddff2357631363223ea303676a42430de5",
+        "font.line-height.md-single": "e91b8bfa1df7f08676db012d20e6ab7ab3d16425",
+        "font.line-height.md-double": "b3afb5eae4b71af1c1e86814fbb36548b04fadfa",
+        "font.line-height.lg-single": "e97ee3e0e54516250df2ec30915dbe64d1abf43e",
+        "font.line-height.lg-double": "18d7ace7d369a1aa15a199c9480250fe7c832088",
+        "font.line-height.xl-single": "be39a0a547fe1775365fad19c979ba01ee157320",
+        "font.line-height.xl-double": "7de0ec89c28bfa1e8cc8d3ade28a1a2b894e064f",
+        "font.line-height.2xl-single": "404216d9071691283cb06ba85b41b38690200c6b",
+        "font.line-height.2xl-double": "3e53183a6c9eb7c24ec593e5700b4c5a29ecaf6d",
+        "font.line-height.3xl-single": "69f06d571dfecdde07b4c312928d66ecc4d4357f",
+        "font.line-height.3xl-double": "1f93711cc090d282b1ae1912dc61d602ae5098c4",
+        "font.line-height.4xl-single": "a371b3464a897c43e8cea2de0f19785c94143613",
+        "font.line-height.4xl-double": "f61f3327c1826a0efe40a7effe75978ab7b22f5e",
+        "font.line-height.5xl-single": "98023510c102505bae492664b3054cb486f20189",
+        "font.line-height.5xl-double": "2fafad64b6e8d5ef702f4e4d015fba4ecbd0281c",
+        "font.line-height.6xl-single": "33904b67c68b9e1f239c8c3ff0222706fbba02ab",
+        "font.line-height.6xl-double": "0fae57e3a8dd9c535577da9aeb224368e668f0c1",
+        "font.weight.regular": "b065818a1fc7962ca2d216a96f1564bf2ce084d7",
+        "font.weight.medium": "b25de2f308f858e1f843a5b7ff82d35aaba0b5a5",
+        "font.weight.bold": "0c93b5c03d7cd58eb3c1271215cc208c5bc16a10",
+        "font.transform": "ad5156bc5f63c302d51f57eb672f771d9b9db55f",
+        "font.decoration": "b8f678ff99241e9b841bf0ae99f8eb8d193feef9",
+        "border.thickness.light": "dd1ecc853c759f62964a78c19fde6b2c0f1b8150",
+        "border.thickness.default": "1c5fe0587a40fe823157a39f42aea98f26576174",
+        "border.thickness.strong": "910c3509a7ba9ba20eaaa06922760fe0da9a830e",
+        "border.radius.xs": "f1c7ae98a9b5e4684b9ee3b4e51e2ab6faee6a28",
+        "border.radius.sm": "a0208f65c105dddafecc94b7f65ab1e063aac0a5",
+        "border.radius.md": "59fe70df15974d37b5362969fc2be276a411c384",
+        "border.radius.lg": "69b4d98af4a5253c322cb7f9ce278fed2ed47266",
+        "border.radius.xl": "3e14a9cadf5f001aeee164878bbe098e8c20a65b",
+        "color.other.on-overlay": "5deb627fc6b7fe77b3de2799ccfda9edef583129"
       },
-      "$figmaCollectionId": "VariableCollectionId:1618:19",
-      "$figmaModeId": "1618:1",
+      "$figmaCollectionId": "VariableCollectionId:8014:48",
+      "$figmaModeId": "8014:1",
       "group": "1.theme"
     },
     {
@@ -2214,42 +2202,42 @@
         "breakpoints": "source"
       },
       "$figmaVariableReferences": {
-        "viewport.r-size": "8fd1326406cfe25ed7e24847202c79ea79d04e96",
-        "viewport.r-min-width": "80cc5ac06407f77d43f6c9136b4cd621b464470e",
-        "viewport.r-max-width": "5dbf3304e328d1a4dd614ced5bf61a67497b33f9",
-        "font.line-height.r-xs-single": "38474c8a982da8508bf48eb84138ed29884a7c97",
-        "font.line-height.r-xs-double": "84f205bb1ebbd00c7d36bbb682302933f147f34b",
-        "font.line-height.r-sm-single": "b70a3f8b9284dbd2261ecd3b3ab9ddfad3426010",
-        "font.line-height.r-sm-double": "c6d403a046cf8c23d6c72e97618f13a91b4ecb7e",
-        "font.line-height.r-md-single": "d7e91d06d6d0929a4719a5bedf0f7221485d2e6f",
-        "font.line-height.r-md-double": "83c52d7201bdbe096c99160a09becf4f8d641b8e",
-        "font.line-height.r-lg-single": "2cfbf8173107325be303e2712cfe08397c33a62d",
-        "font.line-height.r-lg-double": "8f3293c50471a4c67b31a45be97e92774d4cea72",
-        "font.line-height.r-xl-single": "5e6342926e392bf60541df4ab9e2ffa32270551c",
-        "font.line-height.r-xl-double": "6724cfe4474470290c060a6695e5dc9334fa4766",
-        "font.line-height.r-2xl-single": "c6c153799fed666d1e107a63546ae1b89dac6272",
-        "font.line-height.r-2xl-double": "d4d5710ae67684a3bcd03cd7e95089e3224e41a8",
-        "font.line-height.r-3xl-single": "324f2fadff96b500aa2d4fbf6d0645fa7156a42a",
-        "font.line-height.r-3xl-double": "25a706838eb904e54761dc9b5cfe299cb7c7339a",
-        "font.line-height.r-4xl-single": "836a86c1f89d6529cbbb154dcc80a6d866a5f0bf",
-        "font.line-height.r-4xl-double": "61395d23f5242dffcc5210b5aad2866645dd5296",
-        "font.line-height.r-5xl-single": "4bedf4c4d19e1770fdb5e20c71c4b396e4146e7f",
-        "font.line-height.r-5xl-double": "15b274dc146921407d57150534a8f7694eff3fff",
-        "font.line-height.r-6xl-single": "2f1ca85808372f5c43257c5f88b056656e32be82",
-        "font.line-height.r-6xl-double": "530c21c2bf369e3522b2da083c2a4ee73f970499",
-        "font.size.r-xs": "ec8e6f0d6a2612a631ccd45479579b98287b0b31",
-        "font.size.r-sm": "54c48d3bc6e20029cdfd534a9308662f227672a7",
-        "font.size.r-md": "a87de6985d9272a1220fabc85de9929d452d7e81",
-        "font.size.r-lg": "6b614c6267c3f4850274d0359900f1c3e53d2dc2",
-        "font.size.r-xl": "28afa3f34e1740f5c16fb0a70211e2c8d141e805",
-        "font.size.r-2xl": "eed2d24e19f0eca50ca374ee737696b635e1488a",
-        "font.size.r-3xl": "f59ef6722deb5ef2735e74595361da2dd4fee31a",
-        "font.size.r-4xl": "f49c94f6c0b08653fab9ca955934612cf61f1a9f",
-        "font.size.r-5xl": "5b433f9cdb0a7dde83237997ca9f7197370a9784",
-        "font.size.r-6xl": "ba0af10150ea1de065cc41092468d118dea0ff40"
+        "viewport.r-size": "cba54f2d534f05d7c0760591233788e4ea173435",
+        "viewport.r-min-width": "203700c0228f4a3459c9bf9903e8931706336c2f",
+        "viewport.r-max-width": "eb9bd8842da20f93d9882c0687814caebceeb0b9",
+        "font.line-height.r-xs-single": "48a138d280edd01765a484a3dbb3c52770acbf08",
+        "font.line-height.r-xs-double": "58420335d015e1ef8b7b4b1050e2e237b4578bbc",
+        "font.line-height.r-sm-single": "6f415bf0138915ae7b45a5548b8ef7006d539402",
+        "font.line-height.r-sm-double": "20daf398bd74b728f8efc97f74c5686d6052b68e",
+        "font.line-height.r-md-single": "1753c3e4c3044a44bf8cc26eb8ca727b9023326c",
+        "font.line-height.r-md-double": "c519b0406aad22a618427e8849416951bf2dc161",
+        "font.line-height.r-lg-single": "c0f76d0bbcd7120bd4c893844deb1801b8af8670",
+        "font.line-height.r-lg-double": "6f4d3da40bc7257b2f7129e9fb41913294e7d2d1",
+        "font.line-height.r-xl-single": "ef6e72083bce03a348154a3e758e6a7ff351913c",
+        "font.line-height.r-xl-double": "4fbf55b44652df8216c6e941c24302fc94e0f9de",
+        "font.line-height.r-2xl-single": "813d5c9f74a7916a340523171d6eb1fa19f07834",
+        "font.line-height.r-2xl-double": "4ce6baff0ee4af2e699dd6adc091082ac7b997ed",
+        "font.line-height.r-3xl-single": "1bffac93645c01180b144a4741b949b5b1521d5b",
+        "font.line-height.r-3xl-double": "68dc1b9ade89522ae13ab2e417c644c8743cc1ed",
+        "font.line-height.r-4xl-single": "8d2aaea4b2f5db0e8d7f0963e032bea04f3f7701",
+        "font.line-height.r-4xl-double": "ebeb4b03d8961ddf0a0407a679148bbf485bba21",
+        "font.line-height.r-5xl-single": "2347d0bfec2b032476dc0417a2107f654dfb07e8",
+        "font.line-height.r-5xl-double": "d780d3c0a4b9471cd0aa554218d8a6d6d58b8b78",
+        "font.line-height.r-6xl-single": "648ac8bd293b9272e799033ad9bec240a950277b",
+        "font.line-height.r-6xl-double": "9d36b8b0f6fa87594640b56087524189fbd75a0b",
+        "font.size.r-xs": "a3e8b3eeb80b036f405ace37b92704f799a25fc8",
+        "font.size.r-sm": "a241b1bff0ac23b221cceed479b9b908b58bc23c",
+        "font.size.r-md": "0760a2b8b355d50576cf9e4026437dfef2602470",
+        "font.size.r-lg": "c8ca5ef947c7a1c58fc232dc81bfbbbc56f33edf",
+        "font.size.r-xl": "5b43144dd642a3e20327628de9f58b068dfbb741",
+        "font.size.r-2xl": "c1de73df864ef31c4d3e986704a1c479aa0ddec4",
+        "font.size.r-3xl": "f1a164432276e6952885e87e5d522a24a1851ff4",
+        "font.size.r-4xl": "d2c29fd6166ffb3d48a7d29f65d513949eeedf18",
+        "font.size.r-5xl": "61841d86f86a9c4c5d96ea62663fc9aaf654ce96",
+        "font.size.r-6xl": "9a0cd7a8ba33e1bad6c6877d6ac48a4b650860c4"
       },
-      "$figmaCollectionId": "VariableCollectionId:1618:20",
-      "$figmaModeId": "1618:2",
+      "$figmaCollectionId": "VariableCollectionId:8014:49",
+      "$figmaModeId": "8014:2",
       "group": "2.responsive"
     },
     {
@@ -2262,42 +2250,42 @@
         "breakpoints": "source"
       },
       "$figmaVariableReferences": {
-        "viewport.r-size": "8fd1326406cfe25ed7e24847202c79ea79d04e96",
-        "viewport.r-min-width": "80cc5ac06407f77d43f6c9136b4cd621b464470e",
-        "viewport.r-max-width": "5dbf3304e328d1a4dd614ced5bf61a67497b33f9",
-        "font.line-height.r-xs-single": "38474c8a982da8508bf48eb84138ed29884a7c97",
-        "font.line-height.r-xs-double": "84f205bb1ebbd00c7d36bbb682302933f147f34b",
-        "font.line-height.r-sm-single": "b70a3f8b9284dbd2261ecd3b3ab9ddfad3426010",
-        "font.line-height.r-sm-double": "c6d403a046cf8c23d6c72e97618f13a91b4ecb7e",
-        "font.line-height.r-md-single": "d7e91d06d6d0929a4719a5bedf0f7221485d2e6f",
-        "font.line-height.r-md-double": "83c52d7201bdbe096c99160a09becf4f8d641b8e",
-        "font.line-height.r-lg-single": "2cfbf8173107325be303e2712cfe08397c33a62d",
-        "font.line-height.r-lg-double": "8f3293c50471a4c67b31a45be97e92774d4cea72",
-        "font.line-height.r-xl-single": "5e6342926e392bf60541df4ab9e2ffa32270551c",
-        "font.line-height.r-xl-double": "6724cfe4474470290c060a6695e5dc9334fa4766",
-        "font.line-height.r-2xl-single": "c6c153799fed666d1e107a63546ae1b89dac6272",
-        "font.line-height.r-2xl-double": "d4d5710ae67684a3bcd03cd7e95089e3224e41a8",
-        "font.line-height.r-3xl-single": "324f2fadff96b500aa2d4fbf6d0645fa7156a42a",
-        "font.line-height.r-3xl-double": "25a706838eb904e54761dc9b5cfe299cb7c7339a",
-        "font.line-height.r-4xl-single": "836a86c1f89d6529cbbb154dcc80a6d866a5f0bf",
-        "font.line-height.r-4xl-double": "61395d23f5242dffcc5210b5aad2866645dd5296",
-        "font.line-height.r-5xl-single": "4bedf4c4d19e1770fdb5e20c71c4b396e4146e7f",
-        "font.line-height.r-5xl-double": "15b274dc146921407d57150534a8f7694eff3fff",
-        "font.line-height.r-6xl-single": "2f1ca85808372f5c43257c5f88b056656e32be82",
-        "font.line-height.r-6xl-double": "530c21c2bf369e3522b2da083c2a4ee73f970499",
-        "font.size.r-xs": "ec8e6f0d6a2612a631ccd45479579b98287b0b31",
-        "font.size.r-sm": "54c48d3bc6e20029cdfd534a9308662f227672a7",
-        "font.size.r-md": "a87de6985d9272a1220fabc85de9929d452d7e81",
-        "font.size.r-lg": "6b614c6267c3f4850274d0359900f1c3e53d2dc2",
-        "font.size.r-xl": "28afa3f34e1740f5c16fb0a70211e2c8d141e805",
-        "font.size.r-2xl": "eed2d24e19f0eca50ca374ee737696b635e1488a",
-        "font.size.r-3xl": "f59ef6722deb5ef2735e74595361da2dd4fee31a",
-        "font.size.r-4xl": "f49c94f6c0b08653fab9ca955934612cf61f1a9f",
-        "font.size.r-5xl": "5b433f9cdb0a7dde83237997ca9f7197370a9784",
-        "font.size.r-6xl": "ba0af10150ea1de065cc41092468d118dea0ff40"
+        "viewport.r-size": "cba54f2d534f05d7c0760591233788e4ea173435",
+        "viewport.r-min-width": "203700c0228f4a3459c9bf9903e8931706336c2f",
+        "viewport.r-max-width": "eb9bd8842da20f93d9882c0687814caebceeb0b9",
+        "font.line-height.r-xs-single": "48a138d280edd01765a484a3dbb3c52770acbf08",
+        "font.line-height.r-xs-double": "58420335d015e1ef8b7b4b1050e2e237b4578bbc",
+        "font.line-height.r-sm-single": "6f415bf0138915ae7b45a5548b8ef7006d539402",
+        "font.line-height.r-sm-double": "20daf398bd74b728f8efc97f74c5686d6052b68e",
+        "font.line-height.r-md-single": "1753c3e4c3044a44bf8cc26eb8ca727b9023326c",
+        "font.line-height.r-md-double": "c519b0406aad22a618427e8849416951bf2dc161",
+        "font.line-height.r-lg-single": "c0f76d0bbcd7120bd4c893844deb1801b8af8670",
+        "font.line-height.r-lg-double": "6f4d3da40bc7257b2f7129e9fb41913294e7d2d1",
+        "font.line-height.r-xl-single": "ef6e72083bce03a348154a3e758e6a7ff351913c",
+        "font.line-height.r-xl-double": "4fbf55b44652df8216c6e941c24302fc94e0f9de",
+        "font.line-height.r-2xl-single": "813d5c9f74a7916a340523171d6eb1fa19f07834",
+        "font.line-height.r-2xl-double": "4ce6baff0ee4af2e699dd6adc091082ac7b997ed",
+        "font.line-height.r-3xl-single": "1bffac93645c01180b144a4741b949b5b1521d5b",
+        "font.line-height.r-3xl-double": "68dc1b9ade89522ae13ab2e417c644c8743cc1ed",
+        "font.line-height.r-4xl-single": "8d2aaea4b2f5db0e8d7f0963e032bea04f3f7701",
+        "font.line-height.r-4xl-double": "ebeb4b03d8961ddf0a0407a679148bbf485bba21",
+        "font.line-height.r-5xl-single": "2347d0bfec2b032476dc0417a2107f654dfb07e8",
+        "font.line-height.r-5xl-double": "d780d3c0a4b9471cd0aa554218d8a6d6d58b8b78",
+        "font.line-height.r-6xl-single": "648ac8bd293b9272e799033ad9bec240a950277b",
+        "font.line-height.r-6xl-double": "9d36b8b0f6fa87594640b56087524189fbd75a0b",
+        "font.size.r-xs": "a3e8b3eeb80b036f405ace37b92704f799a25fc8",
+        "font.size.r-sm": "a241b1bff0ac23b221cceed479b9b908b58bc23c",
+        "font.size.r-md": "0760a2b8b355d50576cf9e4026437dfef2602470",
+        "font.size.r-lg": "c8ca5ef947c7a1c58fc232dc81bfbbbc56f33edf",
+        "font.size.r-xl": "5b43144dd642a3e20327628de9f58b068dfbb741",
+        "font.size.r-2xl": "c1de73df864ef31c4d3e986704a1c479aa0ddec4",
+        "font.size.r-3xl": "f1a164432276e6952885e87e5d522a24a1851ff4",
+        "font.size.r-4xl": "d2c29fd6166ffb3d48a7d29f65d513949eeedf18",
+        "font.size.r-5xl": "61841d86f86a9c4c5d96ea62663fc9aaf654ce96",
+        "font.size.r-6xl": "9a0cd7a8ba33e1bad6c6877d6ac48a4b650860c4"
       },
-      "$figmaCollectionId": "VariableCollectionId:1618:20",
-      "$figmaModeId": "1618:3",
+      "$figmaCollectionId": "VariableCollectionId:8014:49",
+      "$figmaModeId": "8014:3",
       "group": "2.responsive"
     },
     {
@@ -2310,42 +2298,42 @@
         "breakpoints": "source"
       },
       "$figmaVariableReferences": {
-        "viewport.r-size": "8fd1326406cfe25ed7e24847202c79ea79d04e96",
-        "viewport.r-min-width": "80cc5ac06407f77d43f6c9136b4cd621b464470e",
-        "viewport.r-max-width": "5dbf3304e328d1a4dd614ced5bf61a67497b33f9",
-        "font.line-height.r-xs-single": "38474c8a982da8508bf48eb84138ed29884a7c97",
-        "font.line-height.r-xs-double": "84f205bb1ebbd00c7d36bbb682302933f147f34b",
-        "font.line-height.r-sm-single": "b70a3f8b9284dbd2261ecd3b3ab9ddfad3426010",
-        "font.line-height.r-sm-double": "c6d403a046cf8c23d6c72e97618f13a91b4ecb7e",
-        "font.line-height.r-md-single": "d7e91d06d6d0929a4719a5bedf0f7221485d2e6f",
-        "font.line-height.r-md-double": "83c52d7201bdbe096c99160a09becf4f8d641b8e",
-        "font.line-height.r-lg-single": "2cfbf8173107325be303e2712cfe08397c33a62d",
-        "font.line-height.r-lg-double": "8f3293c50471a4c67b31a45be97e92774d4cea72",
-        "font.line-height.r-xl-single": "5e6342926e392bf60541df4ab9e2ffa32270551c",
-        "font.line-height.r-xl-double": "6724cfe4474470290c060a6695e5dc9334fa4766",
-        "font.line-height.r-2xl-single": "c6c153799fed666d1e107a63546ae1b89dac6272",
-        "font.line-height.r-2xl-double": "d4d5710ae67684a3bcd03cd7e95089e3224e41a8",
-        "font.line-height.r-3xl-single": "324f2fadff96b500aa2d4fbf6d0645fa7156a42a",
-        "font.line-height.r-3xl-double": "25a706838eb904e54761dc9b5cfe299cb7c7339a",
-        "font.line-height.r-4xl-single": "836a86c1f89d6529cbbb154dcc80a6d866a5f0bf",
-        "font.line-height.r-4xl-double": "61395d23f5242dffcc5210b5aad2866645dd5296",
-        "font.line-height.r-5xl-single": "4bedf4c4d19e1770fdb5e20c71c4b396e4146e7f",
-        "font.line-height.r-5xl-double": "15b274dc146921407d57150534a8f7694eff3fff",
-        "font.line-height.r-6xl-single": "2f1ca85808372f5c43257c5f88b056656e32be82",
-        "font.line-height.r-6xl-double": "530c21c2bf369e3522b2da083c2a4ee73f970499",
-        "font.size.r-xs": "ec8e6f0d6a2612a631ccd45479579b98287b0b31",
-        "font.size.r-sm": "54c48d3bc6e20029cdfd534a9308662f227672a7",
-        "font.size.r-md": "a87de6985d9272a1220fabc85de9929d452d7e81",
-        "font.size.r-lg": "6b614c6267c3f4850274d0359900f1c3e53d2dc2",
-        "font.size.r-xl": "28afa3f34e1740f5c16fb0a70211e2c8d141e805",
-        "font.size.r-2xl": "eed2d24e19f0eca50ca374ee737696b635e1488a",
-        "font.size.r-3xl": "f59ef6722deb5ef2735e74595361da2dd4fee31a",
-        "font.size.r-4xl": "f49c94f6c0b08653fab9ca955934612cf61f1a9f",
-        "font.size.r-5xl": "5b433f9cdb0a7dde83237997ca9f7197370a9784",
-        "font.size.r-6xl": "ba0af10150ea1de065cc41092468d118dea0ff40"
+        "viewport.r-size": "cba54f2d534f05d7c0760591233788e4ea173435",
+        "viewport.r-min-width": "203700c0228f4a3459c9bf9903e8931706336c2f",
+        "viewport.r-max-width": "eb9bd8842da20f93d9882c0687814caebceeb0b9",
+        "font.line-height.r-xs-single": "48a138d280edd01765a484a3dbb3c52770acbf08",
+        "font.line-height.r-xs-double": "58420335d015e1ef8b7b4b1050e2e237b4578bbc",
+        "font.line-height.r-sm-single": "6f415bf0138915ae7b45a5548b8ef7006d539402",
+        "font.line-height.r-sm-double": "20daf398bd74b728f8efc97f74c5686d6052b68e",
+        "font.line-height.r-md-single": "1753c3e4c3044a44bf8cc26eb8ca727b9023326c",
+        "font.line-height.r-md-double": "c519b0406aad22a618427e8849416951bf2dc161",
+        "font.line-height.r-lg-single": "c0f76d0bbcd7120bd4c893844deb1801b8af8670",
+        "font.line-height.r-lg-double": "6f4d3da40bc7257b2f7129e9fb41913294e7d2d1",
+        "font.line-height.r-xl-single": "ef6e72083bce03a348154a3e758e6a7ff351913c",
+        "font.line-height.r-xl-double": "4fbf55b44652df8216c6e941c24302fc94e0f9de",
+        "font.line-height.r-2xl-single": "813d5c9f74a7916a340523171d6eb1fa19f07834",
+        "font.line-height.r-2xl-double": "4ce6baff0ee4af2e699dd6adc091082ac7b997ed",
+        "font.line-height.r-3xl-single": "1bffac93645c01180b144a4741b949b5b1521d5b",
+        "font.line-height.r-3xl-double": "68dc1b9ade89522ae13ab2e417c644c8743cc1ed",
+        "font.line-height.r-4xl-single": "8d2aaea4b2f5db0e8d7f0963e032bea04f3f7701",
+        "font.line-height.r-4xl-double": "ebeb4b03d8961ddf0a0407a679148bbf485bba21",
+        "font.line-height.r-5xl-single": "2347d0bfec2b032476dc0417a2107f654dfb07e8",
+        "font.line-height.r-5xl-double": "d780d3c0a4b9471cd0aa554218d8a6d6d58b8b78",
+        "font.line-height.r-6xl-single": "648ac8bd293b9272e799033ad9bec240a950277b",
+        "font.line-height.r-6xl-double": "9d36b8b0f6fa87594640b56087524189fbd75a0b",
+        "font.size.r-xs": "a3e8b3eeb80b036f405ace37b92704f799a25fc8",
+        "font.size.r-sm": "a241b1bff0ac23b221cceed479b9b908b58bc23c",
+        "font.size.r-md": "0760a2b8b355d50576cf9e4026437dfef2602470",
+        "font.size.r-lg": "c8ca5ef947c7a1c58fc232dc81bfbbbc56f33edf",
+        "font.size.r-xl": "5b43144dd642a3e20327628de9f58b068dfbb741",
+        "font.size.r-2xl": "c1de73df864ef31c4d3e986704a1c479aa0ddec4",
+        "font.size.r-3xl": "f1a164432276e6952885e87e5d522a24a1851ff4",
+        "font.size.r-4xl": "d2c29fd6166ffb3d48a7d29f65d513949eeedf18",
+        "font.size.r-5xl": "61841d86f86a9c4c5d96ea62663fc9aaf654ce96",
+        "font.size.r-6xl": "9a0cd7a8ba33e1bad6c6877d6ac48a4b650860c4"
       },
-      "$figmaCollectionId": "VariableCollectionId:1618:20",
-      "$figmaModeId": "1618:4",
+      "$figmaCollectionId": "VariableCollectionId:8014:49",
+      "$figmaModeId": "8014:4",
       "group": "2.responsive"
     },
     {
@@ -2358,42 +2346,42 @@
         "responsive/xs": "enabled"
       },
       "$figmaVariableReferences": {
-        "viewport.r-size": "8fd1326406cfe25ed7e24847202c79ea79d04e96",
-        "viewport.r-min-width": "80cc5ac06407f77d43f6c9136b4cd621b464470e",
-        "viewport.r-max-width": "5dbf3304e328d1a4dd614ced5bf61a67497b33f9",
-        "font.line-height.r-xs-single": "38474c8a982da8508bf48eb84138ed29884a7c97",
-        "font.line-height.r-xs-double": "84f205bb1ebbd00c7d36bbb682302933f147f34b",
-        "font.line-height.r-sm-single": "b70a3f8b9284dbd2261ecd3b3ab9ddfad3426010",
-        "font.line-height.r-sm-double": "c6d403a046cf8c23d6c72e97618f13a91b4ecb7e",
-        "font.line-height.r-md-single": "d7e91d06d6d0929a4719a5bedf0f7221485d2e6f",
-        "font.line-height.r-md-double": "83c52d7201bdbe096c99160a09becf4f8d641b8e",
-        "font.line-height.r-lg-single": "2cfbf8173107325be303e2712cfe08397c33a62d",
-        "font.line-height.r-lg-double": "8f3293c50471a4c67b31a45be97e92774d4cea72",
-        "font.line-height.r-xl-single": "5e6342926e392bf60541df4ab9e2ffa32270551c",
-        "font.line-height.r-xl-double": "6724cfe4474470290c060a6695e5dc9334fa4766",
-        "font.line-height.r-2xl-single": "c6c153799fed666d1e107a63546ae1b89dac6272",
-        "font.line-height.r-2xl-double": "d4d5710ae67684a3bcd03cd7e95089e3224e41a8",
-        "font.line-height.r-3xl-single": "324f2fadff96b500aa2d4fbf6d0645fa7156a42a",
-        "font.line-height.r-3xl-double": "25a706838eb904e54761dc9b5cfe299cb7c7339a",
-        "font.line-height.r-4xl-single": "836a86c1f89d6529cbbb154dcc80a6d866a5f0bf",
-        "font.line-height.r-4xl-double": "61395d23f5242dffcc5210b5aad2866645dd5296",
-        "font.line-height.r-5xl-single": "4bedf4c4d19e1770fdb5e20c71c4b396e4146e7f",
-        "font.line-height.r-5xl-double": "15b274dc146921407d57150534a8f7694eff3fff",
-        "font.line-height.r-6xl-single": "2f1ca85808372f5c43257c5f88b056656e32be82",
-        "font.line-height.r-6xl-double": "530c21c2bf369e3522b2da083c2a4ee73f970499",
-        "font.size.r-xs": "ec8e6f0d6a2612a631ccd45479579b98287b0b31",
-        "font.size.r-sm": "54c48d3bc6e20029cdfd534a9308662f227672a7",
-        "font.size.r-md": "a87de6985d9272a1220fabc85de9929d452d7e81",
-        "font.size.r-lg": "6b614c6267c3f4850274d0359900f1c3e53d2dc2",
-        "font.size.r-xl": "28afa3f34e1740f5c16fb0a70211e2c8d141e805",
-        "font.size.r-2xl": "eed2d24e19f0eca50ca374ee737696b635e1488a",
-        "font.size.r-3xl": "f59ef6722deb5ef2735e74595361da2dd4fee31a",
-        "font.size.r-4xl": "f49c94f6c0b08653fab9ca955934612cf61f1a9f",
-        "font.size.r-5xl": "5b433f9cdb0a7dde83237997ca9f7197370a9784",
-        "font.size.r-6xl": "ba0af10150ea1de065cc41092468d118dea0ff40"
+        "viewport.r-size": "cba54f2d534f05d7c0760591233788e4ea173435",
+        "viewport.r-min-width": "203700c0228f4a3459c9bf9903e8931706336c2f",
+        "viewport.r-max-width": "eb9bd8842da20f93d9882c0687814caebceeb0b9",
+        "font.line-height.r-xs-single": "48a138d280edd01765a484a3dbb3c52770acbf08",
+        "font.line-height.r-xs-double": "58420335d015e1ef8b7b4b1050e2e237b4578bbc",
+        "font.line-height.r-sm-single": "6f415bf0138915ae7b45a5548b8ef7006d539402",
+        "font.line-height.r-sm-double": "20daf398bd74b728f8efc97f74c5686d6052b68e",
+        "font.line-height.r-md-single": "1753c3e4c3044a44bf8cc26eb8ca727b9023326c",
+        "font.line-height.r-md-double": "c519b0406aad22a618427e8849416951bf2dc161",
+        "font.line-height.r-lg-single": "c0f76d0bbcd7120bd4c893844deb1801b8af8670",
+        "font.line-height.r-lg-double": "6f4d3da40bc7257b2f7129e9fb41913294e7d2d1",
+        "font.line-height.r-xl-single": "ef6e72083bce03a348154a3e758e6a7ff351913c",
+        "font.line-height.r-xl-double": "4fbf55b44652df8216c6e941c24302fc94e0f9de",
+        "font.line-height.r-2xl-single": "813d5c9f74a7916a340523171d6eb1fa19f07834",
+        "font.line-height.r-2xl-double": "4ce6baff0ee4af2e699dd6adc091082ac7b997ed",
+        "font.line-height.r-3xl-single": "1bffac93645c01180b144a4741b949b5b1521d5b",
+        "font.line-height.r-3xl-double": "68dc1b9ade89522ae13ab2e417c644c8743cc1ed",
+        "font.line-height.r-4xl-single": "8d2aaea4b2f5db0e8d7f0963e032bea04f3f7701",
+        "font.line-height.r-4xl-double": "ebeb4b03d8961ddf0a0407a679148bbf485bba21",
+        "font.line-height.r-5xl-single": "2347d0bfec2b032476dc0417a2107f654dfb07e8",
+        "font.line-height.r-5xl-double": "d780d3c0a4b9471cd0aa554218d8a6d6d58b8b78",
+        "font.line-height.r-6xl-single": "648ac8bd293b9272e799033ad9bec240a950277b",
+        "font.line-height.r-6xl-double": "9d36b8b0f6fa87594640b56087524189fbd75a0b",
+        "font.size.r-xs": "a3e8b3eeb80b036f405ace37b92704f799a25fc8",
+        "font.size.r-sm": "a241b1bff0ac23b221cceed479b9b908b58bc23c",
+        "font.size.r-md": "0760a2b8b355d50576cf9e4026437dfef2602470",
+        "font.size.r-lg": "c8ca5ef947c7a1c58fc232dc81bfbbbc56f33edf",
+        "font.size.r-xl": "5b43144dd642a3e20327628de9f58b068dfbb741",
+        "font.size.r-2xl": "c1de73df864ef31c4d3e986704a1c479aa0ddec4",
+        "font.size.r-3xl": "f1a164432276e6952885e87e5d522a24a1851ff4",
+        "font.size.r-4xl": "d2c29fd6166ffb3d48a7d29f65d513949eeedf18",
+        "font.size.r-5xl": "61841d86f86a9c4c5d96ea62663fc9aaf654ce96",
+        "font.size.r-6xl": "9a0cd7a8ba33e1bad6c6877d6ac48a4b650860c4"
       },
-      "$figmaCollectionId": "VariableCollectionId:1618:20",
-      "$figmaModeId": "1618:5",
+      "$figmaCollectionId": "VariableCollectionId:8014:49",
+      "$figmaModeId": "8014:5",
       "group": "2.responsive"
     }
   ],
