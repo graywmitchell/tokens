@@ -1049,11 +1049,11 @@
           "type": "dimension"
         },
         "lg": {
-          "value": "{border.radius.16}",
+          "value": "{border.radius.none}",
           "type": "dimension"
         },
         "xl": {
-          "value": "{border.radius.max}",
+          "value": "{border.radius.none}",
           "type": "dimension"
         }
       }
@@ -1457,11 +1457,11 @@
           "type": "dimension"
         },
         "lg": {
-          "value": "{border.radius.16}",
+          "value": "{border.radius.none}",
           "type": "dimension"
         },
         "xl": {
-          "value": "{border.radius.max}",
+          "value": "{border.radius.none}",
           "type": "dimension"
         }
       }
