@@ -1003,7 +1003,7 @@
           "type": "fontWeights"
         },
         "medium": {
-          "value": "{font.font-weight.light}",
+          "value": "{font.font-weight.medium}",
           "type": "fontWeights"
         },
         "bold": {
@@ -1411,7 +1411,7 @@
           "type": "fontWeights"
         },
         "medium": {
-          "value": "{font.font-weight.light}",
+          "value": "{font.font-weight.medium}",
           "type": "fontWeights"
         },
         "bold": {
